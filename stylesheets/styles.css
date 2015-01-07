@@ -32,6 +32,11 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+nav {
+  width:960px;
+  margin:0 auto;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
