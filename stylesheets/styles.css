@@ -61,7 +61,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -120,7 +120,7 @@ img {
 }
 
 header {
-  width:200px;
+  width:270px;
   float:left;
   position:fixed;
 }
