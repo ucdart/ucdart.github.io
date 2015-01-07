@@ -32,6 +32,17 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 a {
   color:#39c;
   font-weight:400;
