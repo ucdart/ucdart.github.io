@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Dr. Liu Awarded a Hellman Foundation Fellowship" 
 date: 2013-07-01
 category: news
