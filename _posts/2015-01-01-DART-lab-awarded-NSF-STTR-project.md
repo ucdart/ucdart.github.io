@@ -1,5 +1,5 @@
 ---
-layout: layout 
+layout: post
 title: "DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device"
 date: 2015-01-01
 category: news
