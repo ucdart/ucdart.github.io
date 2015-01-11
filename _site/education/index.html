@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
+			<title>UCDart::Education</title>
 			<!-- link to main stylesheet -->
 			<link rel="shortcut icon" type="image/x-icon" href="/ucdart.ico">
 			<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
@@ -49,11 +49,17 @@
 			</p>
 			
 			<ul>
-				{% for post in site.posts limit:3 %}
-					{% if post.categories contains 'news' %}
-	    				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  				{% endif %}
-	  			{% endfor %}
+				
+					
+	    				<li><span>01 Jan 2015</span> » <a href="/blog/2015/01/01/DART-lab-awarded-NSF-STTR-project" title="DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device">DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device</a></li>
+	  				
+	  			
+					
+	    				<li><span>01 Nov 2014</span> » <a href="/blog/2014/11/01/DART-lab-awarded-NSF-project-EARS" title="DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum">DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum</a></li>
+	  				
+	  			
+					
+	  			
 			</ul>
 			
 			<p>
@@ -63,7 +69,8 @@
 			</header>
       		
       		<section>
-				{{ content }}
+				teaching stuff goes here
+
 				
       		</section>
 			

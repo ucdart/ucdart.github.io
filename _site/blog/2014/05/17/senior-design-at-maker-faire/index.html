@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
+			<title>Senior Design Showcase at 2014 Bay Area Makre Faire</title>
 			<!-- link to main stylesheet -->
 			<link rel="shortcut icon" type="image/x-icon" href="/ucdart.ico">
 			<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
@@ -49,11 +49,17 @@
 			</p>
 			
 			<ul>
-				{% for post in site.posts limit:3 %}
-					{% if post.categories contains 'news' %}
-	    				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  				{% endif %}
-	  			{% endfor %}
+				
+					
+	    				<li><span>01 Jan 2015</span> » <a href="/blog/2015/01/01/DART-lab-awarded-NSF-STTR-project" title="DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device">DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device</a></li>
+	  				
+	  			
+					
+	    				<li><span>01 Nov 2014</span> » <a href="/blog/2014/11/01/DART-lab-awarded-NSF-project-EARS" title="DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum">DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum</a></li>
+	  				
+	  			
+					
+	  			
 			</ul>
 			
 			<p>
@@ -63,7 +69,20 @@
 			</header>
       		
       		<section>
-				{{ content }}
+				<section>
+  <h3>Senior Design Showcase at 2014 Bay Area Makre Faire</h3>
+    <p class="meta">17 May 2014</p>
+
+    <div class="post">
+      <iframe width="560" height="315" src="//www.youtube.com/embed/nHDUjJCvMVo" frameborder="0" allowfullscreen></iframe>
+
+<p>
+Students of the EEC 134 senior design project are showcasing their design, a radar shield for Arduino, at the 2014 Maker Faire in San Mateo. We plan to open source both the hardware and the software of the design. Visit our senior design page for more information on the course. AND stay tuned for more photos, videos, and an updated website.
+</p>
+
+    </div>
+</section>
+
 				
       		</section>
 			
