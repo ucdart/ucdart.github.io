@@ -1,4 +1,4 @@
---
+---
 layout: default
 title: "Test page"
 ---
@@ -7,7 +7,7 @@ title: "Test page"
 
 <ul>
 	{% for paper in site.publication %}
-		<li><span>{{ paper.author }} and {{ paper.title }}</span></li>
+		<li><span>{{ paper.author }}, {{ paper.title }} <i> {{ paper.journal }}</i>, {{ paper.month }}, {{ paper.year }}.  </span></li>
 	{% endfor %}
 </ul>
 
