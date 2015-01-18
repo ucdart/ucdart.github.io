@@ -45,6 +45,7 @@ It is necessary to use a trick when creating an empty page in Latex. The followi
 The major part is \mbox{}, which ensures the existence of an empty page.
 
 The usage of \thispagestyle is \thispagestyle{option}. The option can be:
+
 * plain - Just a plain page number.
 * empty - Produces empty heads and feet - no page numbers.
 * headings - Puts running headings on each page. The document style specifies what goes in the headings.
