@@ -6,15 +6,12 @@ published: true
 
 ## {{ page.title}}
 
-Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic information on LaTeX. Some great introductory tutorials on LaTeX include [The Not So Short Introduction to LaTeX2e](http://tobi.oetiker.ch/lshort/lshort.pdf) by [Tobi Oetiker](http://tobi.oetiker.ch/hp/) and the [LATEX Tutorials -- A PRIMER](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) by the Indian Tex User Group. The <a class="ext" href="http://en.wikibooks.org/wiki/LaTeX">LaTeX Wikibook</a> is also a great start point. Intermediate level users may find <em>"Guide to LaTeX: Tools and Techniques for Computer Typesetting"</em> by Helmut Kopka and Patrick W. Daly useful.<br/>
+Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic information on LaTeX. Some great introductory tutorials on LaTeX include [The Not So Short Introduction to LaTeX2e](http://tobi.oetiker.ch/lshort/lshort.pdf) by [Tobi Oetiker](http://tobi.oetiker.ch/hp/) and the [LATEX Tutorials -- A PRIMER](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) by the Indian Tex User Group. The [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX) is also a great start point. Intermediate level users may find <em>"Guide to LaTeX: Tools and Techniques for Computer Typesetting"</em> by Helmut Kopka and Patrick W. Daly useful.
 
 
-<p>
-The following sections list some tips and workarounds that can be useful when you compose a manuscript in LaTeX.<br/>
-</p>
+The following sections list some tips and workarounds that can be useful when you compose a manuscript in LaTeX.
 
-<h3> UC Davis Thesis Template </h3>
-<a href="http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis"> http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis </a>
+### UC Davis Thesis Template [http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
 
 <h3> LaTeX editors </h3>
 <a href="https://eclipse.org/" target=_blank>Eclipse</a>+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. 
