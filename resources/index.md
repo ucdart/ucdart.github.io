@@ -16,4 +16,8 @@ published: true
 
 ### Technical
 
+* [Microwave101](http://www.microwaves101.com/)
 * [EEVblog](http://www.youtube.com/user/EEVblog?feature=watch)
+
+### Misc
+* [The Unofficial MTT Symposium Website](http://www.nonlintec.com/mttsymposium/)
