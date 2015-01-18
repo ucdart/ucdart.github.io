@@ -13,7 +13,7 @@ The following sections list some tips and workarounds that can be useful when yo
 
 ### UC Davis Thesis Template
 
-[http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
+http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis
 
 ### LaTeX editors 
 
