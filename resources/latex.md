@@ -34,14 +34,18 @@ From: [http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html](ttp://n
 
 It is necessary to use a trick when creating an empty page in Latex. The following code does the job:
 
-> \newpage
-> \thispagestyle{empty}
-> \mbox{}
+<div class="code">
+  <pre>
+\newpage
+\thispagestyle{empty}
+\mbox{}
+  </pre>
+</div>
 
 The major part is \mbox{}, which ensures the existence of an empty page.
 
 The usage of \thispagestyle is \thispagestyle{option}. The option can be:
-- plain - Just a plain page number.
-- empty - Produces empty heads and feet - no page numbers.
-- headings - Puts running headings on each page. The document style specifies what goes in the headings.
-- myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.
+* plain - Just a plain page number.
+* empty - Produces empty heads and feet - no page numbers.
+* headings - Puts running headings on each page. The document style specifies what goes in the headings.
+* myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.
