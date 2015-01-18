@@ -11,35 +11,32 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
 
 The following sections list some tips and workarounds that can be useful when you compose a manuscript in LaTeX.
 
-### UC Davis Thesis Template [http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
+### UC Davis Thesis Template
 
-<h3> LaTeX editors </h3>
-<a href="https://eclipse.org/" target=_blank>Eclipse</a>+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. 
+[http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
 
-<ul>
-  <li> Installation:
-	<ul>
-      <li> Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java. </li>
-      <li> Install Texlipse through software update. An instruction can be found here: <a href="http://texlipse.sourceforge.net/manual/installation.html" target=_blank>http://texlipse.sourceforge.net/manual/installation.html</a> </li>
-    </ul>
-    <li>The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.</li>
-</ul>
+### LaTeX editors 
 
-<a href="http://texstudio.sourceforge.net/" target=_blank>Texstudio</a> is also a highly recommended editor with a fairly complete set of functionalities. 
+[Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. 
 
-<h3> Document Structure </h3>
-<h4> Create an empty page </h4>
-From: <a href="http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html">http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html</a>
+* Installation:
+   * Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.
+   * Install Texlipse through software update. An instruction can be found here: <a href="http://texlipse.sourceforge.net/manual/installation.html" target=_blank>http://texlipse.sourceforge.net/manual/installation.html</a>
 
-<p>It is necessary to use a trick when creating an empty page in Latex. The following code does the job:</p>
+*The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
 
-<div class="code">
-  <pre>
-\newpage
-\thispagestyle{empty}
-\mbox{}
-  </pre>
-</div>
+[Texstudio](http://texstudio.sourceforge.net) is also a highly recommended editor with a fairly complete set of functionalities. 
+
+### Document Structure
+
+### Create an empty page
+From: [http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html](ttp://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html)
+
+It is necessary to use a trick when creating an empty page in Latex. The following code does the job:
+
+> \newpage
+> \thispagestyle{empty}
+> \mbox{}
 
 The major part is \mbox{}, which ensures the existence of an empty page.
 
