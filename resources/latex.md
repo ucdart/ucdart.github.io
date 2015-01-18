@@ -11,10 +11,6 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
 
 The following sections list some tips and workarounds that can be useful when you compose a manuscript in LaTeX.
 
-### UC Davis Thesis Template
-
-http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis
-
 ### LaTeX editors 
 
 [Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. 
@@ -23,9 +19,19 @@ http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis
    * Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.
    * Install Texlipse through software update. An instruction can be found here: <a href="http://texlipse.sourceforge.net/manual/installation.html" target=_blank>http://texlipse.sourceforge.net/manual/installation.html</a>
 
-*The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
+* The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
 
 [Texstudio](http://texstudio.sourceforge.net) is also a highly recommended editor with a fairly complete set of functionalities. 
+
+### LaTeX Templates
+
+Perhaps the best way to get started in LaTeX is to use a template. 
+
+* [UC Davis dissertation template](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
+* [IEEE conference templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
+* [IEEE journal templates](http://www.ieee.org/publications_standards/publications/authors/author_templates.html)
+
+Be sure to check the conference or journal website for thier 
 
 ### Document Structure
 
