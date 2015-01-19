@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Latex resources</title>
+			<!-- link to main stylesheet -->
+			<link rel="shortcut icon" type="image/x-icon" href="/ucdart.ico">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css">
+		
+		<!--	
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+	        		<li><a href="/people">People</a></li>
+		        	<li><a href="/research">Research</a></li>
+	        		<li><a href="/education">Education</a></li>
+	        		<li><a href="/resources">Resources</a></li>
+				<li><a href="/facility">Facilities</a></li>
+	    		</ul>
+			</nav>
+		-->
+		
+		</head>
+		<body>
+
+			<!-- <div class="container"> -->
+			<div class="wrapper">
+			<header>
+        			<h1>Davis Adaptive RF Technology Lab</h1>
+				<p></p>
+			<!--
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home<br></a></li>
+	        		<li><a href="/people">People<br></a></li>
+		        	<li><a href="/research">Research<br></a></li>
+	        		<li><a href="/education">Education<br></a></li>
+	        		<li><a href="/resources">Resources<br></a></li>
+				<li><a href="/facility">Facilities<br></a></li>
+	    		</ul>
+			</nav>
+			-->
+			<p>
+				<a href="/">Home</a> | <a href="/people">People | <a href="/research">Research | <a href="/education">Education | <a href="/resources">Resources | <a href="/facility">Facilities | <a href="https://github.com/ucdart">GitHub</a> | <a href="/test.html">Test</a> |
+			</p>
+			
+			<p>
+				<a href="/news"><u>News</u></a>
+			</p>
+			
+			<ul>
+				
+					
+	    				<li><span>01 Jan 2015</span> » <a href="/blog/2015/01/01/DART-lab-awarded-NSF-STTR-project" title="DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device">DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device</a></li>
+	  				
+	  			
+					
+	    				<li><span>01 Nov 2014</span> » <a href="/blog/2014/11/01/DART-lab-awarded-NSF-project-EARS" title="DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum">DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum</a></li>
+	  				
+	  			
+					
+	  			
+			</ul>
+			
+			<p>
+	        		<a href="mailto:dart.ucdavis@gmail.com">email</a>
+			</p>
+			
+			</header>
+      		
+      		<section>
+				<h2 id="latex-resources">Latex resources</h2>
+
+<p>Refer to the <a href="http://en.wikipedia.org/wiki/LaTeX">Wikipedia entry</a> for basic information on LaTeX. Some great introductory tutorials on LaTeX include <a href="http://tobi.oetiker.ch/lshort/lshort.pdf">The Not So Short Introduction to LaTeX2e</a> by <a href="http://tobi.oetiker.ch/hp/">Tobi Oetiker</a> and the <a href="https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf">LATEX Tutorials – A PRIMER</a> by the Indian Tex User Group. The <a href="http://en.wikibooks.org/wiki/LaTeX">LaTeX Wikibook</a> is also a great start point. Intermediate level users may find <em>“Guide to LaTeX: Tools and Techniques for Computer Typesetting”</em> by Helmut Kopka and Patrick W. Daly useful.</p>
+
+<h3 id="latex-editors">LaTeX editors</h3>
+
+<p><a href="https://eclipse.org/">Eclipse</a>+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. </p>
+
+<ul>
+  <li>Installation:
+    <ul>
+      <li>Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.</li>
+      <li>Install Texlipse through software update. An instruction can be found here: &lt;a href=”http://texlipse.sourceforge.net/manual/installation.html” target=_blank&gt;http://texlipse.sourceforge.net/manual/installation.html&lt;/a&gt;</li>
+    </ul>
+  </li>
+  <li>The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go “File-&gt;Import-&gt;Existing Projects into Workspace”. Then select the directory where the project folder resides.</li>
+</ul>
+
+<p><a href="http://texstudio.sourceforge.net">Texstudio</a> is also a highly recommended editor with a fairly complete set of functionalities. </p>
+
+<h3 id="latex-templates">LaTeX Templates</h3>
+
+<p>Perhaps the best way to get started in LaTeX is to use a template. </p>
+
+<ul>
+  <li><a href="http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis">UC Davis dissertation template</a></li>
+  <li><a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE conference templates</a></li>
+  <li><a href="http://www.ieee.org/publications_standards/publications/authors/author_templates.html">IEEE journal templates</a></li>
+</ul>
+
+<p>Be sure to check the conference or journal website for thier </p>
+
+<h3 id="document-structure">Document Structure</h3>
+
+<h4 id="create-an-empty-page">Create an empty page</h4>
+
+<p>From: <a href="ttp://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html">http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html</a></p>
+
+<p>It is necessary to use a trick when creating an empty page in Latex. The following code does the job:</p>
+
+<div class="code">
+  <pre>
+\newpage
+\thispagestyle{empty}
+\mbox{}
+  </pre>
+</div>
+
+<p>The major part is \mbox{}, which ensures the existence of an empty page.</p>
+
+<p>The usage of \thispagestyle is \thispagestyle{option}. The option can be:</p>
+
+<ul>
+  <li>plain - Just a plain page number.</li>
+  <li>empty - Produces empty heads and feet - no page numbers.</li>
+  <li>headings - Puts running headings on each page. The document style specifies what goes in the headings.</li>
+  <li>myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.</li>
+</ul>
+
+<h4 id="width-length-height-and-margin">Width, Length, Height, and Margin</h4>
+
+<p>Source: <a href="http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex">TexExchange</a>:</p>
+
+<p>There are no hard-and-fast rules, but here’s a short list of guidelines:</p>
+
+<ul>
+  <li>“1em” is a horizontal length and “1ex” a vertical one, so use them accordingly (they are horizontal and vertical arbitrarily, but usually you hear people talk about “1em” is the width of an “m” — usually false — and “1ex” is the height of an “x” — usually true). I usually consider 1em to be about the same size as the font size in points.</li>
+  <li>em and ex are relative lengths, so they’re better for designing around text; like you say, an indent of 2em will work whether the fontsize is 9pt or 12pt.</li>
+  <li>Things that are of fixed size (such as the page size) should be defined with fixed units, of course.</li>
+  <li>When things should be relative, it will often make more sense to define them in terms of the page design. For example, width=0.5\linewidth might make more sense than width=5cm for a figure.</li>
+  <li>Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common “PostScript point” used by most other software is 1/72in which in TeX is 1bp. If you’re dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.</li>
+</ul>
+
+				
+      		</section>
+			
+			</div><!-- /.wrapper -->
+			<!--</div> /.container -->
+			<!--
+			<footer>
+
+			</footer>
+		    	-->
+		    	<script src="javascripts/scale.fix.js"></script>
+        			 <script type="text/javascript">
+            				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          			</script>
+          		<script type="text/javascript">
+            			try {
+              				var pageTracker = _gat._getTracker("UA-58268327-1");
+            				pageTracker._trackPageview();
+            			} catch(err) {}
+          		</script>
+		</body>
+	</html>
