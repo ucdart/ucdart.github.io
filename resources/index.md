@@ -18,6 +18,7 @@ published: true
 
 * [Microwave101](http://www.microwaves101.com/)
 * [EEVblog](http://www.youtube.com/user/EEVblog?feature=watch)
+* [Talking Electronics](http://www.talkingelectronics.com/)
 
 ### Misc
 
