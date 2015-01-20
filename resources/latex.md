@@ -69,7 +69,7 @@ There are no hard-and-fast rules, but here's a short list of guidelines:
 
 #### Numbers and Units
 
-In general there should be a space between a number and it's corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by "number\,unit". Sometimes it is also acceptable to use "number~unit". The "~" creates a typical space, which is longer space than the "\,". 
+In general there should be a space between a number and it's corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by "number\,unit". Sometimes it is also acceptable to use "number~unit". The "~" creates a typical space, which is longer than the "\,". 
 
 A better alternative is to use the *siunitx* package. The manual of the package can be found [here](http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf)
 
