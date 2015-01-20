@@ -1,3 +1,7 @@
+---
+layout: default
+title: Publications
+---
 ### Publication
 
 #### Journal
