@@ -11,7 +11,7 @@ published: true
 {% include_relative eec130a-intro.md %}
 
 
-#### [EEC 134 Design of RF/Microwave Systems (Senior project course)]("/education/eec134.html")
+#### [EEC 134 Design of RF/Microwave Systems (Senior project course)](/education/eec134.html)
 
 {% include_relative eec134-intro.md %}
 
