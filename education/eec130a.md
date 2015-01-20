@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}::EEC130A
+title: EEC130A
 ---
 
 #### [EEC 130A Introductory Electromagntics I]("/education/eec130a.html")
