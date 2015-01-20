@@ -102,3 +102,182 @@ A better alternative is to use the *siunitx* package. The manual of the package 
 \SIrange{0.13}{0.67}{\milli\metre}      %\meter can also be used.
 {% endhighlight %}
 
+#### Line spacing in *enumerate* and *itemize* environment
+Use the enumitem package. The manual for the package can be found [here](http://ctan.mackichan.com/macros/latex/contrib/enumitem/enumitem.pdf)
+{% highlight latex %}
+\begin{enumerate}[itemsep=-2mm]
+    \item xxx
+    \item xxx
+\end{enumerate}
+{% endhighlight %}
+
+#### In-line list
+Use the *enumerate\** and *itemize\** environments in the enumitem package. The *inline* option needs to be enabled in the enumitem package. 
+{% highlight latex %}
+\usepackage[inline]{enumitem}
+{% endhighlight %}
+
+#### Indentation in *enumerate* environment
+[Source](http://blog.dreasgrech.com/2010/01/indenting-item-in-enumerate-environment.html)
+{% highlight latex %}
+\newcommand{\indentitem}{\setlength\itemindent{25pt}}
+
+\begin{enumerate}
+\item This item is not indented
+{\indentitem \item This item is indented}
+\item This item is not indented
+{\indentitem \item This item is indented}
+{\indentitem \item This item is indented}
+\item This item is not indented
+\end{enumerate}
+{% endhighlight %}
+
+#### Hyphen, En Dash, Em Dash, ...
+
+{% highlight latex %}
+-              %Hypen: refer to http://owl.english.purdue.edu/owl/resource/576/01/
+--             % En Dash: for indicating a closed range of values, e.g. 1987-1992, or a relationship, e.g. "Score: 96-100"
+---            % Em Dash: used to separate or shift thoughts midstream through a sentence
+{% endhighlight %}
+
+For more information on the use of hyphen, en dash, and em dash, refer to [http://thegrammargang.blogspot.com/2012/07/dash-it-all-whats-point-of-hypen-help.html](http://thegrammargang.blogspot.com/2012/07/dash-it-all-whats-point-of-hypen-help.html)
+
+#### Strike through text
+Striking through texts using a horizontal line can be achieved by using the *soul* package.
+{% highlight latex %}
+\usepackage{soul}
+...
+\st{text to strike through}
+{% endhighlight %}
+
+### Math
+
+#### Upright bold symbols
+
+By default, the \mathbf command does not generate upright bold font for Greek alphabets, which are often used to denote matrices. Use the *bm* package for this purpose.
+{% highlight latex %}
+\usepackage{bm}
+...
+$\bm{\Phi}$
+{% endhighlight %}
+
+#### Center-aligned equations
+Use the gather *environment* (included in the *amsmath* package) to generate a set of equations that are center aligned.
+
+Using multiple \[ \] can generate center aligned equations without equation numbers.
+
+### Tables
+
+#### Multi-page Tables
+
+Use package *longtable*. [Here](http://users.sdsc.edu/~ssmallen/latex/longtable.html) is one example. 
+
+#### Adding notes to table
+
+Use the *threeparttable* package. Below is an example. Source: http://tex.stackexchange.com/questions/12676/add-notes-under-the-table
+
+{% highlight latex %}
+\begin{table}
+  \begin{threeparttable}
+    \caption{Sample ANOVA table}
+     \begin{tabular}{lllll}
+      \toprule
+        Stubhead & \( df \) & \( f \) & \( \eta \) & \( p \) \tnote{$\dagger$} \\
+      \midrule
+        & \multicolumn{4}{c}{Spanning text} \\
+        Row 1 & 1 & 0.67 & 0.55 & 0.41 \\
+        Row 2 & 2 & 0.02 & 0.01 & 0.39 \\
+        Row 3 & 3 & 0.15 & 0.33 & 0.34 \\
+        Row 4 & 4 & 1.00 & 0.76 & 0.54 \\
+      \bottomrule
+    \end{tabular}
+    \begin{tablenotes}
+      \small                    %optional
+      \item [$\dagger$] This is where authors provide additional information about
+      the data, including whatever notes are needed.
+    \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+{% endhighlight %}
+
+### Figures
+
+#### Inserting Figures
+
+The following code works both for LaTeX and pdfLaTeX for inserting figures. 
+
+{% highlight latex %}
+\begin{figure}[t]
+    \centering
+        \includegraphics{FigureFileName}
+        \caption{Caption}
+        \label{fig:label}
+\end{figure}
+{% endhighlight %}
+
+Note that an extension for the figure file name is not specified. When using pdfLaTeX, save the file with extension .pdf; when using LaTeX, save the file with extension .eps.
+
+Also it is very important that the \label command be placed **immediately after** the \caption command. Otherwise the \ref command would reference the last reference-able object, which is often the section label or the previous figure. Putting the \label command consistently before the \caption can be a dangerous practice that may completely disrupt your figure references.
+
+#### Changing Font Size in Caption
+Use the *caption* package. 
+{% highlight latex %}
+\usepackage[font={small,it}]{caption}           % font size can be "large, small, footnotesize, scriptsize,etc"
+{% endhighlight %}
+
+#### Wrap Text Around Figures
+Use the *wrapfig* package.
+
+{% highlight latex %}
+\begin{wrapfigure}{r}{2.4in}            %"r" indicates right aligned. It is also important that the width be set to the actual width of the figure
+   \begin{center}
+     \includegraphics{figure}
+   \end{center}
+   \caption{Caption.}
+\end{wrapfigure}
+{% endhighlight %}
+
+#### Side-by-side Figures
+
+{% highlight latex %}
+\begin{figure}
+\centering
+\begin{minipage}{.5\textwidth}          %alternatively, this could be //\minipage{0.5\textwidth}//
+    \centering 
+    \includegraphics[width=.85\linewidth]{figure1}
+    \captionof{figure}{Caption 1.}
+    \label{fig:1l} 
+\end{minipage}                          %alternatively, this could be //\endminipage//
+\hfill                                      % distribute the two minipages evenly. This has the effect of creating a small gap between the figures if set properly.
+\begin{minipage}{.5\textwidth}          %[IMPORTANT]: there shouldn't be a blank line between the two //minipage// environments
+    \centering
+    \includegraphics[width=.8\linewidth]{figure2}
+    \captionof{figure}{Caption 2.}
+    \label{fig:2}
+\end{minipage}
+\end{figure}
+{% endhighlight %}
+
+#### Figure in tables
+
+{% highlight latex %}
+We can insert figures in tables (see example below, from http://texblog.org/2008/02/04/placing-graphicsimages-inside-a-table/), however the figures placed in tables won't get numbered and won't appear in the automatically generated list of figures.
+
+\begin{table}[ht]
+    \caption{A table arranging images}
+    \centering
+    \begin{tabular}{cc}
+        \includegraphics[scale=1]{graphic1} &   \includegraphics[scale=1]{graphic2}\\
+        \newline
+        \includegraphics[scale=1]{graphic3}&\includegraphics[scale=1]{graphic4}\\
+    \end{tabular}
+    \label{tab:gt}
+\end{table}
+{% endhighlight %}
+
+### Bibliography
+
+#### Hiding references
+
+The *\nobibliography{bibfile}* command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the *bibentry* package.  
+
