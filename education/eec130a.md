@@ -1,3 +1,8 @@
+---
+layout: default
+title: {{ site.name }}::EEC130A
+---
+
 #### [EEC 130A Introductory Electromagntics I]("/education/eec130a.html")
 
 <img src="/images/emwave.png" width="250px" style="float:right; margin:0px;">
