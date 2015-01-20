@@ -14,7 +14,7 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
 
 * Installation:
    * Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.
-   * Install Texlipse through software update. An instruction can be found here: <a href="http://texlipse.sourceforge.net/manual/installation.html" target=_blank>http://texlipse.sourceforge.net/manual/installation.html</a>
+   * Install Texlipse through software update. An instruction can be found here: [http://texlipse.sourceforge.net/manual/installation.html](http://texlipse.sourceforge.net/manual/installation.html)
 
 * The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
 
