@@ -53,7 +53,7 @@ The usage of \thispagestyle is \thispagestyle{option}. The option can be:
 * headings - Puts running headings on each page. The document style specifies what goes in the headings.
 * myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.
 
-#### Width, Length, Height, and Margin
+### Width, Length, Height, and Margin
 
 Source: [TexExchange](http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex):
 
@@ -64,3 +64,41 @@ There are no hard-and-fast rules, but here's a short list of guidelines:
 * Things that are of fixed size (such as the page size) should be defined with fixed units, of course.
 * When things should be relative, it will often make more sense to define them in terms of the page design. For example, width=0.5\linewidth might make more sense than width=5cm for a figure.
 * Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common "PostScript point" used by most other software is 1/72in which in TeX is 1bp. If you're dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.
+
+### Text
+
+#### Numbers and Units
+
+In general there should be a space between a number and it's corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by "number\,unit". Sometimes it is also acceptable to use "number~unit". The "~" creates a typical space, which is longer space than the "\,". 
+
+A better alternative is to use the *siunitx* package. The manual of the package can be found [here](http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf)
+
+{% highlight latex %}
+%formatting numbers
+\num{12345,67890}               %comma represents the decimal point; siunitx also adds the proper spacing for tens and hundreds of thousands
+\num{1+-2i}                     %complex numbers
+\num{.3e45}                     %with exponentials
+\num{1.654 x 2.34 x 3.430}  %multiplication sign
+
+%angles
+\ang{10} 
+\ang{12.3}
+\ang{4,5} 
+\ang{1;2;3}                 %arc format: degree;minute;sec
+\ang{;;1} \\
+
+% units
+\si{kg.m.s^{-1}} 
+\si{\kilogram\metre\per\second}
+\si{\degreeCelsius}             %degree Celsius
+
+%numbers and units
+\SI{100}{\micro\metre}
+
+%list and range
+\numlist{10;20;30} 
+\SIlist{0.13;0.67;0.80}{\milli\metre}
+\numrange{10}{20}
+\SIrange{0.13}{0.67}{\milli\metre}      %\meter can also be used.
+{% endhighlight %}
+
