@@ -38,13 +38,11 @@ From: [http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html](ttp://n
 
 It is necessary to use a trick when creating an empty page in Latex. The following code does the job:
 
-<div class="code">
-  <pre>
+{% highlight latex %}
 \newpage
 \thispagestyle{empty}
 \mbox{}
-  </pre>
-</div>
+{% endhighlight %}
 
 The major part is \mbox{}, which ensures the existence of an empty page.
 
