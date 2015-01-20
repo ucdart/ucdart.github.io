@@ -49,7 +49,7 @@
 			</p>
 			
 			<ul>
-				{% for post in site.posts limit:3 %}
+				{% for post in site.posts limit:4 %}
 					{% if post.categories contains 'news' %}
 	    				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  				{% endif %}
@@ -60,6 +60,10 @@
 	        		<a href="mailto:dart.ucdavis@gmail.com">email</a>
 			</p>
 			
+              <p>
+                This website is hosted by Github Pages. This means that all the sources files are open (as in open-source) in a <a href="https://github.com/ucdart/ucdart.github.io.git">Github repository</a> and that you, as a reader, could contribute to the content. All you need to do is to send a pull request. 
+              </p>
+              
 			</header>
       		
       		<section>
