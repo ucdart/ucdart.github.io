@@ -6,7 +6,7 @@ published: true
 
 ### Teaching
 
-#### EEC 130A Introductory Electromagntics I
+#### [EEC 130A Introductory Electromagntics I]("/education/eec130.html")
 
 <img src="/images/emwave.png" width="250px" style="float:right; margin:0px;">
 
