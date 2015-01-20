@@ -15,7 +15,7 @@ EEC 130A is the first undergraduate course in which students get exposed to the 
 
 #### EEC 134 Design of RF/Microwave Systems (Senior project course) 
 
-<img src="/images/emwave.png" width="250px" style="float:left; margin:10px;">
+<img src="/images/eec134.jpg" width="250px" style="float:left; margin:10px;">
 
 The EEC 134 course was created to satisfy the need for a senior project course for students who are interested in high electronic systems. The two-quarter long course emphasizes on system level design concepts and strives to provide a hands-on experience. As the course evolves, the projects start to encompass many facets of electrical engineering, including system engineering, antenna design, analog circuit design, embedded systems, and digital signal processing. 
 
