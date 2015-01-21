@@ -21,6 +21,8 @@ published: true
 {% for paper in papers %}
 {% if paper.note != null %}
 	there is note
+{% else %}
+	there is no note
 {% endif %}
 {% endfor %}
 
