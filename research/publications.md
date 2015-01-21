@@ -23,7 +23,7 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="conference" %}	
-	<li> <b>{{ paper.note }}</b> &nbsp; {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
+	<li> <b><u>{{ paper.note }}</u></b> &nbsp; {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
 	{% endif %}	
 	{% endfor %}
 </ol>
