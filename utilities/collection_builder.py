@@ -63,26 +63,60 @@ def bib2jekyllcol (inputFile, outputDir):
     with open(inputFile) as bibtex_file:
         bibtex_str = bibtex_file.read()
          
-    bib_database = bibtexparser.loads(bibtex_str)  
+    bib_database = bibtexparser.loads(bibtex_str) 
+    
+    # create dictionary for transformation of month to number
+    month_list = ["jan", "feb", "mar", "apr", "may", "june", "july", "aug", "sept", "oct", "nov", "dec"]
     
     # type names:
     type_list = ["type", "title", "author", "journal", "volume", "number",
-                  "year", "month", "doi", "pages", "publisher", "booktitle"]
+                  "year", "month", "doi", "pages", "publisher", "booktitle", "note"]
     
     if not os.path.exists(outputDir):
         os.makedirs(outputDir)
-    
+    else:
+        print("Deleting existing collection file...\n")
+        for file in os.listdir(outputDir):
+            file_path = os.path.join(outputDir, file)
+        try:
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+        except Exception, e:
+            print e
+ 
     for entry in bib_database.entries:
         with open(outputDir+entry["id"]+'.md','w') as f:
             f.write("---\n")
-            for bib_type in type_list:                
+            orderIdx = ""
+            for bib_type in type_list:   
+                if bib_type == "year":
+                    if entry.has_key(bib_type):
+                        orderIdx = orderIdx + entry[bib_type]
+                    else:
+                        orderIdx = orderIdx + "9999"
+                
+                if bib_type == "month":
+                    if entry.has_key(bib_type):
+                        month = (entry[bib_type]).lower();
+                        for monthIdx in range(len(month_list)):
+                            if month_list[monthIdx] in month:
+                                monthstr =  str(monthIdx + 1)
+                                if len(monthstr) < 2:
+                                    monthstr = '0' + monthstr
+                                orderIdx = orderIdx + monthstr
+                                break
+                    else:
+                        orderIdx = orderIdx + "99"
+                             
                 if(entry.has_key(bib_type)):
                     if bib_type == "author":           
                         f.write(bib_type +": " +  parse_authors(entry[bib_type])+"\n")
                     else:
                         f.write(bib_type+": "+entry[bib_type] + "\n")     
                 else:
-                    f.write(bib_type + ":" + "\n")                                                                
+                    f.write(bib_type + ":" + "\n")   
+            
+            f.write("sort_key: "+ orderIdx + "\n")                                                             
             f.write("---")
         
 

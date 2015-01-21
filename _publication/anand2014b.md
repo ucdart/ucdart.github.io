@@ -7,10 +7,10 @@ volume:
 number:
 year: 2014
 month: Jun.
-doi:
+doi: 10.1109/WAMICON.2014.6857772
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
+note: Best Student Paper
+sort_key: 2014
 ---
-
-anand2014b
