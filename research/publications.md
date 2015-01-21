@@ -13,7 +13,8 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
-	<li>{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
+	<li> {% if paper.note !="" %} <b>({{ paper.note }})</b> {% endif %} &nbsp;
+    {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
 	{% endif %}	
 	{% endfor %}
 </ol>
