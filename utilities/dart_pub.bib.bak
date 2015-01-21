@@ -39,10 +39,10 @@
   Timestamp                = {2015.01.18}
 }
 
-@Conference{anand2014,
+@Conference{anand2014a,
   Title                    = {Substrate Integrated Octave-Tunable Bandstop Filter with Surface Mount Varactors},
   Author                   = {Akash Anand and Yuhao Liu and Xiaoguang Liu},
-  Booktitle                = {IEEE International Wireless Symposium (IWS)},
+  Booktitle                = {IEEE MTT-S International Wireless Symposium (IWS)},
   Year                     = {2014},
   Month                    = {Apr.},
 
@@ -54,7 +54,7 @@
 @Conference{anand2013b,
   Title                    = {A Novel High-Qu Octave-Tunable Resonator with Lumped Tuning Elements},
   Author                   = {Akash Anand and Joshua Small and Muhammad Shoaib Arif and Michael Sinani and Dimitrios Peroulis and Xiaoguang Liu},
-  Booktitle                = {IEEE International Microwave Symposium (IMS)},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
   Year                     = {2013},
   Month                    = {Jun.},
 
@@ -126,6 +126,22 @@
   Timestamp                = {2015.01.20}
 }
 
+@Article{chen2010,
+  Title                    = {Anti-Biased Electrostatic RF MEMS Varactors and Filters},
+  Author                   = {Kenle Chen and Xiaoguang Liu and Andrew Kovacs and Dimitrios Peroulis},
+  Journal                  = {IEEE Transactions on Microwave Theory and Techniques},
+  Year                     = {2010},
+
+  Month                    = {Dec.},
+  Number                   = {12},
+  Pages                    = {3971-3981},
+  Volume                   = {58},
+
+  Doi                      = {10.1109/TMTT.2010.2088135},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
 @Article{chen2012b,
   Title                    = {Widely-Tunable High-Efficiency Power Amplifier with Ultra-Narrow Instantaneous Bandwidth},
   Author                   = {Kenle Chen and Xiaoguang Liu and Dimitrios Peroulis},
@@ -178,7 +194,7 @@
   Timestamp                = {2015.01.20}
 }
 
-@Conference{liu2011b,
+@Conference{liu2011c,
   Title                    = {Capacitive Monitoring of Electrostatic MEMS Tunable Evanescent-mode Cavity Resonators},
   Author                   = {Xiaoguang Liu and Adam Fruehling and Linda Katehi and William J. Chappell and Dimitrios Peroulis},
   Booktitle                = {European Microwave Integrated Circuits Conference (EuMIC)},
@@ -206,10 +222,26 @@
   Timestamp                = {2015.01.20}
 }
 
+@Article{liu2010a,
+  Title                    = {High-Q Tunable Microwave Cavity Resonators and Filters using SOI-based RF MEMS Tuners},
+  Author                   = {Xiaoguang Liu and Linda P. B. Katehi and William J. Chappell and Dimitrios Peroulis},
+  Journal                  = {IEEE/ASME Journal of Microelectromechanical Systems},
+  Year                     = {2010},
+
+  Month                    = {Aug.},
+  Number                   = {4},
+  Pages                    = {774-784},
+  Volume                   = {19},
+
+  Doi                      = {10.1109/JMEMS.2010.2055544},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
 @Conference{liu2009a,
   Title                    = {A 3.4-6.2 GHz Continuously Tunable Electrostatic MEMS Resonator with Quality Factor of 460-530},
   Author                   = {Xiaoguang Liu and Linda P. B. Katehi and William J. Chappell and Dimitrios Peroulis},
-  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Booktitle                = {IEEE MTT-s International Microwave Symposium (IMS)},
   Year                     = {2009},
   Month                    = {Jun.},
 
@@ -226,6 +258,23 @@
   Month                    = {Dec.},
 
   Doi                      = {10.1109/APMC.2009.5385409},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
+@Article{liu2010b,
+  Title                    = {Novel Dual-Band Microwave Filter using Dual-Capacitively-Loaded Cavity Resonators},
+  Author                   = {Xiaoguang Liu and Linda P. B. Katehi and Dimitrios Peroulis},
+  Journal                  = {IEEE Microwave and Wireless Component Letters},
+  Year                     = {2010},
+
+  Month                    = {Nov.},
+  Number                   = {11},
+  Pages                    = {610-612},
+  Volume                   = {20},
+
+  Booktitle                = {IEEE Microwave and Wireless Component Letters},
+  Doi                      = {10.1109/LMWC.2010.2059696},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
 }
@@ -279,6 +328,22 @@
   Timestamp                = {2015.01.20}
 }
 
+@Article{liu2011,
+  Title                    = {Impact of Mechanical Vibration on the Performance of RF MEMS Evanescent-mode Tunable Resonators},
+  Author                   = {Xiaoguang Liu and Joshua Small and David Berdy and Linda Katehi and William J. Chappell and Dimitrios Peroulis},
+  Journal                  = {IEEE Microwave and Wireless Component Letters},
+  Year                     = {2011},
+
+  Month                    = {Aug.},
+  Number                   = {8},
+  Pages                    = {406-408},
+  Volume                   = {21},
+
+  Doi                      = {10.1109/LMWC.2011.2160159},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
 @Conference{liu2014a,
   Title                    = {Design of Low Phase-Noise Voltage-Controlled Oscillator Using Tunable Evanescent-Mode Cavity},
   Author                   = {Yuhao Liu and Akash Anand and Xiaoguang Liu},
@@ -289,6 +354,18 @@
   Doi                      = {10.1109/RWS.2014.6830086},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{liu2014b,
+  Title                    = {Single-Actuator Shunt-Series RF-MEMS Switch},
+  Author                   = {Yuhao Liu and Yusha Bey and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2014},
+  Month                    = {Jun},
+
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20},
+  Url                      = {10.1109/MWSYM.2014.6848666}
 }
 
 @Conference{naglich2013,
@@ -369,6 +446,31 @@
   Year                     = {2008},
   Month                    = {Aug.},
 
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
+@Conference{yu2014a,
+  Title                    = {Micromachined Silicon Channels for THz Interconnect},
+  Author                   = {Bo Yu and Yuhao Liu and Xing Hu and Xiaoxin Ren and Xiaoguang Liu and Qun Jane Gu},
+  Booktitle                = {IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Year                     = {2014},
+  Month                    = {Jun.},
+  Note                     = {Best Conference Paper},
+
+  Doi                      = {10.1109/WAMICON.2014.6857799},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.20}
+}
+
+@Conference{yu2014b,
+  Title                    = {Micromachined Sub-THz Interconnect Channels for Planar Silicon Processes},
+  Author                   = {Bo Yu and Yuhao Liu and Xing Hu and Xiaoxin Ren and Xiaoguang Liu and Qun Jane Gu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2014},
+  Month                    = {Jun.},
+
+  Doi                      = {10.1109/MWSYM.2014.6848632},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
 }
