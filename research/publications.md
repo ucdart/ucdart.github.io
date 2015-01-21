@@ -9,7 +9,7 @@ published: true
 
 #### Journal
 
-{% assign papers = (site.publication | sort: 'sort_key', 'first') %}
+{% assign papers = (site.publication | sort: 'sort_key', 'last') %}
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
