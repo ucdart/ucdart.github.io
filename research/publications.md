@@ -9,11 +9,12 @@ published: true
 
 #### Journal
 
-{% assign papers = (site.publication | sort: 'sort_key', 'last') %}
+{% assign papers = (site.publication | sort: 'sort_key', 'first') %}
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
-	<li>{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. </li>
+	<li>{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. <br>
+    <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
 	{% endif %}	
 	{% endfor %}
 </ol>
