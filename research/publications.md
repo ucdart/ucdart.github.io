@@ -34,7 +34,7 @@ published: true
 	{% if paper.type =="conference" %}	
 	<li> 
     {% if paper.note != null %}
-			(<span style='font-weight:600; color:#AD655F;'>{{ paper.note }}</span> &nbsp;)
+		[<span style='font-weight:600; color:#AD655F;'>{{ paper.note }}</span> &nbsp;]
 	{% else %}
 		there is no note
 	{% endif %}
