@@ -9,9 +9,9 @@ published: true
 
 #### Journal
 
-{% assign papers = (site.publication | sort: 'sort_key', 'first') %}
+{% assign papers = (site.publication | sort: 'sort_key') %}
 <ol>
-	{% for paper in papers %}
+	{% for paper in papers reversed %}
 	{% if paper.type =="article" %}	
 	<li>     
     {% if paper.note != null %}
@@ -25,7 +25,7 @@ published: true
 #### Conference
 
 <ol>
-	{% for paper in papers %}
+	{% for paper in papers reversed %}
 	{% if paper.type =="conference" %}	
 	<li> 
     {% if paper.note != null %}
