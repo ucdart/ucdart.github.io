@@ -13,7 +13,7 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
-	<li>{{ paper.author }}, <b>"{{ paper.title }},"</b> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. </li>
+	<li>{{ paper.author }}, <span style='font-weight: 500'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. </li>
 	{% endif %}	
 	{% endfor %}
 </ol>
