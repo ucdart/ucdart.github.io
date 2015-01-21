@@ -6,7 +6,7 @@ published: true
 
 ### Welcome to the website of the Davis Adaptive RF Technology (DART) lab
 
-We are a group of researchers with a keen interest in many exciting areas of high frequency electronics. The definition of "high frequency" here refers to a range of a few tens of megahertz to hundreds of gigahertz. Our research interests  include:
+We are a group of researchers with a keen interest in many exciting areas of high frequency electronics. The definition of "high frequency" here refers to a range of a few tens of megahertz to hundreds of gigahertz. Our research interests include:
 
 - Reconfigurable high frequency devices and components, particularly tunable filters and matching networks;
 - High efficiency and high power amplifiers, oscillators, and frequency synthesizers;
