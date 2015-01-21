@@ -34,9 +34,7 @@ published: true
 	{% if paper.type =="conference" %}	
 	<li> 
     {% if paper.note != null %}
-		[<span style='font-weight:600; color:#AD655F;'>{{ paper.note }}</span> &nbsp;]
-	{% else %}
-		there is no note
+		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span>]&nbsp;
 	{% endif %}
      {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
 	{% endif %}	
