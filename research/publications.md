@@ -18,6 +18,10 @@ published: true
 	{% endfor %}
 </ol>
 
+{% if paper.note != null %}
+	no note
+{% endif %}
+
 #### Conference
 
 <ol>
