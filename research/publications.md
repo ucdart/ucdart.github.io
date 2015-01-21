@@ -13,7 +13,7 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
-	<li> <b>{{ paper.note }}</b> &nbsp; {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
+	<li> <b>{{ paper.note }}</b> &nbsp; {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span>," <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
 	{% endif %}	
 	{% endfor %}
 </ol>
@@ -23,7 +23,7 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="conference" %}	
-	<li>{{ paper.author }}, <b>"{{ paper.title }},"</b> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. </li>
+	<li> <b>{{ paper.note }}</b> &nbsp; {{ paper.author }}, <b>"{{ paper.title }},"</b> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
 	{% endif %}	
 	{% endfor %}
 </ol>
