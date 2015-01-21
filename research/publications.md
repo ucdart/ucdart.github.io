@@ -13,19 +13,14 @@ published: true
 <ol>
 	{% for paper in papers %}
 	{% if paper.type =="article" %}	
-	<li> <span style='font-weight:600; color:#AD655F;'>{{ paper.note }}</span> &nbsp; {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
+	<li>     
+    {% if paper.note != null %}
+		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
+	{% endif %}
+    {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a></li>
 	{% endif %}	
 	{% endfor %}
 </ol>
-
-{% for paper in papers %}
-{% if paper.note != null %}
-	there is note
-{% else %}
-	there is no note
-{% endif %}
-{% endfor %}
-
 
 #### Conference
 
@@ -34,7 +29,7 @@ published: true
 	{% if paper.type =="conference" %}	
 	<li> 
     {% if paper.note != null %}
-		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span>]&nbsp;
+		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 	{% endif %}
      {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
 	{% endif %}	
