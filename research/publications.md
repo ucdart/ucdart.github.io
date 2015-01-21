@@ -18,9 +18,12 @@ published: true
 	{% endfor %}
 </ol>
 
+{% for paper in papers %}
 {% if paper.note != null %}
-	no note
+	there is note
 {% endif %}
+{% endfor %}
+
 
 #### Conference
 
