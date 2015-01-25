@@ -7,8 +7,9 @@ published: true
 ### Inspirational
 
 * [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full)
-* [Cargo Cult Science](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
-* [The pleasure of finding things out](https://www.youtube.com/watch?v=Bgaw9qe7DEE)
+* [Cargo Cult Science -- Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
+* [The pleasure of finding things out -- Richard Feynman](https://www.youtube.com/watch?v=Bgaw9qe7DEE)
+* [My advise to young people -- Donald Knuth](https://www.youtube.com/watch?v=75Ju0eM5T2c)
 
 ### Publication and presentation
 
