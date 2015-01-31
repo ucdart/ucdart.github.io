@@ -238,7 +238,7 @@ Use the *wrapfig* package.
 {% endhighlight %}
 
 #### Adjusting the space around figures/floats
-Directly application of the *wrapfig* package often result in excessive white space above the figures. The following trick can be used to adjust the spacing. 
+Direct application of the *wrapfigure* environment often results in excessive white space above the figures. The following trick can be used to adjust the spacing. 
 
 {% highlight latex %}
 
