@@ -65,6 +65,13 @@ There are no hard-and-fast rules, but here's a short list of guidelines:
 * When things should be relative, it will often make more sense to define them in terms of the page design. For example, width=0.5\linewidth might make more sense than width=5cm for a figure.
 * Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common "PostScript point" used by most other software is 1/72in which in TeX is 1bp. If you're dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.
 
+#### Creating equal margin on all sides
+Equal margin on all sides of a page can be easily created by using the *geometry* package. 
+
+{% highlight latex %}
+\usepackage[margin=1in]{geometry}
+{% endhighlight %}
+
 ### Text
 
 #### Numbers and Units
