@@ -237,6 +237,31 @@ Use the *wrapfig* package.
 \end{wrapfigure}
 {% endhighlight %}
 
+#### Adjusting the space around figures/floats
+Directly application of the *wrapfig* package often result in excessive white space above the figures. The following trick can be used to adjust the spacing. 
+
+{% highlight latex %}
+
+\begingroup
+\setlength\intextsep{-3pt}
+
+\begin{wrapfigure}{r}{3.2 in}            %"r" indicates right aligned
+   \begin{center}
+     \includegraphics{trends}
+   \end{center}
+   \caption{The trend and projection of chip-to-chip communication data
+   bandwidth and the number of pins over the time. Data from D. Huang, IEEE HSD
+   Workshop, Santa Fe, 2011~\cite{huang2011}}
+   \label{fig:trends}
+\end{wrapfigure}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+\endgroup
+\% highlight latex %}
+
+Note that the group includes the wrapped figure and some texts. The text must exceed the vertical span of the figure, otherwise the following paragraph will intrude into the figure. 
+
 #### Side-by-side Figures
 
 {% highlight latex %}
@@ -279,5 +304,4 @@ We can insert figures in tables (see example below, from http://texblog.org/2008
 
 #### Hiding references
 
-The *\nobibliography{bibfile}* command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the *bibentry* package.  
-
+The *\nobibliography{bibfile}* command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the *bibentry* package.
