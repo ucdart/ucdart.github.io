@@ -258,7 +258,7 @@ Directly application of the *wrapfig* package often result in excessive white sp
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 \endgroup
-\% highlight latex %}
+{% endhighlight %}
 
 Note that the group includes the wrapped figure and some texts. The text must exceed the vertical span of the figure, otherwise the following paragraph will intrude into the figure. 
 
