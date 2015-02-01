@@ -1,3 +1,3 @@
-<img src="/images/eec289n.jpg" width="250px" style="float:left; margin-top:0px; margin-right:10px;">
+<img src="/images/eec289n.jpg" width="250px" style="float:left; margin-top:10px; margin-right:10px;">
 
 Filters are ubiquitous components in high frequency electronic systems. Jokingly known as the ``RF engineers' bandage'', RF and microwave filters find use in band/channel selection, image rejection, anti-aliasing, and pretty much anywhere undesired signals need to be eliminated. This course intends to provide a thorough and up-to-date overview of the design theories and implementation techniques for RF and microwave filters. The targeted audience is senior undergraduate students and graduate students with a basic background in circuit analysis and RF engineering. 
