@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Latex resources</title>
+			<!-- link to main stylesheet -->
+			<link rel="shortcut icon" type="image/x-icon" href="/ucdart.ico">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css">
+		
+		</head>
+		<body>
+
+			<!-- <div class="container"> -->
+			<div class="wrapper">
+			<header>
+        			<h1>Davis Adaptive RF Technology Lab</h1>
+				<p></p>
+              
+			<p>
+              <a href="/">Home</a> | <a href="/people">People</a> | <a href="/research">Research</a>-<a href="/research/publications.html">Publications</a> | <a href="/education">Education</a> | <a href="/education/outreach.html">Outreach</a>| <a href="/resources">Resources</a> | <a href="/facility">Facilities</a> | <a href="https://github.com/ucdart">GitHub</a> | <a href="/test.html">Test</a> |
+			</p>
+			
+			<p>
+				<a href="/news"><u>News</u></a>
+			</p>
+			
+			<ul>
+				
+					
+	    				<li><span>01 Jan 2015</span> » <a href="/blog/2015/01/01/DART-lab-awarded-NSF-STTR-project" title="DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device">DART Lab Awarded NSF STTR Project on Developing a Radar-based Wearable Heart Health Monitoring Device</a></li>
+	  				
+	  			
+					
+	    				<li><span>01 Nov 2014</span> » <a href="/blog/2014/11/01/DART-lab-awarded-NSF-project-EARS" title="DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum">DART Lab Awarded NSF Project to Enhance Access to the Radar Spectrum</a></li>
+	  				
+	  			
+					
+	  			
+					
+	    				<li><span>01 Jul 2013</span> » <a href="/blog/2013/07/01/Dr-Liu-named-Hellman-fellowship" title="Dr. Liu Awarded a Hellman Foundation Fellowship">Dr. Liu Awarded a Hellman Foundation Fellowship</a></li>
+	  				
+	  			
+			</ul>
+			
+			<p>
+	        		<a href="mailto:dart.ucdavis@gmail.com">email</a>
+			</p>
+			
+              <p>
+                <small>This website is hosted by Github Pages. This means that all the sources files are open (as in open-source) in a <a href="https://github.com/ucdart/ucdart.github.io.git">Github repository</a>. You can contribute to the content by sending a pull request. </small>
+              </p>
+              
+			</header>
+      		
+      		<section>
+				<h2 id="latex-resources">Latex resources</h2>
+
+<p>Refer to the <a href="http://en.wikipedia.org/wiki/LaTeX">Wikipedia entry</a> for basic information on LaTeX. Some great introductory tutorials on LaTeX include <a href="http://tobi.oetiker.ch/lshort/lshort.pdf">The Not So Short Introduction to LaTeX2e</a> by <a href="http://tobi.oetiker.ch/hp/">Tobi Oetiker</a> and the <a href="https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf">LATEX Tutorials – A PRIMER</a> by the Indian Tex User Group. The <a href="http://en.wikibooks.org/wiki/LaTeX">LaTeX Wikibook</a> is also a great start point. Intermediate level users may find <em>“Guide to LaTeX: Tools and Techniques for Computer Typesetting”</em> by Helmut Kopka and Patrick W. Daly useful. For users of all levels, the <a href="http://tex.stackexchange.com/">LaTeX Stack Exchange</a> site is always a great resource. </p>
+
+<h3 id="latex-editors">LaTeX editors</h3>
+
+<p><a href="https://eclipse.org/">Eclipse</a>+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. </p>
+
+<ul>
+  <li>Installation:
+    <ul>
+      <li>Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.</li>
+      <li>Install Texlipse through software update. An instruction can be found here: <a href="http://texlipse.sourceforge.net/manual/installation.html">http://texlipse.sourceforge.net/manual/installation.html</a></li>
+    </ul>
+  </li>
+  <li>The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go “File-&gt;Import-&gt;Existing Projects into Workspace”. Then select the directory where the project folder resides.</li>
+</ul>
+
+<p><a href="http://texstudio.sourceforge.net">Texstudio</a> is also a highly recommended editor with a fairly complete set of functionalities. </p>
+
+<h3 id="latex-templates">LaTeX Templates</h3>
+
+<p>Perhaps the best way to get started in LaTeX is to use a template. </p>
+
+<ul>
+  <li><a href="http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis">UC Davis dissertation template</a></li>
+  <li><a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE conference templates</a></li>
+  <li><a href="http://www.ieee.org/publications_standards/publications/authors/author_templates.html">IEEE journal templates</a></li>
+</ul>
+
+<p>Be sure to check the conference or journal website for thier </p>
+
+<h3 id="document-structure">Document Structure</h3>
+
+<h4 id="create-an-empty-page">Create an empty page</h4>
+
+<p>From: <a href="ttp://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html">http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html</a></p>
+
+<p>It is necessary to use a trick when creating an empty page in Latex. The following code does the job:</p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\newpage</span>
+<span class="k">\thispagestyle</span><span class="nb">{</span>empty<span class="nb">}</span>
+<span class="k">\mbox</span><span class="nb">{}</span></code></pre></div>
+
+<p>The major part is \mbox{}, which ensures the existence of an empty page.</p>
+
+<p>The usage of \thispagestyle is \thispagestyle{option}. The option can be:</p>
+
+<ul>
+  <li>plain - Just a plain page number.</li>
+  <li>empty - Produces empty heads and feet - no page numbers.</li>
+  <li>headings - Puts running headings on each page. The document style specifies what goes in the headings.</li>
+  <li>myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.</li>
+</ul>
+
+<h3 id="width-length-height-and-margin">Width, Length, Height, and Margin</h3>
+
+<p>Source: <a href="http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex">TexExchange</a>:</p>
+
+<p>There are no hard-and-fast rules, but here’s a short list of guidelines:</p>
+
+<ul>
+  <li>“1em” is a horizontal length and “1ex” a vertical one, so use them accordingly (they are horizontal and vertical arbitrarily, but usually you hear people talk about “1em” is the width of an “m” — usually false — and “1ex” is the height of an “x” — usually true). I usually consider 1em to be about the same size as the font size in points.</li>
+  <li>em and ex are relative lengths, so they’re better for designing around text; like you say, an indent of 2em will work whether the fontsize is 9pt or 12pt.</li>
+  <li>Things that are of fixed size (such as the page size) should be defined with fixed units, of course.</li>
+  <li>When things should be relative, it will often make more sense to define them in terms of the page design. For example, width=0.5\linewidth might make more sense than width=5cm for a figure.</li>
+  <li>Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common “PostScript point” used by most other software is 1/72in which in TeX is 1bp. If you’re dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.</li>
+</ul>
+
+<h3 id="text">Text</h3>
+
+<h4 id="numbers-and-units">Numbers and Units</h4>
+
+<p>In general there should be a space between a number and it’s corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by “number\,unit”. Sometimes it is also acceptable to use “number~unit”. The “~” creates a typical space, which is longer than the “\,”. </p>
+
+<p>A better alternative is to use the <em>siunitx</em> package. The manual of the package can be found <a href="http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf">here</a></p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="c">%formatting numbers</span>
+<span class="k">\num</span><span class="nb">{</span>12345,67890<span class="nb">}</span>               <span class="c">%comma represents the decimal point; siunitx also adds the proper spacing for tens and hundreds of thousands</span>
+<span class="k">\num</span><span class="nb">{</span>1+-2i<span class="nb">}</span>                     <span class="c">%complex numbers</span>
+<span class="k">\num</span><span class="nb">{</span>.3e45<span class="nb">}</span>                     <span class="c">%with exponentials</span>
+<span class="k">\num</span><span class="nb">{</span>1.654 x 2.34 x 3.430<span class="nb">}</span>  <span class="c">%multiplication sign</span>
+
+<span class="c">%angles</span>
+<span class="k">\ang</span><span class="nb">{</span>10<span class="nb">}</span> 
+<span class="k">\ang</span><span class="nb">{</span>12.3<span class="nb">}</span>
+<span class="k">\ang</span><span class="nb">{</span>4,5<span class="nb">}</span> 
+<span class="k">\ang</span><span class="nb">{</span>1;2;3<span class="nb">}</span>                 <span class="c">%arc format: degree;minute;sec</span>
+<span class="k">\ang</span><span class="nb">{</span>;;1<span class="nb">}</span> <span class="k">\\</span>
+
+<span class="c">% units</span>
+<span class="k">\si</span><span class="nb">{</span>kg.m.s<span class="nb">^{</span>-1<span class="nb">}}</span> 
+<span class="k">\si</span><span class="nb">{</span><span class="k">\kilogram\metre\per\second</span><span class="nb">}</span>
+<span class="k">\si</span><span class="nb">{</span><span class="k">\degreeCelsius</span><span class="nb">}</span>             <span class="c">%degree Celsius</span>
+
+<span class="c">%numbers and units</span>
+<span class="k">\SI</span><span class="nb">{</span>100<span class="nb">}{</span><span class="k">\micro\metre</span><span class="nb">}</span>
+
+<span class="c">%list and range</span>
+<span class="k">\numlist</span><span class="nb">{</span>10;20;30<span class="nb">}</span> 
+<span class="k">\SIlist</span><span class="nb">{</span>0.13;0.67;0.80<span class="nb">}{</span><span class="k">\milli\metre</span><span class="nb">}</span>
+<span class="k">\numrange</span><span class="nb">{</span>10<span class="nb">}{</span>20<span class="nb">}</span>
+<span class="k">\SIrange</span><span class="nb">{</span>0.13<span class="nb">}{</span>0.67<span class="nb">}{</span><span class="k">\milli\metre</span><span class="nb">}</span>      <span class="c">%\meter can also be used.</span></code></pre></div>
+
+<h4 id="line-spacing-in-enumerate-and-itemize-environment">Line spacing in <em>enumerate</em> and <em>itemize</em> environment</h4>
+<p>Use the enumitem package. The manual for the package can be found <a href="http://ctan.mackichan.com/macros/latex/contrib/enumitem/enumitem.pdf">here</a></p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>enumerate<span class="nb">}</span>[itemsep=-2mm]
+    <span class="k">\item</span> xxx
+    <span class="k">\item</span> xxx
+<span class="k">\end</span><span class="nb">{</span>enumerate<span class="nb">}</span></code></pre></div>
+
+<h4 id="in-line-list">In-line list</h4>
+<p>Use the <em>enumerate*</em> and <em>itemize*</em> environments in the enumitem package. The <em>inline</em> option needs to be enabled in the enumitem package. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\usepackage</span><span class="na">[inline]</span><span class="nb">{</span>enumitem<span class="nb">}</span></code></pre></div>
+
+<h4 id="indentation-in-enumerate-environment">Indentation in <em>enumerate</em> environment</h4>
+<p><a href="http://blog.dreasgrech.com/2010/01/indenting-item-in-enumerate-environment.html">Source</a></p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\indentitem</span><span class="nb">}{</span><span class="k">\setlength\itemindent</span><span class="nb">{</span>25pt<span class="nb">}}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>enumerate<span class="nb">}</span>
+<span class="k">\item</span> This item is not indented
+<span class="nb">{</span><span class="k">\indentitem</span> <span class="k">\item</span> This item is indented<span class="nb">}</span>
+<span class="k">\item</span> This item is not indented
+<span class="nb">{</span><span class="k">\indentitem</span> <span class="k">\item</span> This item is indented<span class="nb">}</span>
+<span class="nb">{</span><span class="k">\indentitem</span> <span class="k">\item</span> This item is indented<span class="nb">}</span>
+<span class="k">\item</span> This item is not indented
+<span class="k">\end</span><span class="nb">{</span>enumerate<span class="nb">}</span></code></pre></div>
+
+<h4 id="hyphen-en-dash-em-dash-">Hyphen, En Dash, Em Dash, …</h4>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex">-              <span class="c">%Hypen: refer to http://owl.english.purdue.edu/owl/resource/576/01/</span>
+--             <span class="c">% En Dash: for indicating a closed range of values, e.g. 1987-1992, or a relationship, e.g. &quot;Score: 96-100&quot;</span>
+---            <span class="c">% Em Dash: used to separate or shift thoughts midstream through a sentence</span></code></pre></div>
+
+<p>For more information on the use of hyphen, en dash, and em dash, refer to <a href="http://thegrammargang.blogspot.com/2012/07/dash-it-all-whats-point-of-hypen-help.html">http://thegrammargang.blogspot.com/2012/07/dash-it-all-whats-point-of-hypen-help.html</a></p>
+
+<h4 id="strike-through-text">Strike through text</h4>
+<p>Striking through texts using a horizontal line can be achieved by using the <em>soul</em> package.</p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\usepackage</span><span class="nb">{</span>soul<span class="nb">}</span>
+...
+<span class="k">\st</span><span class="nb">{</span>text to strike through<span class="nb">}</span></code></pre></div>
+
+<h3 id="math">Math</h3>
+
+<h4 id="upright-bold-symbols">Upright bold symbols</h4>
+
+<p>By default, the \mathbf command does not generate upright bold font for Greek alphabets, which are often used to denote matrices. Use the <em>bm</em> package for this purpose.</p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\usepackage</span><span class="nb">{</span>bm<span class="nb">}</span>
+...
+<span class="s">$</span><span class="nv">\bm</span><span class="nb">{</span><span class="nv">\Phi</span><span class="nb">}</span><span class="s">$</span></code></pre></div>
+
+<h4 id="center-aligned-equations">Center-aligned equations</h4>
+<p>Use the gather <em>environment</em> (included in the <em>amsmath</em> package) to generate a set of equations that are center aligned.</p>
+
+<p>Using multiple [ ] can generate center aligned equations without equation numbers.</p>
+
+<h3 id="tables">Tables</h3>
+
+<h4 id="multi-page-tables">Multi-page Tables</h4>
+
+<p>Use package <em>longtable</em>. <a href="http://users.sdsc.edu/~ssmallen/latex/longtable.html">Here</a> is one example. </p>
+
+<h4 id="adding-notes-to-table">Adding notes to table</h4>
+
+<p>Use the <em>threeparttable</em> package. Below is an example. Source: http://tex.stackexchange.com/questions/12676/add-notes-under-the-table</p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>table<span class="nb">}</span>
+  <span class="k">\begin</span><span class="nb">{</span>threeparttable<span class="nb">}</span>
+    <span class="k">\caption</span><span class="nb">{</span>Sample ANOVA table<span class="nb">}</span>
+     <span class="k">\begin</span><span class="nb">{</span>tabular<span class="nb">}{</span>lllll<span class="nb">}</span>
+      <span class="k">\toprule</span>
+        Stubhead <span class="nb">&amp;</span> <span class="s">\(</span><span class="nb"> df </span><span class="s">\)</span> <span class="nb">&amp;</span> <span class="s">\(</span><span class="nb"> f </span><span class="s">\)</span> <span class="nb">&amp;</span> <span class="s">\(</span><span class="nb"> </span><span class="nv">\eta</span><span class="nb"> </span><span class="s">\)</span> <span class="nb">&amp;</span> <span class="s">\(</span><span class="nb"> p </span><span class="s">\)</span> <span class="k">\tnote</span><span class="nb">{</span><span class="s">$</span><span class="nv">\dagger</span><span class="s">$</span><span class="nb">}</span> <span class="k">\\</span>
+      <span class="k">\midrule</span>
+        <span class="nb">&amp;</span> <span class="k">\multicolumn</span><span class="nb">{</span>4<span class="nb">}{</span>c<span class="nb">}{</span>Spanning text<span class="nb">}</span> <span class="k">\\</span>
+        Row 1 <span class="nb">&amp;</span> 1 <span class="nb">&amp;</span> 0.67 <span class="nb">&amp;</span> 0.55 <span class="nb">&amp;</span> 0.41 <span class="k">\\</span>
+        Row 2 <span class="nb">&amp;</span> 2 <span class="nb">&amp;</span> 0.02 <span class="nb">&amp;</span> 0.01 <span class="nb">&amp;</span> 0.39 <span class="k">\\</span>
+        Row 3 <span class="nb">&amp;</span> 3 <span class="nb">&amp;</span> 0.15 <span class="nb">&amp;</span> 0.33 <span class="nb">&amp;</span> 0.34 <span class="k">\\</span>
+        Row 4 <span class="nb">&amp;</span> 4 <span class="nb">&amp;</span> 1.00 <span class="nb">&amp;</span> 0.76 <span class="nb">&amp;</span> 0.54 <span class="k">\\</span>
+      <span class="k">\bottomrule</span>
+    <span class="k">\end</span><span class="nb">{</span>tabular<span class="nb">}</span>
+    <span class="k">\begin</span><span class="nb">{</span>tablenotes<span class="nb">}</span>
+      <span class="k">\small</span>                    <span class="c">%optional</span>
+      <span class="k">\item</span> [<span class="s">$</span><span class="nv">\dagger</span><span class="s">$</span>] This is where authors provide additional information about
+      the data, including whatever notes are needed.
+    <span class="k">\end</span><span class="nb">{</span>tablenotes<span class="nb">}</span>
+  <span class="k">\end</span><span class="nb">{</span>threeparttable<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>table<span class="nb">}</span></code></pre></div>
+
+<h3 id="figures">Figures</h3>
+
+<h4 id="inserting-figures">Inserting Figures</h4>
+
+<p>The following code works both for LaTeX and pdfLaTeX for inserting figures. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>figure<span class="nb">}</span>[t]
+    <span class="k">\centering</span>
+        <span class="k">\includegraphics</span><span class="nb">{</span>FigureFileName<span class="nb">}</span>
+        <span class="k">\caption</span><span class="nb">{</span>Caption<span class="nb">}</span>
+        <span class="k">\label</span><span class="nb">{</span>fig:label<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>figure<span class="nb">}</span></code></pre></div>
+
+<p>Note that an extension for the figure file name is not specified. When using pdfLaTeX, save the file with extension .pdf; when using LaTeX, save the file with extension .eps.</p>
+
+<p>Also it is very important that the \label command be placed <strong>immediately after</strong> the \caption command. Otherwise the \ref command would reference the last reference-able object, which is often the section label or the previous figure. Putting the \label command consistently before the \caption can be a dangerous practice that may completely disrupt your figure references.</p>
+
+<h4 id="changing-font-size-in-caption">Changing Font Size in Caption</h4>
+<p>Use the <em>caption</em> package. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\usepackage</span><span class="na">[font={small,it}]</span><span class="nb">{</span>caption<span class="nb">}</span>           <span class="c">% font size can be &quot;large, small, footnotesize, scriptsize,etc&quot;</span></code></pre></div>
+
+<h4 id="wrap-text-around-figures">Wrap Text Around Figures</h4>
+<p>Use the <em>wrapfig</em> package.</p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>wrapfigure<span class="nb">}{</span>r<span class="nb">}{</span>2.4in<span class="nb">}</span>            <span class="c">%&quot;r&quot; indicates right aligned. It is also important that the width be set to the actual width of the figure</span>
+   <span class="k">\begin</span><span class="nb">{</span>center<span class="nb">}</span>
+     <span class="k">\includegraphics</span><span class="nb">{</span>figure<span class="nb">}</span>
+   <span class="k">\end</span><span class="nb">{</span>center<span class="nb">}</span>
+   <span class="k">\caption</span><span class="nb">{</span>Caption.<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>wrapfigure<span class="nb">}</span></code></pre></div>
+
+<h4 id="side-by-side-figures">Side-by-side Figures</h4>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>figure<span class="nb">}</span>
+<span class="k">\centering</span>
+<span class="k">\begin</span><span class="nb">{</span>minipage<span class="nb">}{</span>.5<span class="k">\textwidth</span><span class="nb">}</span>          <span class="c">%alternatively, this could be //\minipage{0.5\textwidth}//</span>
+    <span class="k">\centering</span> 
+    <span class="k">\includegraphics</span><span class="na">[width=.85\linewidth]</span><span class="nb">{</span>figure1<span class="nb">}</span>
+    <span class="k">\captionof</span><span class="nb">{</span>figure<span class="nb">}{</span>Caption 1.<span class="nb">}</span>
+    <span class="k">\label</span><span class="nb">{</span>fig:1l<span class="nb">}</span> 
+<span class="k">\end</span><span class="nb">{</span>minipage<span class="nb">}</span>                          <span class="c">%alternatively, this could be //\endminipage//</span>
+<span class="k">\hfill</span>                                      <span class="c">% distribute the two minipages evenly. This has the effect of creating a small gap between the figures if set properly.</span>
+<span class="k">\begin</span><span class="nb">{</span>minipage<span class="nb">}{</span>.5<span class="k">\textwidth</span><span class="nb">}</span>          <span class="c">%[IMPORTANT]: there shouldn&#39;t be a blank line between the two //minipage// environments</span>
+    <span class="k">\centering</span>
+    <span class="k">\includegraphics</span><span class="na">[width=.8\linewidth]</span><span class="nb">{</span>figure2<span class="nb">}</span>
+    <span class="k">\captionof</span><span class="nb">{</span>figure<span class="nb">}{</span>Caption 2.<span class="nb">}</span>
+    <span class="k">\label</span><span class="nb">{</span>fig:2<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>minipage<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>figure<span class="nb">}</span></code></pre></div>
+
+<h4 id="figure-in-tables">Figure in tables</h4>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex">We can insert figures in tables (see example below, from http://texblog.org/2008/02/04/placing-graphicsimages-inside-a-table/), however the figures placed in tables won&#39;t get numbered and won&#39;t appear in the automatically generated list of figures.
+
+<span class="k">\begin</span><span class="nb">{</span>table<span class="nb">}</span>[ht]
+    <span class="k">\caption</span><span class="nb">{</span>A table arranging images<span class="nb">}</span>
+    <span class="k">\centering</span>
+    <span class="k">\begin</span><span class="nb">{</span>tabular<span class="nb">}{</span>cc<span class="nb">}</span>
+        <span class="k">\includegraphics</span><span class="na">[scale=1]</span><span class="nb">{</span>graphic1<span class="nb">}</span> <span class="nb">&amp;</span>   <span class="k">\includegraphics</span><span class="na">[scale=1]</span><span class="nb">{</span>graphic2<span class="nb">}</span><span class="k">\\</span>
+        <span class="k">\newline</span>
+        <span class="k">\includegraphics</span><span class="na">[scale=1]</span><span class="nb">{</span>graphic3<span class="nb">}&amp;</span><span class="k">\includegraphics</span><span class="na">[scale=1]</span><span class="nb">{</span>graphic4<span class="nb">}</span><span class="k">\\</span>
+    <span class="k">\end</span><span class="nb">{</span>tabular<span class="nb">}</span>
+    <span class="k">\label</span><span class="nb">{</span>tab:gt<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>table<span class="nb">}</span></code></pre></div>
+
+<h3 id="bibliography">Bibliography</h3>
+
+<h4 id="hiding-references">Hiding references</h4>
+
+<p>The <em>\nobibliography{bibfile}</em> command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the <em>bibentry</em> package.  </p>
+
+
+				
+      		</section>
+			
+			</div><!-- /.wrapper -->
+			<!--</div> /.container -->
+			<!--
+			<footer>
+
+			</footer>
+		    	-->
+		    	<script src="javascripts/scale.fix.js"></script>
+        			 <script type="text/javascript">
+            				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          			</script>
+          		<script type="text/javascript">
+            			try {
+              				var pageTracker = _gat._getTracker("UA-58268327-1");
+            				pageTracker._trackPageview();
+            			} catch(err) {}
+          		</script>
+		</body>
+	</html>

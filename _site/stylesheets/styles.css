@@ -4,7 +4,7 @@ body {
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
-  font-weight:300;
+  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,6 +54,18 @@ a {
   text-decoration:none;
 }
 
+h2 a {
+  font-weight:600;
+}
+
+h3 a {
+  font-weight:600;
+}
+
+h4 a {
+  font-weight:600;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -87,7 +99,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Courier;
   color:#333;
   font-size:12px;
 }
@@ -125,7 +137,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:280px;
   float:left;
   position:fixed;
 }

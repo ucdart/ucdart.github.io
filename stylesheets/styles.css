@@ -4,7 +4,7 @@ body {
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
-  font-weight:300;
+  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,6 +54,18 @@ a {
   text-decoration:none;
 }
 
+h2 a {
+  font-weight:600;
+}
+
+h3 a {
+  font-weight:600;
+}
+
+h4 a {
+  font-weight:600;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -87,7 +99,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Courier;
   color:#333;
   font-size:12px;
 }
@@ -125,7 +137,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:280px;
   float:left;
   position:fixed;
 }
@@ -279,65 +291,3 @@ footer {
     color:#444;
   }
 }
-
-/* image grid*/
-.g {
-  		padding: 0.25em;
-			overflow: hidden;
-		}
-		.g li {
-			float: left;
-			width: 50%;
-			padding: 0.25em;
-		}
-		.g img {
-			display: block;
-		}
-		.g li:nth-child(odd) {
-			clear: left;
-		}
-	
-		@media screen and (min-width: 40em) {
-			.g li {
-		    	width: 33.3333333333333333%; 
-		  	}
-		  	.g li:nth-child(3n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(odd) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 55em) {
-			.g li {
-		    	width: 25%; 
-		  	}
-		  	.g li:nth-child(4n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(3n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 72em) {
-			.g li {
-		    	width: 20%; 
-		  	}
-		  	.g li:nth-child(5n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(4n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 90em) {
-			.g li {
-		    	width: 16.666666666%; 
-		  	}
-		  	.g li:nth-child(6n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(5n+1) {
-				clear: none;
-			}
-		}
