@@ -28,7 +28,7 @@ Perhaps the best way to get started in LaTeX is to use a template.
 * [IEEE conference templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 * [IEEE journal templates](http://www.ieee.org/publications_standards/publications/authors/author_templates.html)
 
-Be sure to check the conference or journal website for thier 
+Be sure to check the conference or journal website for their designated templates.
 
 ### Document Structure
 
