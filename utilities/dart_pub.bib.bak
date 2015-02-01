@@ -486,6 +486,18 @@
   Timestamp                = {2015.01.20}
 }
 
+@Conference{wu2015a,
+  Title                    = {A 3.4–3.6-GHz High Efficiency Gallium Nitride Power Amplifier Using Bandpass Output Matching Network},
+  Author                   = {Qianteng Wu and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
+}
+
 @Conference{yu2014a,
   Title                    = {Micromachined Silicon Channels for THz Interconnect},
   Author                   = {Bo Yu and Yuhao Liu and Xing Hu and Xiaoxin Ren and Xiaoguang Liu and Qun Jane Gu},
