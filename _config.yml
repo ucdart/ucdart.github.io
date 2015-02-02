@@ -1,6 +1,8 @@
 name: Davis Adaptive RF Technology Lab
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:
+  - jekyll-sitemap
 collections:
   publication:
     output: true
