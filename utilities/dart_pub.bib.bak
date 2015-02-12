@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
 
@@ -24,6 +24,18 @@
   Doi                      = {10.1109/APMC.2009.5385256},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{anand2015a,
+  Title                    = {Capacitively Coupled Coaxial-Cavity Bandstop Filters with Tunable Center Frequency and Bandwidth},
+  Author                   = {Akash Anand and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{anand2014b,
@@ -156,6 +168,18 @@
   Doi                      = {10.1109/TMTT.2012.2220561},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{fu2015,
+  Title                    = {A Q-Band RF-MEMS Tapered True Time Delay Line for Fusion Plasma Diagnostics Systems},
+  Author                   = {Danqing Fu and Yusha A. Bey and Calvin Domier and Neville C. Luhmann, Jr. and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{garg2008,
@@ -375,9 +399,9 @@
   Year                     = {2014},
   Month                    = {Jun},
 
+  Doi                      = {10.1109/MWSYM.2014.6848666},
   Owner                    = {z3},
-  Timestamp                = {2015.01.20},
-  Url                      = {10.1109/MWSYM.2014.6848666}
+  Timestamp                = {2015.01.20}
 }
 
 @Conference{naglich2013,
@@ -460,6 +484,18 @@
 
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{wu2015a,
+  Title                    = {A 3.4-3.6-GHz High Efficiency Gallium Nitride Power Amplifier Using Bandpass Output Matching Network},
+  Author                   = {Qianteng Wu and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{yu2014a,
