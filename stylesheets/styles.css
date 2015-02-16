@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#444;
   font-weight:400;
 }
 
@@ -49,7 +49,7 @@ nav ul li, footer ul li {
 }
 
 a {
-  color:#39c;
+  color:#0487C8;
   font-weight:400;
   text-decoration:none;
 }
