@@ -52,8 +52,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 	<tr>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
 		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg" alt="Hao Wang" /></td>
-      	<td>Jose Enrique Almanza Medina (MS) <br> Visiting from Ensenada Center for Scientific Research and Higher Education, Mexico.</td>
-	</tr>
+      	</tr>
 </table>
 
 <h3> Undergraduate Students </h3>
@@ -68,8 +67,9 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 
 <hr>
 
-<h3> Alumni </h3>
+===Alumni===
 
-<ul>
-  <li>Jhonnatan Ascate Silva (Jhon) : 2012-2013, Undergrad</li>
-</ul>
+* Francis Ambion: 2013-2014, Undergrad
+* Jose Enrique Almanza Medina (MS), Visiting from Ensenada Center for Scientific Research and Higher Education, Mexico.
+* Jhonnatan Ascate Silva (Jhon) : 2012-2013, Undergrad
+* Christopher Young : 2012-2013, Undergrad

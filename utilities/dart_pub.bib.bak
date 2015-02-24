@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10.
+% This file was created with JabRef 2.10b2.
 % Encoding: UTF-8
 
 
@@ -170,6 +170,18 @@
   Timestamp                = {2015.01.20}
 }
 
+@Conference{do2015,
+  Title                    = {A 75-110GHz Micro-Machined High-Q Tunable Filter},
+  Author                   = {James T. Do and Xiaoguang Liu},
+  Booktitle                = {IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Year                     = {2015},
+  Month                    = {Apr.},
+  Note                     = {Accepted},
+
+  Owner                    = {z3},
+  Timestamp                = {2015.02.22}
+}
+
 @Conference{fu2015,
   Title                    = {A Q-Band RF-MEMS Tapered True Time Delay Line for Fusion Plasma Diagnostics Systems},
   Author                   = {Danqing Fu and Yusha A. Bey and Calvin Domier and Neville C. Luhmann, Jr. and Xiaoguang Liu},
@@ -216,6 +228,18 @@
   Doi                      = {10.1109/MWSCAS.2014.6908354},
   Owner                    = {z3},
   Timestamp                = {2015.01.21}
+}
+
+@Conference{liu2015,
+  Title                    = {Tunable RF and Microwave Filters},
+  Author                   = {Xiaoguang Liu},
+  Booktitle                = {IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Year                     = {2015},
+  Month                    = {Apr.},
+  Note                     = {Invited},
+
+  Owner                    = {z3},
+  Timestamp                = {2015.02.22}
 }
 
 @Conference{liu2011a,
@@ -402,6 +426,18 @@
   Doi                      = {10.1109/MWSYM.2014.6848666},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{liu2015,
+  Title                    = {A Novel RF-MEMS Shunt Capacitive Switch Design for Dielectric Charging Mitigation},
+  Author                   = {Yuhao Liu and Hao Wang and Yusha Bey and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications},
+  Year                     = {2015},
+  Month                    = {Jul.},
+  Note                     = {Invited},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{naglich2013,

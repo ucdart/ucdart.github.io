@@ -53,7 +53,7 @@ The usage of \thispagestyle is \thispagestyle{option}. The option can be:
 * headings - Puts running headings on each page. The document style specifies what goes in the headings.
 * myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.
 
-### Width, Length, Height, and Margin
+### Width, Length, Height, Indentation, and Margin
 
 Source: [TexExchange](http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex):
 
@@ -70,6 +70,13 @@ Equal margins on all sides of a page can be easily created by using the *geometr
 
 {% highlight latex %}
 \usepackage[margin=1in]{geometry}
+{% endhighlight %}
+
+#### Paragraph indentation
+Put a \noindent before a paragraph to remove the indentation of that paragraph. If you want to remove indentations for all paragraphs, you can put the following in the preamble of the tex file. 
+
+{% highlight latex %}
+\setlength\parindent{0pt}
 {% endhighlight %}
 
 ### Text
@@ -116,6 +123,14 @@ Use the enumitem package. The manual for the package can be found [here](http://
     \item xxx
     \item xxx
 \end{enumerate}
+{% endhighlight %}
+
+#### Custom label in enumerate and itemize environment
+Again, use the {\tt enumitem} package. There are several options to choose from: \alph*, \Alph*, \arabic*, \roman*, and
+\Roman*. 
+
+{% highlight latex %}
+\begin{enumerate}[label=\alph* )]
 {% endhighlight %}
 
 #### In-line list
