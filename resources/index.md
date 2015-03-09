@@ -24,6 +24,15 @@ published: true
 * [Matjaz S53MZ's Ham Radio Site](http://lea.hamradio.si/~s53mv/)
 * [Scotty Spectrum Analyzer](http://www.scottyspectrumanalyzer.com/): Build your own spectrum analyzer for under $1,000. [Mailinglist](https://groups.yahoo.com/neo/groups/spectrumanalyzer/info)
 
+#### Conferences and Journals Archives
+
+* [IEEE International Microwave Symposium](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000460)
+* [IEEE Transactions on Microwave Theory and Techniques](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
+* [IEEE Microwave Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668)
+* [IEEE Wireless and Microwave Component Letters](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7260)
+* [IEEE/ASME Journal of Microelectromechanical Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=84)
+* [IEEE Journal on Solid State Circuits](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4)
+
 ### Misc
 
 * [The Unofficial MTT Symposium Website](http://www.nonlintec.com/mttsymposium/)
