@@ -53,7 +53,7 @@ The usage of \thispagestyle is \thispagestyle{option}. The option can be:
 * headings - Puts running headings on each page. The document style specifies what goes in the headings.
 * myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.
 
-### Width, Length, Height, and Margin
+### Width, Length, Height, Indentation, and Margin
 
 Source: [TexExchange](http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex):
 
