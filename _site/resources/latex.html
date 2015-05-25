@@ -17,7 +17,7 @@
 				<p></p>
               
 			<p>
-              <a href="/">Home</a> | <a href="/people">People</a> | <a href="/research">Research</a>-<a href="/research/publications.html">Publications</a> | <a href="/education">Education</a> | <a href="/education/outreach.html">Outreach</a>| <a href="/resources">Resources</a> | <a href="/facility">Facilities</a> | <a href="https://github.com/ucdart">GitHub</a> | <a href="/test.html">Test</a> |
+              <a href="/">Home</a> | <a href="/people">People</a> | <a href="/research">Research</a>-<a href="/research/publications.html">Publications</a> | <a href="/education">Education</a> | <a href="/resources">Resources</a> | <!-- | <a href="/education/outreach.html">Outreach</a> | <a href="/facility">Facilities</a> | <a href="/test.html">Test</a> | -->
 			</p>
 			
 			<p>
@@ -43,13 +43,14 @@
 			</ul>
 			
 			<p>
-	        		<a href="mailto:dart.ucdavis@gmail.com">email</a>
+	        		<a href="mailto:dart.ucdavis@gmail.com">email</a> |  <a href="https://github.com/ucdart">GitHub</a> 
 			</p>
 			
+            <!--
               <p>
                 <small>This website is hosted by Github Pages. This means that all the sources files are open (as in open-source) in a <a href="https://github.com/ucdart/ucdart.github.io.git">Github repository</a>. You can contribute to the content by sending a pull request. </small>
               </p>
-              
+            -->  
 			</header>
       		
       		<section>
@@ -83,7 +84,7 @@
   <li><a href="http://www.ieee.org/publications_standards/publications/authors/author_templates.html">IEEE journal templates</a></li>
 </ul>
 
-<p>Be sure to check the conference or journal website for thier </p>
+<p>Be sure to check the conference or journal website for their designated templates.</p>
 
 <h3 id="document-structure">Document Structure</h3>
 
@@ -108,7 +109,7 @@
   <li>myheadings - You specify what is to go in the heading with the \markboth or the \markright commands.</li>
 </ul>
 
-<h3 id="width-length-height-and-margin">Width, Length, Height, and Margin</h3>
+<h3 id="width-length-height-indentation-and-margin">Width, Length, Height, Indentation, and Margin</h3>
 
 <p>Source: <a href="http://tex.stackexchange.com/questions/4239/which-measurement-units-should-one-use-in-latex">TexExchange</a>:</p>
 
@@ -121,6 +122,16 @@
   <li>When things should be relative, it will often make more sense to define them in terms of the page design. For example, width=0.5\linewidth might make more sense than width=5cm for a figure.</li>
   <li>Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common “PostScript point” used by most other software is 1/72in which in TeX is 1bp. If you’re dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.</li>
 </ul>
+
+<h4 id="creating-equal-margins-on-all-sides">Creating equal margins on all sides</h4>
+<p>Equal margins on all sides of a page can be easily created by using the <em>geometry</em> package. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\usepackage</span><span class="na">[margin=1in]</span><span class="nb">{</span>geometry<span class="nb">}</span></code></pre></div>
+
+<h4 id="paragraph-indentation">Paragraph indentation</h4>
+<p>Put a \noindent before a paragraph to remove the indentation of that paragraph. If you want to remove indentations for all paragraphs, you can put the following in the preamble of the tex file. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\setlength\parindent</span><span class="nb">{</span>0pt<span class="nb">}</span></code></pre></div>
 
 <h3 id="text">Text</h3>
 
@@ -164,6 +175,12 @@
     <span class="k">\item</span> xxx
     <span class="k">\item</span> xxx
 <span class="k">\end</span><span class="nb">{</span>enumerate<span class="nb">}</span></code></pre></div>
+
+<h4 id="custom-label-in-enumerate-and-itemize-environment">Custom label in enumerate and itemize environment</h4>
+<p>Again, use the {\tt enumitem} package. There are several options to choose from: \alph<em>, \Alph</em>, \arabic<em>, \roman</em>, and
+\Roman*. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>enumerate<span class="nb">}</span>[label=<span class="k">\alph*</span> )]</code></pre></div>
 
 <h4 id="in-line-list">In-line list</h4>
 <p>Use the <em>enumerate*</em> and <em>itemize*</em> environments in the enumitem package. The <em>inline</em> option needs to be enabled in the enumitem package. </p>
@@ -278,6 +295,28 @@
    <span class="k">\caption</span><span class="nb">{</span>Caption.<span class="nb">}</span>
 <span class="k">\end</span><span class="nb">{</span>wrapfigure<span class="nb">}</span></code></pre></div>
 
+<h4 id="adjusting-the-space-around-figuresfloats">Adjusting the space around figures/floats</h4>
+<p>Direct application of the <em>wrapfigure</em> environment often results in excessive white space above the figures. The following trick can be used to adjust the spacing. </p>
+
+<div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begingroup</span>
+<span class="k">\setlength\intextsep</span><span class="nb">{</span>-3pt<span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>wrapfigure<span class="nb">}{</span>r<span class="nb">}{</span>3.2 in<span class="nb">}</span>            <span class="c">%&quot;r&quot; indicates right aligned</span>
+   <span class="k">\begin</span><span class="nb">{</span>center<span class="nb">}</span>
+     <span class="k">\includegraphics</span><span class="nb">{</span>trends<span class="nb">}</span>
+   <span class="k">\end</span><span class="nb">{</span>center<span class="nb">}</span>
+   <span class="k">\caption</span><span class="nb">{</span>The trend and projection of chip-to-chip communication data
+   bandwidth and the number of pins over the time. Data from D. Huang, IEEE HSD
+   Workshop, Santa Fe, 2011~<span class="k">\cite</span><span class="nb">{</span>huang2011<span class="nb">}}</span>
+   <span class="k">\label</span><span class="nb">{</span>fig:trends<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>wrapfigure<span class="nb">}</span>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+<span class="k">\endgroup</span></code></pre></div>
+
+<p>Note that the group includes the wrapped figure and some texts. The text must exceed the vertical span of the figure, otherwise the following paragraph will intrude into the figure. </p>
+
 <h4 id="side-by-side-figures">Side-by-side Figures</h4>
 
 <div class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\begin</span><span class="nb">{</span>figure<span class="nb">}</span>
@@ -316,8 +355,7 @@
 
 <h4 id="hiding-references">Hiding references</h4>
 
-<p>The <em>\nobibliography{bibfile}</em> command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the <em>bibentry</em> package.  </p>
-
+<p>The <em>\nobibliography{bibfile}</em> command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the <em>bibentry</em> package.</p>
 
 				
       		</section>

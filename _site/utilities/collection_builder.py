@@ -66,7 +66,7 @@ def bib2jekyllcol (inputFile, outputDir):
     bib_database = bibtexparser.loads(bibtex_str) 
     
     # create dictionary for transformation of month to number
-    month_list = ["jan", "feb", "mar", "apr", "may", "june", "july", "aug", "sept", "oct", "nov", "dec"]
+    month_list = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
     
     # type names:
     type_list = ["type", "title", "author", "journal", "volume", "number",

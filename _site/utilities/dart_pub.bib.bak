@@ -26,6 +26,18 @@
   Timestamp                = {2015.01.20}
 }
 
+@Conference{anand2015a,
+  Title                    = {Capacitively Coupled Coaxial-Cavity Bandstop Filters with Tunable Center Frequency and Bandwidth},
+  Author                   = {Akash Anand and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
+}
+
 @Conference{anand2014b,
   Title                    = {Substrate-Integrated Coaxial-Cavity Filter With Tunable Center Frequency and Reconfigurable Bandwidth},
   Author                   = {Akash Anand and Xiaoguang Liu},
@@ -158,6 +170,30 @@
   Timestamp                = {2015.01.20}
 }
 
+@Conference{do2015,
+  Title                    = {A 75-110GHz Micro-Machined High-Q Tunable Filter},
+  Author                   = {James T. Do and Xiaoguang Liu},
+  Booktitle                = {IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Year                     = {2015},
+  Month                    = {Apr.},
+  Note                     = {Accepted},
+
+  Owner                    = {z3},
+  Timestamp                = {2015.02.22}
+}
+
+@Conference{fu2015,
+  Title                    = {A Q-Band RF-MEMS Tapered True Time Delay Line for Fusion Plasma Diagnostics Systems},
+  Author                   = {Danqing Fu and Yusha A. Bey and Calvin Domier and Neville C. Luhmann, Jr. and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
+}
+
 @Conference{garg2008,
   Title                    = {Post-release Displacement Uncertainty of Micro-Cantilevers due to Anchor Over/Under Etching},
   Author                   = {Anurag Garg and Joshua Small and Xiaoguang Liu and Dimitrios Peroulis},
@@ -180,6 +216,30 @@
   Doi                      = {10.1109/ICSENS.2009.5398591},
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{hasan2014,
+  Title                    = {Reconfigurable N-path RF front-end filter with improved blocker rejection},
+  Author                   = {Md. Naimul Hasan and Sudhir Aggarwal Qun Jane Gu and Xiaoguang Liu},
+  Booktitle                = {IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)},
+  Year                     = {2014},
+  Month                    = {Aug.},
+
+  Doi                      = {10.1109/MWSCAS.2014.6908354},
+  Owner                    = {z3},
+  Timestamp                = {2015.01.21}
+}
+
+@Conference{liu2015,
+  Title                    = {Tunable RF and Microwave Filters},
+  Author                   = {Xiaoguang Liu},
+  Booktitle                = {IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Year                     = {2015},
+  Month                    = {Apr.},
+  Note                     = {Invited},
+
+  Owner                    = {z3},
+  Timestamp                = {2015.02.22}
 }
 
 @Conference{liu2011a,
@@ -363,9 +423,21 @@
   Year                     = {2014},
   Month                    = {Jun},
 
+  Doi                      = {10.1109/MWSYM.2014.6848666},
   Owner                    = {z3},
-  Timestamp                = {2015.01.20},
-  Url                      = {10.1109/MWSYM.2014.6848666}
+  Timestamp                = {2015.01.20}
+}
+
+@Conference{liu2015,
+  Title                    = {A Novel RF-MEMS Shunt Capacitive Switch Design for Dielectric Charging Mitigation},
+  Author                   = {Yuhao Liu and Hao Wang and Yusha Bey and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications},
+  Year                     = {2015},
+  Month                    = {Jul.},
+  Note                     = {Invited},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{naglich2013,
@@ -413,7 +485,7 @@
 
 @Article{small2012a,
   Title                    = {Electrostatic fringing-field actuation for pull-in free RF-MEMS analogue tunable resonators},
-  Author                   = {Joshua Small and Wasim Irshad and Adam Fruehling and Anurag Garg and Xiaoguang Liu and Dimitrios Peroulis},
+  Author                   = {Joshua Small and Wasim Irshad and Adam Fruehling and Anurag Garg and Xiaoguang Liu and Dimitrios Peroulis},
   Journal                  = {Journal of Micromechanics and Microengineering},
   Year                     = {2012},
 
@@ -448,6 +520,18 @@
 
   Owner                    = {z3},
   Timestamp                = {2015.01.20}
+}
+
+@Conference{wu2015a,
+  Title                    = {A 3.4-3.6-GHz High Efficiency Gallium Nitride Power Amplifier Using Bandpass Output Matching Network},
+  Author                   = {Qianteng Wu and Xiaoguang Liu},
+  Booktitle                = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Year                     = {2015},
+  Month                    = {May.},
+  Note                     = {Accepted},
+
+  Owner                    = {Xiaoguang},
+  Timestamp                = {2015.01.31}
 }
 
 @Conference{yu2014a,
