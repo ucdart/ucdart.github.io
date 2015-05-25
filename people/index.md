@@ -68,6 +68,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 <hr>
 
 ===Alumni===
+
 * Francis Ambion: 2013-2014, Undergrad
 * Jose Enrique Almanza Medina (MS), Visiting from Ensenada Center for Scientific Research and Higher Education, Mexico.
 * Jhonnatan Ascate Silva (Jhon) : 2012-2013, Undergrad
