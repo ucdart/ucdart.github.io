@@ -59,16 +59,19 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Francis Ambion <br> <img src="/images/francis.jpg" alt="Francsi Ambion"/></td>
       	<td style="width:30%">James Chen <br> <img src="/images/jameschen.jpg" alt="James Chen" /></td>
-      <td style="width:30%">&nbsp;<br>&nbsp;</td>
+	<td sytle="width:30%">Oleg Khokhlan <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /></td>      
+<td style="width:30%">&nbsp;<br>&nbsp;</td>
 	</tr>
 </table>
 
 
 ### Alumni
 
-* Francis Ambion: 2013-2014, Undergrad
-* Jose Enrique Almanza Medina (MS): 2014, Visiting from Ensenada Center for Scientific Research and Higher Education, Mexico.
-* Jhonnatan Ascate Silva (Jhon) : 2012-2013, Undergrad
-* Christopher Young : 2012-2013, Undergrad
+| Name | Year | Degree | Notes |
+| :--- |:---|:---:|:----------|
+| [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
+| Francis Ambion| 2013 - 2014 | Undergrad |&nbsp;|
+| Jose Enrique Almanza Medina| 2014| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|&nbsp;|
+| [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
+| Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
