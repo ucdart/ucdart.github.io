@@ -72,6 +72,6 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | :--- |:---|:---:|:----------|
 | [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
 | Francis Ambion| 2013 - 2014 | Undergrad |&nbsp;|
-| Jose Enrique Almanza Medina| 2014| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|&nbsp;|
+| Jose Enrique Almanza Medina| 2014| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
 | Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
