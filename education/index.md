@@ -17,4 +17,6 @@ published: true
 
 ### Projects
 
+* Christopher Bird, Shalmali Joshi, Lindsey Raven, Angela Tobin, "[Computer vision based UAV navigation](/education/files/eec181_UAV_Final_Report.pdf)"
+
 ### Outreach
