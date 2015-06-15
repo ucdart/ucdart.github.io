@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dr. Liu Awarded a Hellman Foundation Fellowship" 
+title: "Akash Anand Awarded an NDSEG Fellowship" 
 date: 2013-05-01
 category: news
 ---
