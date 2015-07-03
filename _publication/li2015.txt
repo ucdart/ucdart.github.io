@@ -1,0 +1,16 @@
+---
+type: conference
+title: Wide Band MM-Wave, Double-sided Printed Bow-Tie Antenna for Phased Array Applications
+author: Meijiao Li and Calvin Domier and Xiaoguang Liu and Neville Luhmann
+journal:
+volume:
+number:
+year: 2015
+month: Jul.
+doi:
+pages:
+publisher:
+booktitle: 2015 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting
+note: Student Paper Competition Honourable Mention
+sort_key: 201507
+---
