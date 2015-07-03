@@ -1,0 +1,16 @@
+---
+type: conference
+title: An experimental study of 2-D cardiac motion pattern based on contact radar measurement
+author: Songjie Bi and Dennis Matthews and Xiaoguang Liu
+journal:
+volume:
+number:
+year: 2015
+month: Apr.
+doi: 10.1109/WAMICON.2015.7120390
+pages:
+publisher:
+booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
+note: Invited
+sort_key: 201504
+---
