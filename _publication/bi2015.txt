@@ -11,6 +11,6 @@ doi: 10.1109/WAMICON.2015.7120390
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
-note: Invited
+note: 
 sort_key: 201504
 ---
