@@ -15,13 +15,8 @@ published: true
 </div>
 
 <p>
-<a href='http://goo.gl/wMrPPD'> My Calendar </a>
-</p>
-
-<p>
 Assistant Professor <br>
 Department of Electrical and Computer Engineering <br>
-Davis Millimeter-wave Research Center <br>
 University of California, Davis <br>
 </p>
 
@@ -30,9 +25,10 @@ Mailing Address: <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One Shields. Ave., <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2064 Kemper Hall, <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Davis, CA, 95616<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office: 3169 Kemper Hall<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel.: (530)-289-6367<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: lxgliu@ucdavis.edu
+Office: 3169 Kemper Hall<br>
+Tel.: (530)-289-6367<br>
+Email: lxgliu@ucdavis.edu
+<a href='http://goo.gl/wMrPPD'> My Calendar </a>
 </p>
 
 <p>
