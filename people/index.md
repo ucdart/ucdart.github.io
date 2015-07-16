@@ -74,4 +74,5 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | Francis Ambion| 2013 - 2014 | Undergrad |&nbsp;|
 | Jose Enrique Almanza Medina| 2014| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
+| Zhiyuang Yang, Sensen Li, Huangqing Xiao | 2012 Summer | Undergrad | UC Davis GREAT Program |
 | Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
