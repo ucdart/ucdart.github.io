@@ -71,8 +71,13 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
 | [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
-| Francis Ambion| 2013 - 2014 | Undergrad |&nbsp;|
-| Jose Enrique Almanza Medina| 2014| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
+| Francis Ambion| 2013 - 2015 | Undergrad |&nbsp;|
+| Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
+| Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
+| Myung-Ju Song | 2014 Summer | High School | Mini-Project Summer Camp. His [Youtube Channel](https://www.youtube.com/user/MJSBEST/videos) documenting his learning experience |
+| Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | UC Davis GREAT Program |
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
-| Zhiyuang Yang, Sensen Li, Huangqing Xiao | 2012 Summer | Undergrad | UC Davis GREAT Program |
+| Donald Pinkney and [Usama Riaz](https://www.linkedin.com/pub/usama-riaz/90/743/6a6) | 2012 - 2014 | High School | Worked on a Smith Chart program for iOS! |
+| Meng Wei | 2013 Summer | Undergrad | UC Davis GREAT Program |
+| [Zhiyuang Yang](https://www.linkedin.com/in/zhiyuanyang), [Sensen Li](https://www.linkedin.com/pub/sensen-li/b5/586/1b1), Huangqing Xiao | 2012 Summer | Undergrad | UC Davis GREAT Program |
 | Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
