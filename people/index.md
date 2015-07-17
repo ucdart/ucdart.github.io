@@ -59,7 +59,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td style="width:30%">Marzhan Bekbalanova <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /> </td>
 	</tr>
 	<tr>
-      	<td style="width:30%">Hengjiu Kang <br> <img src="/images/jameschen.jpg" alt="Hengjiu Kang" /></td>
+      	<td style="width:30%">Hengjiu Kang <br> <img src="/images/blank.jpg" alt="Hengjiu Kang" /></td>
 		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>      
 		<td style="width:30%">Kim-Thu Pham <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
 	</tr>
