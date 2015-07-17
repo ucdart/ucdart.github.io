@@ -45,8 +45,8 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
 	</tr>
 	<tr>
-		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Neville Luhmann</a> <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
-		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Neville Luhmann</a> <br> <img src="/images/blank.jpg" alt="Meijiao Li" /></td>
+		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
+		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/blank.jpg" alt="Meijiao Li" /></td>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
 	</tr>
 	<tr>
