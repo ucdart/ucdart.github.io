@@ -76,6 +76,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
 | Myung-Ju Song | 2014 Summer | High School | Mini-Project Summer Camp. His [Youtube Channel](https://www.youtube.com/user/MJSBEST/videos) documenting his learning experience |
+| Xiaoxiao Fan | 2014 Summer | Undergrad | Summer exchange student from Zhejiang University, China |
 | Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | UC Davis GREAT Program |
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
 | Donald Pinkney and [Usama Riaz](https://www.linkedin.com/pub/usama-riaz/90/743/6a6) | 2012 - 2014 | High School | Worked on a Smith Chart program for iOS! |
