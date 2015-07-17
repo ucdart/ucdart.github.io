@@ -82,9 +82,9 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
 | Myung-Ju Song | 2014 Summer | High School | Mini-Project Summer Camp. His [Youtube Channel](https://www.youtube.com/user/MJSBEST/videos) documenting his learning experience |
 | Xiaoxiao Fan | 2014 Summer | Undergrad | Summer exchange student from Zhejiang University, China |
-| Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | UC Davis GREAT Program |
+| Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
 | Donald Pinkney and [Usama Riaz](https://www.linkedin.com/pub/usama-riaz/90/743/6a6) | 2012 - 2014 | High School | Worked on a Smith Chart program for iOS! |
-| Meng Wei | 2013 Summer | Undergrad | UC Davis GREAT Program |
-| [Zhiyuang Yang](https://www.linkedin.com/in/zhiyuanyang), [Sensen Li](https://www.linkedin.com/pub/sensen-li/b5/586/1b1), Huangqing Xiao | 2012 Summer | Undergrad | UC Davis GREAT Program |
+| Meng Wei | 2013 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
+| [Zhiyuang Yang](https://www.linkedin.com/in/zhiyuanyang), [Sensen Li](https://www.linkedin.com/pub/sensen-li/b5/586/1b1), Huangqing Xiao | 2012 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
