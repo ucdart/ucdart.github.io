@@ -45,7 +45,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
 	</tr>
 	<tr>
-		<td>Fengqi Hu (PhD, <br>Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
+		<td>Fengqi Hu (PhD) <br>Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html) <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
 		<td>Meijiao Li (PhD, Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Meijiao Li" /></td>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
 	</tr>
@@ -85,6 +85,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
 | Donald Pinkney and [Usama Riaz](https://www.linkedin.com/pub/usama-riaz/90/743/6a6) | 2012 - 2014 | High School | Worked on a Smith Chart program for iOS! |
+| David Arellanes | 2013  | Undergrad | Developed electroplating setup |
 | Meng Wei | 2013 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Zhiyuang Yang](https://www.linkedin.com/in/zhiyuanyang), [Sensen Li](https://www.linkedin.com/pub/sensen-li/b5/586/1b1), Huangqing Xiao | 2012 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | Jhonnatan Ascate Silva (Jhon) and Christopher Young | 2012 - 2013 | Undergrad |Winner of the 2012 IEEE MTT-S Student Video Competition: [https://youtu.be/aN-d_k-SWzc](https://youtu.be/aN-d_k-SWzc)|
