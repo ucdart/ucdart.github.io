@@ -45,7 +45,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
 	</tr>
 	<tr>
-		<td>Fengqi Hu (PhD, Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
+		<td>Fengqi Hu (PhD, <br>Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
 		<td>Meijiao Li (PhD, Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Meijiao Li" /></td>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
 	</tr>
