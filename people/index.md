@@ -45,9 +45,13 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
 	</tr>
 	<tr>
+		<td>Fengqi Hu (PhD, Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Fengqi Hu" /></td>
+		<td>Meijiao Li (PhD, Co-advised with Prof. Neville Luhmann) <br> <img src="/images/blank.jpg" alt="Meijiao Li" /></td>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
+	</tr>
+	<tr>
 		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg" alt="Hao Wang" /></td>
-		<td style="width:30%">Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
+		<td>Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
       	</tr>
 </table>
 
@@ -74,6 +78,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 | [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
 | Francis Ambion| 2013 - 2015 | Undergrad |&nbsp;|
 | Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
+| Danqing Fu | 2014 | Ph.D. | Co-advised with Prof. Neville Luhmann. Dissertation topic: [RF MEMS Varactor-Based True Time Delay Line Technology for Phased Antenna Array Systems](http://search.proquest.com/docview/1665571996/DABBEE94F2F34F32PQ/1?accountid=14505) |
 | Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
 | Myung-Ju Song | 2014 Summer | High School | Mini-Project Summer Camp. His [Youtube Channel](https://www.youtube.com/user/MJSBEST/videos) documenting his learning experience |
 | Xiaoxiao Fan | 2014 Summer | Undergrad | Summer exchange student from Zhejiang University, China |
