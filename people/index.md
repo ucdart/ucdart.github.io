@@ -7,7 +7,7 @@ published: true
 <h3>Principle Investigator</h3>
 
 <p>
-<b>Xiaoguang "Leo" Liu</b>
+<b>Xiaoguang "Leo" Liu, PhD, Assistant Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
@@ -15,7 +15,6 @@ published: true
 </div>
 
 <p>
-Assistant Professor <br>
 Department of Electrical and Computer Engineering <br>
 University of California, Davis <br>
 </p>
@@ -27,7 +26,7 @@ Mailing Address: <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Davis, CA, 95616<br>
 Office: 3169 Kemper Hall<br>
 Tel.: (530)-289-6367<br>
-Email: lxgliu@ucdavis.edu
+Email: lxgliu@ucdavis.edu <br>
 <a href='http://goo.gl/wMrPPD'> My Calendar </a>
 </p>
 
@@ -58,6 +57,11 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
       	<td style="width:30%">James Chen <br> <img src="/images/jameschen.jpg" alt="James Chen" /></td>
 		<td sytle="width:30%">Oleg Khokhlan <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /></td>      
 		<td style="width:30%">Marzhan Bekbalanova <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /> </td>
+	</tr>
+	<tr>
+      	<td style="width:30%">Hengjiu Kang <br> <img src="/images/jameschen.jpg" alt="Hengjiu Kang" /></td>
+		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>      
+		<td style="width:30%">Kim-Thu Pham <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
 	</tr>
 </table>
 
