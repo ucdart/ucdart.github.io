@@ -47,6 +47,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 	<tr>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
 		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg" alt="Hao Wang" /></td>
+		<td style="width:30%">Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
       	</tr>
 </table>
 
@@ -61,7 +62,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 	<tr>
       	<td style="width:30%">Hengjiu Kang <br> <img src="/images/blank.jpg" alt="Hengjiu Kang" /></td>
 		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>      
-		<td style="width:30%">Kim-Thu Pham <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
+
 	</tr>
 </table>
 
