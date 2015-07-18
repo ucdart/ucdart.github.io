@@ -8,9 +8,9 @@ published: true
 
 Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic information on LaTeX. Some great introductory tutorials on LaTeX include [The Not So Short Introduction to LaTeX2e](http://tobi.oetiker.ch/lshort/lshort.pdf) by [Tobi Oetiker](http://tobi.oetiker.ch/hp/) and the [LATEX Tutorials -- A PRIMER](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) by the Indian Tex User Group. The [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX) is also a great start point. Intermediate level users may find *"Guide to LaTeX: Tools and Techniques for Computer Typesetting"* by Helmut Kopka and Patrick W. Daly useful. For users of all levels, the [LaTeX Stack Exchange](http://tex.stackexchange.com/) site is always a great resource. 
 
-### LaTeX editors 
+### LaTeX editors
 
-[Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed. 
+[Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed.
 
 * Installation:
    * Download and unzip Eclipse: Eclipse requires Java VM to run. If you downloaded 64-bit Eclipse, make sure you install 64-bit Java.
@@ -18,11 +18,11 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
 
 * The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
 
-[Texstudio](http://texstudio.sourceforge.net) is also a highly recommended editor with a fairly complete set of functionalities. 
+[Texstudio](http://texstudio.sourceforge.net) is also a highly recommended editor with a fairly complete set of functionalities.
 
 ### LaTeX Templates
 
-Perhaps the best way to get started in LaTeX is to use a template. 
+Perhaps the best way to get started in LaTeX is to use a template.
 
 * [UC Davis dissertation template](http://galois.math.ucdavis.edu/UsefulGradInfo/HelpfulAdvice/WritingYourThesis)
 * [IEEE conference templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
@@ -66,14 +66,14 @@ There are no hard-and-fast rules, but here's a short list of guidelines:
 * Watch out for the pt unit! In TeX, 1pt is 1/72.27in, whereas the more common "PostScript point" used by most other software is 1/72in which in TeX is 1bp. If you're dealing with other programs and need your lengths exact, use bp or use standard cm or in measurements.
 
 #### Creating equal margins on all sides
-Equal margins on all sides of a page can be easily created by using the *geometry* package. 
+Equal margins on all sides of a page can be easily created by using the *geometry* package.
 
 {% highlight latex %}
 \usepackage[margin=1in]{geometry}
 {% endhighlight %}
 
 #### Paragraph indentation
-Put a \noindent before a paragraph to remove the indentation of that paragraph. If you want to remove indentations for all paragraphs, you can put the following in the preamble of the tex file. 
+Put a \noindent before a paragraph to remove the indentation of that paragraph. If you want to remove indentations for all paragraphs, you can put the following in the preamble of the tex file.
 
 {% highlight latex %}
 \setlength\parindent{0pt}
@@ -83,7 +83,7 @@ Put a \noindent before a paragraph to remove the indentation of that paragraph. 
 
 #### Numbers and Units
 
-In general there should be a space between a number and it's corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by "number\,unit". Sometimes it is also acceptable to use "number~unit". The "~" creates a typical space, which is longer than the "\,". 
+In general there should be a space between a number and it's corresponding unit. This space is shorter than a typical space between words. In LaTeX, this can be implement by "number\,unit". Sometimes it is also acceptable to use "number~unit". The "~" creates a typical space, which is longer than the "\,".
 
 A better alternative is to use the *siunitx* package. The manual of the package can be found [here](http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf)
 
@@ -95,14 +95,14 @@ A better alternative is to use the *siunitx* package. The manual of the package 
 \num{1.654 x 2.34 x 3.430}  %multiplication sign
 
 %angles
-\ang{10} 
+\ang{10}
 \ang{12.3}
-\ang{4,5} 
+\ang{4,5}
 \ang{1;2;3}                 %arc format: degree;minute;sec
 \ang{;;1} \\
 
 % units
-\si{kg.m.s^{-1}} 
+\si{kg.m.s^{-1}}
 \si{\kilogram\metre\per\second}
 \si{\degreeCelsius}             %degree Celsius
 
@@ -110,7 +110,7 @@ A better alternative is to use the *siunitx* package. The manual of the package 
 \SI{100}{\micro\metre}
 
 %list and range
-\numlist{10;20;30} 
+\numlist{10;20;30}
 \SIlist{0.13;0.67;0.80}{\milli\metre}
 \numrange{10}{20}
 \SIrange{0.13}{0.67}{\milli\metre}      %\meter can also be used.
@@ -127,14 +127,14 @@ Use the enumitem package. The manual for the package can be found [here](http://
 
 #### Custom label in enumerate and itemize environment
 Again, use the {\tt enumitem} package. There are several options to choose from: \alph*, \Alph*, \arabic*, \roman*, and
-\Roman*. 
+\Roman*.
 
 {% highlight latex %}
 \begin{enumerate}[label=\alph* )]
 {% endhighlight %}
 
 #### In-line list
-Use the *enumerate\** and *itemize\** environments in the enumitem package. The *inline* option needs to be enabled in the enumitem package. 
+Use the *enumerate\** and *itemize\** environments in the enumitem package. The *inline* option needs to be enabled in the enumitem package.
 {% highlight latex %}
 \usepackage[inline]{enumitem}
 {% endhighlight %}
@@ -192,7 +192,7 @@ Using multiple \[ \] can generate center aligned equations without equation numb
 
 #### Multi-page Tables
 
-Use package *longtable*. [Here](http://users.sdsc.edu/~ssmallen/latex/longtable.html) is one example. 
+Use package *longtable*. [Here](http://users.sdsc.edu/~ssmallen/latex/longtable.html) is one example.
 
 #### Adding notes to table
 
@@ -226,7 +226,7 @@ Use the *threeparttable* package. Below is an example. Source: http://tex.stacke
 
 #### Inserting Figures
 
-The following code works both for LaTeX and pdfLaTeX for inserting figures. 
+The following code works both for LaTeX and pdfLaTeX for inserting figures.
 
 {% highlight latex %}
 \begin{figure}[t]
@@ -242,7 +242,7 @@ Note that an extension for the figure file name is not specified. When using pdf
 Also it is very important that the \label command be placed **immediately after** the \caption command. Otherwise the \ref command would reference the last reference-able object, which is often the section label or the previous figure. Putting the \label command consistently before the \caption can be a dangerous practice that may completely disrupt your figure references.
 
 #### Changing Font Size in Caption
-Use the *caption* package. 
+Use the *caption* package.
 {% highlight latex %}
 \usepackage[font={small,it}]{caption}           % font size can be "large, small, footnotesize, scriptsize,etc"
 {% endhighlight %}
@@ -260,7 +260,7 @@ Use the *wrapfig* package.
 {% endhighlight %}
 
 #### Adjusting the space around figures/floats
-Direct application of the *wrapfigure* environment often results in excessive white space above the figures. The following trick can be used to adjust the spacing. 
+Direct application of the *wrapfigure* environment often results in excessive white space above the figures. The following trick can be used to adjust the spacing.
 
 {% highlight latex %}
 
@@ -277,12 +277,12 @@ Direct application of the *wrapfigure* environment often results in excessive wh
    \label{fig:trends}
 \end{wrapfigure}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 \endgroup
 {% endhighlight %}
 
-Note that the group includes the wrapped figure and some texts. The text must exceed the vertical span of the figure, otherwise the following paragraph will intrude into the figure. 
+Note that the group includes the wrapped figure and some texts. The text must exceed the vertical span of the figure, otherwise the following paragraph will intrude into the figure.
 
 #### Side-by-side Figures
 
@@ -290,10 +290,10 @@ Note that the group includes the wrapped figure and some texts. The text must ex
 \begin{figure}
 \centering
 \begin{minipage}{.5\textwidth}          %alternatively, this could be //\minipage{0.5\textwidth}//
-    \centering 
+    \centering
     \includegraphics[width=.85\linewidth]{figure1}
     \captionof{figure}{Caption 1.}
-    \label{fig:1l} 
+    \label{fig:1l}
 \end{minipage}                          %alternatively, this could be //\endminipage//
 \hfill                                      % distribute the two minipages evenly. This has the effect of creating a small gap between the figures if set properly.
 \begin{minipage}{.5\textwidth}          %[IMPORTANT]: there shouldn't be a blank line between the two //minipage// environments

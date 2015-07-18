@@ -31,7 +31,7 @@ Email: lxgliu@ucdavis.edu <br>
 </p>
 
 <p>
-Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He was a post-doctoral researcher at Purdue University before joining UC Davis. His academic interests are in the areas of high frequency electronics and engineering education. As a student, he received the graduate research fellowship from IEEE Antenna and Propagation Society in 2009. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW. 
+Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He was a post-doctoral researcher at Purdue University before joining UC Davis. His academic interests are in the areas of high frequency electronics and engineering education. As a student, he received the graduate research fellowship from IEEE Antenna and Propagation Society in 2009. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
 </p>
 
 <hr>
@@ -60,12 +60,12 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 <table style="width:100%">
 	<tr>
       	<td style="width:30%">James Chen <br> <img src="/images/jameschen.jpg" alt="James Chen" /></td>
-		<td sytle="width:30%">Oleg Khokhlan <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /></td>      
+		<td sytle="width:30%">Oleg Khokhlan <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /></td>
 		<td style="width:30%">Marzhan Bekbalanova <br> <img src="/images/blank.jpg" alt="Oleg Khokhlan" /> </td>
 	</tr>
 	<tr>
       	<td style="width:30%">Hengjiu Kang <br> <img src="/images/blank.jpg" alt="Hengjiu Kang" /></td>
-		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>      
+		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>
 
 	</tr>
 </table>
