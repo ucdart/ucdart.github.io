@@ -17,13 +17,13 @@ published: true
 
 ### Technical
 
-####For RF Engineers
+#### For RF Engineers
 * [Microwave101](http://www.microwaves101.com/): An encyclopedic collection of microwave engineering knowledge with no lack of a sense of humor.
 * [The Signal Path Blog](http://thesignalpath.com/blogs/): Review, teardown, and repair of electronic instrument, with a focus on high frequency gears. Be sure to subscribe to the [Youtue channel](https://www.youtube.com/user/TheSignalPathBlog) also.
 * [Matjaz S53MZ's Ham Radio Site](http://lea.hamradio.si/~s53mv/)
 * [Scotty Spectrum Analyzer](http://www.scottyspectrumanalyzer.com/): Build your own spectrum analyzer for under $1,000. [Mailinglist](https://groups.yahoo.com/neo/groups/spectrumanalyzer/info)
 
-#### For Electronics Newbies
+#### For General Electronics Hobbyists
 * [Circuit Playground](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5Hu): A set of videos from Adafruit Industries on very basic concepts in electronics
 * [Jeremy Blum's video tutorials on Arduino](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
 * [EEVblog](http://www.youtube.com/user/EEVblog?feature=watch): Video blog about everything electronics from Dave Jones.
