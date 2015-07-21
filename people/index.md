@@ -44,8 +44,6 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 	</tr>
 </table>
 
-<hr>
-
 <h3> Graduate Students </h3>
 
 <table style="width:100%">
