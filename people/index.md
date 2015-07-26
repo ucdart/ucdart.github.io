@@ -40,7 +40,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Juan Zeng (PhD)<br> <img src="/images/blank.jpg" alt="Juan Zeng" /></td>
+		<td  style="width:30%">Juan Zeng (PhD)<br> <img src="/images/juan.jpg" alt="Juan Zeng" /></td>
 	</tr>
 </table>
 
