@@ -327,3 +327,9 @@ We can insert figures in tables (see example below, from http://texblog.org/2008
 #### Hiding references
 
 The *\nobibliography{bibfile}* command allows you to generate citations via Bibtex without creating a “References” section at the end of your document. This command is enabled by the *bibentry* package.
+
+### Useful references on LaTeX
+
+[Math into LaTeX](http://ctan.math.washington.edu/tex-archive/info/mil/mil.pdf)
+[The Comprehensive LATEX Symbol List](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
+
