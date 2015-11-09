@@ -5,7 +5,7 @@ published: true
 ---
 ###Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications
 <b>Sponsor: National Science Foundation (NSF), Award #: 1444086</b>
-<img src="/images/bpsr.jpg" style="float:left;">
+<div><img src="/images/bpsr.jpg" style="float:left;"></div>
 
 The last few decades have seen tremendous progress in the development of wireless communication technologies. Wireless technologies are tightly woven into every facet of today's society and have significantly contributed to the advancement of human civilization. Future wireless systems are expected to have even more functionality, longer battery life, smaller size and more importantly, lower cost. At the same time, a proliferation of vastly different wireless standards, devices, and systems has continued to challenge us to make better use of the already congested radio spectrum. One example is the 4G cellular networks, which have been allocated more than 40 different bands worldwide, causing significant implementation problems for cellular infrastructure providers and mobile handset manufacturers. To overcome these challenges, concepts such as software defined radios and cognitive radios have been proposed. In these systems, both software and hardware (analog and radio frequency front-end circuits) can be reconfigurable adaptively to make the most efficient use of the available spectrum. Although much research has been done in this area, making truly reconfigurable radio front-end circuit remains a challenge. In this research, we propose a band-pass sampling receiver architecture that is reconfigurable in terms of operating frequency, bandwidth, and signal waveforms. The proposed research will have a transformative impact on future wireless communication systems. The highly reconfigurable wireless receivers made available through this research will enable not only highly versatile mobile systems but also a significantly more economical and environmentally friendly telecommunication infrastructure. Such infrastructure and systems will result in more efficient utilization of and public access to the radio spectrum.
 
@@ -16,9 +16,9 @@ The outcome of this research will be widely disseminated through academic and tr
 <!---
 ### Reconfigurable High Frequency Devices and Circuits
 <img src="/images/tunable_filter.jpg" width="250px" style="float:left; margin-top:0px; margin-right:10px;">
--->
 
 The evolution of modern wireless communication has lead to a proliferation of different wireless standards working at wildly different frequencies. Designing radio front-ends that are compatible with multiple standards has become increasing difficult. Giving radio front-ends the ability to adapt their hardware parameters, such as frequency, bandwidth, and power, has been the central research theme of the DART lab. We have demonstrated many tunable or reconfigurable RF devices and circuits, such as high-Q tunable filters, wide-tuning range VCOs, and micro-electromechanical switches and varctors.
+-->
 
 ### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
 <img src="/images/thz-in.jpg" width="250px" style="float:right; margin-top:0px; margin-right:10px;">
