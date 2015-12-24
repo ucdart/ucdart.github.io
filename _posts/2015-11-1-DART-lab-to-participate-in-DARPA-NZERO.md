@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "James Chen awarded IEEE MTT-S Undergraduate Fellowship"
+title: "DART Lab to Participate in DARPA N-Zero program"
 date: 2015-11-1
 category: news
 ---
