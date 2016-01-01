@@ -57,7 +57,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 	</tr>
 	<tr>
 		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg" alt="Fengqi Hu" /></td>
-		<td>Daniel Kuzmenko (PhD) <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
+		<td>Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
 		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/meijiao.jpg" alt="Meijiao Li" /></td>
 	</tr>
 	<tr>
@@ -87,6 +87,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Juan Zeng | 2015 | Postdoctoral Researcher |
 | Xiaocheng Gu, Luyi Kang, Haoyang Ye | 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
 | Francis Ambion| 2013 - 2015 | Undergrad |&nbsp;|
