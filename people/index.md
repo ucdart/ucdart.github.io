@@ -55,6 +55,7 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 		<td  style="width:30%">Songjie Bi (PhD)<br> <img src="/images/songjie.jpg" alt="Songjie Bi" /></td>
 		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
 	</tr>
+	<hr>
 	<tr>
 		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg" alt="Fengqi Hu" /></td>
 		<td>Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
