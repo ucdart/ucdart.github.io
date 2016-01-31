@@ -4,7 +4,7 @@ title: Publications
 published: true
 ---
 
-[Bibtex file](/utilities/dart_pub.bib) of DART lab publications. 
+<!-- [Bibtex file](/utilities/dart_pub.bib) of DART lab publications. -->
 
 ### Journal
 

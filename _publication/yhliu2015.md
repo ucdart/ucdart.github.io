@@ -7,7 +7,7 @@ volume:
 number:
 year: 2015
 month: Jul.
-doi:
+doi: 10.1109/IMWS-AMP.2015.7324955
 pages:
 publisher:
 booktitle: IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications
