@@ -6,7 +6,7 @@ published: true
 
 <!-- [Bibtex file](/utilities/dart_pub.bib) of DART lab publications. -->
 
-### Journal
+### Journals
 
 {% assign papers = (site.publication | sort: 'sort_key') %}
 <ol reversed>
@@ -21,7 +21,7 @@ published: true
 	{% endfor %}
 </ol>
 
-### Conference
+### Conferences
 
 <ol reversed>
 	{% for paper in papers reversed %}
