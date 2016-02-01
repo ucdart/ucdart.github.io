@@ -14,8 +14,7 @@ published: true
       </div>
       <div id="collapse1" class="panel-collapse collapse in">
         <div class="panel-body">
-        <p> Due to its low insertion loss, high isolation, high linearity, wide bandwidth, and near-zero dc power consumption, radio frequency micro-electromechanical (RF-MEMS) switches have been an emerging technology with significant potential in many defense applications, especially those requiring reconfiguration of high frequency front-end system. Compared to other high frequency switching technologies, Metal contact RF-MEMS switches have the highest figure of merit (FoM, defined as 1/R on C of f ) because of the ultimately low contact resistance and off-state capacitance. In addition, metal contact RF-MEMS switches have extremely large bandwidth that can extend from dc to beyond 100 GHz. </p>
-        <p> However, the reliability issues associated with RF-MEMS contact switches have been a major barrier for wider adoption of the technology. Significant efforts have been devoted to boosting the lifetime (primarily in terms of cycling time) of RF-MEMS contact switches. For example, the Radant MEMS switch can be cycled up to 100 billion times 1 and the Sandia MEMS switch was cycled up to 10 billion times. However, both switches were characterized under the cold-switching conditions. Under hot-switching conditions, the reliability of these switches degrades quickly with a sharp increase in contact resistance and insertion loss after a few tens of thousands of cycles. For applications where hot switching is needed, improving the reliability of RF-MEMS switches has been a significant challenge. </p>
+	content
         </div>
       </div>
     </div>
