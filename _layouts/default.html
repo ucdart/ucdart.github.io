@@ -16,7 +16,7 @@
 			<!-- <div class="container"> -->
 			<div class="wrapper">
 			<header>
-        			<h1>Davis Adaptive RF Technology Lab</h1>
+        			<h1>Davis Advanced RF Technology Lab</h1>
 				<p></p>
               
 			<p class = "view">
@@ -24,11 +24,11 @@
 			</p>
 			
 			<p class = "view">
-				<a href="/news"><u>News</u></a>
+				<a href="/news"><span style = "font-weight: bold;>News</span></a>
 			</p>
 			
 			<p class = "view">
-			{% for post in site.posts limit:5 %}
+			{% for post in site.posts limit:6 %}
 				{% if post.categories contains 'news' %}
 	    			» <span style = "text-decoration: underline;">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
 	  			{% endif %}
