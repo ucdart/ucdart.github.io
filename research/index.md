@@ -10,7 +10,7 @@ published: true
       <div class="panel-heading">
         <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Highly Reliable Hot-Switching RF-MEMS Switch</a>
-        </h4>
+        </h4>
       </div>
       <div id="collapse1" class="panel-collapse collapse in">
         <div class="panel-body">
