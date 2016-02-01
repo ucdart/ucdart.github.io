@@ -7,7 +7,7 @@ published: true
     Click on the project titles for more information!
 </div>
 
-###Devices
+### Devices
 <div class="panel-group" id="devices">
 
     <div class="panel panel-default">
