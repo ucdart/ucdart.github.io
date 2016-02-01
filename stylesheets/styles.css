@@ -62,9 +62,10 @@ h3 a {
   font-weight:600;
 }
 
-h4 a {
+/*h4 a {
   font-weight:600;
 }
+*/
 
 a:hover {
     text-decoration: underline;
