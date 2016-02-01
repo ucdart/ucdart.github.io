@@ -11,6 +11,6 @@ doi:
 pages:
 publisher:
 booktitle: IEEE Radio and Wireless Symposium (RWS)
-note: accepted
+note:
 sort_key: 201601
 ---
