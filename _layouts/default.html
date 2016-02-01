@@ -30,7 +30,7 @@
 			<p class = "view">
 			{% for post in site.posts limit:5 %}
 				{% if post.categories contains 'news' %}
-	    			» {{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
+	    			» <span style = "text-decoration: overline;"></span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
 	  			{% endif %}
 	  		{% endfor %}
 			</p>
