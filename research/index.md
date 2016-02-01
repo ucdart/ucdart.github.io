@@ -14,7 +14,7 @@ published: true
       </div>
       <div id="collapse1" class="panel-collapse collapse in">
         <div class="panel-body">
-	content
+		{% include_relative hot-rfmems.html %}
         </div>
       </div>
     </div>
