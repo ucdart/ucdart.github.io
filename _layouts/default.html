@@ -25,9 +25,11 @@
               <a href="/">Home</a> | <a href="/people">People</a> | <a href="/research">Research</a>-<a href="/research/publications.html">Publications</a> | <a href="/uav">UAV Lab</a> | <a href="/education">Teaching</a> | <a href="/education/outreach.html">Outreach</a> | <a href="/facility">Facilities</a> | <a href="/resources">Resources</a> |
 			</p>
 			
+			<h3>
+				<a href="/news">News/a>
+			</h3>
+			
 			<p class = "view">
-				<a href="/news"><span style = "font-weight: bold;">News</span></a>
-			<br>
 			{% for post in site.posts limit:6 %}
 				{% if post.categories contains 'news' %}
 	    			» [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
