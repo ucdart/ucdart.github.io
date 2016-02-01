@@ -141,6 +141,9 @@ header {
   float:left;
   position:fixed;
   background-color: #F5F5F5;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 
 /* header ul {
