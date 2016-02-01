@@ -62,9 +62,10 @@ h3 a {
   font-weight:600;
 }
 
-h4 a {
+/*h4 a {
   font-weight:600;
 }
+*/
 
 a:hover {
     text-decoration: underline;
@@ -78,7 +79,7 @@ a small {
 }
 
 .wrapper {
-  width:1060px;
+  width:1080px;
   margin:0 auto;
 }
 
@@ -137,9 +138,11 @@ img {
 }
 
 header {
-  width:280px;
+  width:300px;
   float:left;
   position:fixed;
+  background-color: #F5F5F5;
+  padding:10px;  
 }
 
 /* header ul {
@@ -235,7 +238,7 @@ footer {
   }
   
   header {
-    padding-right:320px;
+    padding:10px;
   }
   
   section {
@@ -262,7 +265,7 @@ footer {
   }
   
   header {
-    padding:0;
+    padding:10px;
   }
   
   header ul, header p.view {

@@ -3,16 +3,20 @@ layout: default
 title: UCDart/Research
 published: true
 ---
+<div class="alert alert-warning">
+    Click on the project titles for more information!
+</div>
+
 ###Devices
-<div class="panel-group" id="accordion">
+<div class="panel-group" id="devices">
 
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Highly Reliable Hot-Switching RF-MEMS Switch</a>
+          <a data-toggle="collapse" data-parent="#devices" href="#hot-rfmems">Highly Reliable Hot-Switching RF-MEMS Switches</a>
         </h4>
       </div>
-      <div id="collapse1" class="panel-collapse collapse in">
+      <div id="hot-rfmems" class="panel-collapse collapse in">
         <div class="panel-body">
 		{% include_relative hot-rfmems.html %}
         </div>
@@ -22,44 +26,65 @@ published: true
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Resonant Voltage Amplification for Extremely Low-power RF signal Detection and Conversion</a>
+          <a data-toggle="collapse" data-parent="#devices" href="#mems-rectf">Resonant Voltage Amplification for Extremely Low-power RF signal Detection and Conversion</a>
         </h4>
       </div>
-      <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+      <div id="mems-rectf" class="panel-collapse collapse">
+        <div class="panel-body">
+    		{% include_relative mems-rectifier.html %}
+        </div>
+      </div>
+    </div>
+    
+</div> 
+
+### Systems
+<div class="panel-group" id="systems">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#devices" href="#thzi">High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies</a>
+        </h4>
+      </div>
+      <div id="thzi" class="panel-collapse collapse">
+        <div class="panel-body">
+		{% include_relative thz-inter.html %}
+        </div>
       </div>
     </div>
     
 </div> 
   
-###Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications
-<b>Sponsor: National Science Foundation (NSF), Award #: 1444086</b>
-<div><img src="/images/bpsr.jpg"></div>
+### Funded Projects
 
-<!---
-The last few decades have seen tremendous progress in the development of wireless communication technologies. Wireless technologies are tightly woven into every facet of today's society and have significantly contributed to the advancement of human civilization. Future wireless systems are expected to have even more functionality, longer battery life, smaller size and more importantly, lower cost. At the same time, a proliferation of vastly different wireless standards, devices, and systems has continued to challenge us to make better use of the already congested radio spectrum. One example is the 4G cellular networks, which have been allocated more than 40 different bands worldwide, causing significant implementation problems for cellular infrastructure providers and mobile handset manufacturers. To overcome these challenges, concepts such as software defined radios and cognitive radios have been proposed. In these systems, both software and hardware (analog and radio frequency front-end circuits) can be reconfigurable adaptively to make the most efficient use of the available spectrum. Although much research has been done in this area, making truly reconfigurable radio front-end circuit remains a challenge. In this research, we propose a band-pass sampling receiver architecture that is reconfigurable in terms of operating frequency, bandwidth, and signal waveforms. The proposed research will have a transformative impact on future wireless communication systems. The highly reconfigurable wireless receivers made available through this research will enable not only highly versatile mobile systems but also a significantly more economical and environmentally friendly telecommunication infrastructure. Such infrastructure and systems will result in more efficient utilization of and public access to the radio spectrum.
--->
+<div class="panel-group" id="funded">
 
-<p>
-In contrast to a low-pass sampling receiver, the bandpass sampling receiver samples at a much lower frequency with respect to the center frequency of the signal. The analog-to-digital converter (ADC) in the band-pass sampling radio therefore operates at a much lower bandwidth, resulting in a significant reduction in power consumption. The I/Q separation and baseband processing (channel filtering, base-band AGC, etc) can be carried out entirely in the digital domain. This will improve flexibility in terms of adapting to different waveforms and wireless standards. The use of high-Q tunable RF band-pass filters ensures that minimum distortion is introduced by out of band interferers. Compared with existing solutions, the proposed architecture pushes digitization closer to the antenna as possible without having to sacrifice the dynamic range. The proposed receiver has the potential to significantly increase the utilization of the ever more crowded radio frequency spectrum.
-</p>
-	
-The outcome of this research will be widely disseminated through academic and trade journals/conferences and the PIs' research group websites. The PIs plan to establish a summer outreach program on wireless technology to promote interests in STEM subjects, engineering in particular for high-school students and teachers. The outcome of the research will also be integrated into the graduate and undergraduate courses the PIs have developed. In addition, the PIs plan to engage undergraduate students in research to promote their interest in pursuing advanced degrees in engineering.
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#funded" href="#bps">Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications</a>
+        </h4>
+      </div>
+      <div id="bps" class="panel-collapse collapse">
+        <div class="panel-body">
+		{% include_relative tunable-bps.html %}
+        </div>
+      </div>
+    </div>
+    
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#funded" href="#cardiac">Development of a Wearable Long-term Monitor for Cardiac Arrhythmia </a>
+        </h4>
+      </div>
+      <div id="cardiac" class="panel-collapse collapse">
+        <div class="panel-body">
+    		{% include_relative cardiac-radar.html %}
+        </div>
+      </div>
+    </div>
+    
+</div> 
 
-<!---
-### Reconfigurable High Frequency Devices and Circuits
-<img src="/images/tunable_filter.jpg" width="250px" style="float:left; margin-top:0px; margin-right:10px;">
-
-The evolution of modern wireless communication has lead to a proliferation of different wireless standards working at wildly different frequencies. Designing radio front-ends that are compatible with multiple standards has become increasing difficult. Giving radio front-ends the ability to adapt their hardware parameters, such as frequency, bandwidth, and power, has been the central research theme of the DART lab. We have demonstrated many tunable or reconfigurable RF devices and circuits, such as high-Q tunable filters, wide-tuning range VCOs, and micro-electromechanical switches and varctors.
--->
-
-### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
-<img src="/images/thz-in.jpg" width="250px" style="float:right; margin-top:0px; margin-right:10px;">
-
-The scaling of semiconductor, especially complementary metal-oxide-semiconductor (CMOS) technologies and massive parallelism of processors have continued to push our computing capabilities to meet today’s data processing demand. However, the rate at which we can move large amounts of data between processors is increasingly becoming a bottleneck for achieving higher computational power. To tackle this challenge, we are investigating high-speed chip-to-chip interconnects solutions using carrier frequencies in the range of 100 GHz - 1 THz. The large amount of bandwidth available at this frequency range makes it an ideal solution for high speed data communication. An enabling technology of this effort is the use of micromachined dielectric waveguide as the interconnect medium, resulting in a significant reduction in link loss. 
-
-### Biomedical Applications of High Frequency Electronics
-
-The DART lab has been working with industry partners to apply our expertise in high frequency electronics to medical applications. One example is the use of ultra-low-power radar sensors for the detection of heart health conditions. Contrary to many existing work on radar-based stand-off detection of vital signs, our solution relies on contact-based measurement which significanlty reduces the power consumption, increases the accuracy, and improves noise/clutter rejection.
