@@ -30,7 +30,7 @@
 			<br><br>
 			{% for post in site.posts limit:6 %}
 				{% if post.categories contains 'news' %}
-	    			» <span style = "font-weight: bold;">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
+	    			» [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
 	  			{% endif %}
 	  		{% endfor %}
 			</p>
