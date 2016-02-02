@@ -22,14 +22,20 @@ Through the generous donations and discounts from various vendors, we have acces
 ### Device Fabrication
 
 #### Microfabrication
-For semiconductor device fabrication, we have access to <a href = "http://cnm2.engineering.ucdavis.edu/">the UC Davis Center for Nano-MicroManufacturing (CNM2) </a>. CNM2 is the home for the prototype and fabrication of thin-film, micro- and nano-structures. CNM2 is housed in a 10,000 ft<sup>2</sup>  Class-1000 and -100 clean room that provides capabilities for fabricating integrated circuits and assembling hybrid modules. 
-To support these activities, CNM2 is fully equipped with photolithography, etching, mask-making, metal deposition, and furnaces, vacuum systems, and assembly equipment. 
+<img src = "/facilities/cnm2.jpg">
+For semiconductor device fabrication, we have access to <a href = "http://cnm2.engineering.ucdavis.edu/">the UC Davis Center for Nano-MicroManufacturing (CNM2) </a>. CNM2 is the home for the prototype and fabrication of thin-film, micro- and nano-structures. CNM2 is housed in a 10,000 ft<sup>2</sup>  Class-1000 and -100 clean room that provides capabilities for fabricating integrated circuits, microdevices, and assembling hybrid modules. To support these activities, CNM2 is fully equipped with mask-making, photolithography, thin-film deposition, etching, furnaces, and assembly tools. The complete list of equipment can be found <a href="http://cnm2.engineering.ucdavis.edu/the-facility/equipment/">here</a>. Notable examples include:
 
-Examples of equipment include Solitec photoresist spinner, Karl Suss mask aligner, EVG wafer- and chip-level aligner and bonder, FineTech Lambda flip-chip die bonder, PlasmaTherm ICP-PECVD, E-beam evaporator, CHA and Lesker Sputtering systems, Dektak Profilometer, RIE and DRIE etching systems, SEM, and wet etch benches. To support nano-scale fabriation, the CNM2
-facility is equipped with an e-beam nanolithography. The complete list of equipment can be found <a href="http://cnm2.engineering.ucdavis.edu/the-facility/equipment/">here</a>.
+<ul>
+	<li>EVG620 semi-automated double-side mask aligner, EVG501 wafer bonder, and EVG810LT LowTemp plasma activation system bundle</li>
+	<li>PlasmaTherm Versaline High Density Plasma Enhanced Chemical Vapor Deposition (HD PECVD) system </li>
+	<li>PlasmaTherm Versaline DSE-III deep silicon etch (DRIE) system</li>
+	<li>Kurt J. Lesker automated sputtering system</li>
+</ul>
 
 In addition, we have full access to the UC Berkeley Marvell Nanofabrication Laboratory (~1 hour away from Davis) with additional fabrication and characterization equipment to complement the capabilities at UC Davis.
  
+<img src = "/facilities/qcj5.jpg" width="220px" style="float:right; margin-top:5px; margin-left:10px;">
+
 #### Printed Circuit Board (PCB)
 Although the fabrication of most standard PCBs are outsourced, we do maintain a set of PCB prototyping equipment in-house for designs that require special processing. A critical piece of equipment is the T-Tech QCJ-5 60,000-rpm milling machine (shown to the right). We also have a wet-processing hood for metal
 (Cu, Au, Ag, and solder) electroless-/electro-plating and etching.
@@ -39,6 +45,7 @@ Through the UC Davis <a href = "http://bme.ucdavis.edu/team/">BME TEAM facility 
 prototyping capability, such as CNC machining, 3D printing, injection modeling, and water-jet cutting at low cost.
 
 ### Characterization
+<img src = "/facilities/dmrc.jpg" width="300px" style="float:left; margin-top:5px; margin-right:10px;">
 The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC) which has a shared high-frequency characterization lab in Ghausi Hall on the UC Davis campus. Through collaboration with Agilent Technologies (now Keysight Technologies), we are equipped with full vector signal generation and characterization equipment up to 500 GHz. Notable examples include:
 <ul>
   	<li>Agilent N5247A 67-GHz non-linear Performance Network Analyzer (PNA-X) with dual sources and 4 test ports</li>
