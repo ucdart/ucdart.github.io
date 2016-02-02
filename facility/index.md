@@ -22,38 +22,40 @@ Through the generous donations and discounts from various vendors, we have acces
 ### Device Fabrication
 
 #### Microfabrication
-
-For semiconductor device fabrication, we have access to the UC Davis Center for Nano-MicroManufacturing (CNM2). CNM2 is the home for the prototype and fabrication of thin-film, micro- and nano-structures. CNM2 is housed in a 10,000 ft<sup>2</sup>  Class-1000 and -100 clean room that provides capabilities for fabricating integrated circuits and assembling hybrid modules. 
+For semiconductor device fabrication, we have access to <a href = "http://cnm2.engineering.ucdavis.edu/">the UC Davis Center for Nano-MicroManufacturing (CNM2) </a>. CNM2 is the home for the prototype and fabrication of thin-film, micro- and nano-structures. CNM2 is housed in a 10,000 ft<sup>2</sup>  Class-1000 and -100 clean room that provides capabilities for fabricating integrated circuits and assembling hybrid modules. 
 To support these activities, CNM2 is fully equipped with photolithography, etching, mask-making, metal deposition, and furnaces, vacuum systems, and assembly equipment. 
 
 Examples of equipment include Solitec photoresist spinner, Karl Suss mask aligner, EVG wafer- and chip-level aligner and bonder, FineTech Lambda flip-chip die bonder, PlasmaTherm ICP-PECVD, E-beam evaporator, CHA and Lesker Sputtering systems, Dektak Profilometer, RIE and DRIE etching systems, SEM, and wet etch benches. To support nano-scale fabriation, the CNM2
-facility is equipped with an e-beam nanolithography. The complete list of equipment can be found at <a href="http://cnm2.engineering.ucdavis.edu/the-facility/equipment/">http://cnm2.engineering.ucdavis.edu/the-facility/equipment/</a>.
+facility is equipped with an e-beam nanolithography. The complete list of equipment can be found <a href="http://cnm2.engineering.ucdavis.edu/the-facility/equipment/">here</a>.
 
 In addition, we have full access to the UC Berkeley Marvell Nanofabrication Laboratory (~1 hour away from Davis) with additional fabrication and characterization equipment to complement the capabilities at UC Davis.
  
 #### Printed Circuit Board (PCB)
-
 Although the fabrication of most standard PCBs are outsourced, we do maintain a set of PCB prototyping equipment in-house for designs that require special processing. A critical piece of equipment is the T-Tech QCJ-5 60,000-rpm milling machine (shown to the right). We also have a wet-processing hood for metal
-plating (Cu, Au, and Sg) and etching.
+(Cu, Au, Ag, and solder) electroless-/electro-plating and etching.
 
+#### Machining
+Through the UC Davis <a href = "http://bme.ucdavis.edu/team/">BME TEAM facility </a> and <a href = "https://engineering.ucdavis.edu/efl/">the Engineering Fabrication Lab </a>, we have access to various
+prototyping capability, such as CNC machining, 3D printing, injection modeling, and water-jet cutting at low cost.
 
 ### Characterization
+The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC) which has a shared high-frequency characterization lab in Ghausi Hall on the UC Davis campus. Through collaboration with Agilent Technologies (now Keysight Technologies), we are equipped with full vector signal generation and characterization equipment up to 500 GHz. Notable examples include:
+<ul>
+  	<li>Agilent N5247A 67-GHz non-linear Performance Network Analyzer (PNA-X) with dual sources and 4 test ports</li>
+	<li>Agilent E8364A 50-GHz PNA</li>
+	<li>Agilent N9030A 50-GHz PXA signal analyzer with pre-amplifier</li>
+	<li>OML and VDI waveguide frequency extenders up to 500 GHz</li>
+	<li>Waveguide power meter (50 GHz - 110 GHz)</li>
+	<li>VDI-Erickson PM4 power meter (75 GHz - 3 THz)</li>
+	<li>Harmonic mixers up to 325 GHz</li>
+</ul>
 
-The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC) which is equipped with high frequency characterization equipment needed to carry out the proposed research and education activities. The DMRC lab has extensive laboratories and equipment that are used for device and circuit characterization and system integration at millimeter-wave and THz frequencies. The DMRC has recently acquired a 325-GHz Non-linear Performance Network Analyzer (PNA-X) and a 325-GHz Spectrum  Analyzer (PXA) from Agilent Technologies. Four sets of multiplier modules are used with the 67-GHz PNA-X controllers to extend the vector network measurements from \SI{67}{GHz} to \SI{325}{GHz}. Signal/spectrum analysis can be carried out to 325 GHz using a PXA spectrum analyzer with a state-of-the-art noise floor of -172\,dBm.  External mixers can be used to analyze signals to 325\,GHz.
-
-
-The PI maintains the following equipment in his lab for high-frequency circuit
-characterization:
-
-  	\item 1$\times$ E4422 \SI{250}{kHz}--\SI{4.0}{GHz} ESG Series Signal
-  	Generator
-	\item 2$\times$ 8663A Synthesized Signal Generator (\SI{2.65}{GHz})
-	\item 1$\times$ 8350B Sweep Oscillator 
-	\item 1$\times$ 54600B Oscilloscope 
-	\item 1$\times$ E5071A 300\,kHz--8.5\,GHz four-port Vector Network Analyzer 
-	\item 1$\times$ 8722D 50\,MHz--40\,GHz Vector Network Analyzer
-	\item 1$\times$ 5343A Microwave Frequency Counter 
-	\item Multiple DC power supplies, funtion generators, and digital multimeters
-\end{itemize}
-
-
+In our own lab (Kemper Hall 3182), we maintain a basic set of high frequency characterization equipment.
+<ul>
+  	<li>Agilent 8722D 40-GHz Vector Network Analyzer (VNA)</li>
+	<li>Agilent 5071A 8-GHz 4-port VNA</li>
+	<li>Agilent E4422B and E4433B (option 1E5 & UND) 4-GHz vector signal generator</li>
+	<li>LeCroy WavePro7300A 3-GHz (20 Gsps) oscilloscope</li>
+	<li>Tektronix RTSA3308B 8-GHz real-time spectrum analyzer</li>
+	<li>Multiple DC power supplies, funtion generators, and digital multimeters</li>
+</ul>

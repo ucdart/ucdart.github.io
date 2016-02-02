@@ -1,16 +1,16 @@
 ---
-type: conference
-title: Metallic Air Cavities Integrated with Surface Mount Tuning Components for Tunable Evanescent-Mode Resonators
+type: article
+title: Frequency and Bandwidth Tunable Coaxial-Cavity Filter with Two Transmission Zeros
 author: Akash Anand and Xiaoguang Liu
-journal:
+journal: IEEE Transactions on Microwave Theory and Techniques
 volume:
 number:
 year: 2016
-month: May
+month: 
 doi: 
 pages:
 publisher:
-booktitle: IEEE MTT-S International Microwave Symposium (IMS)
-note: Accepted
-sort_key: 201605
+booktitle: 
+note: Under Review
+sort_key: 201612
 ---
