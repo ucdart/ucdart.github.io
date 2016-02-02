@@ -4,7 +4,7 @@ title: "UCDart::Education"
 published: true
 ---
 
-### Teaching
+### Courses 
 
 #### [EEC 130A Introductory Electromagntics I](/education/eec130a.html)
 

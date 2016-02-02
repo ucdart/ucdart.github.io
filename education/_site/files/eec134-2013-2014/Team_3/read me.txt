@@ -1,0 +1,6 @@
+Files included:
+-	Five application notes
+-	Two PCB files (Circuit layout)
+-	One Project report
+-	One circuit schematic
+-	One signal processing code
