@@ -38,7 +38,7 @@ published: true
     
 </div> 
 
-### Devices
+### Circuits
 
 ### Systems
 <div class="panel-group" id="systems">
