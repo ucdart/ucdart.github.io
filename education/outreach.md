@@ -4,4 +4,4 @@ The Maker movement also has exciting and vast implications for the world of STEM
 
 In recent years, we have initiated an effort in the ECE Department to participate in the annual Bay Area Maker Faire and showcase the students’ designs from a variety of project courses. The Maker Faire is the flagship event in the Maker community, where makers come together to showcase their creations and exchange ideas. The Bay Area Maker Faire in San Mateo, California, is the biggest of all Maker Faires and has an attendance of approximately 130,000 people each year. A significant portion of them are young students in the 6-15 age group, whom we hope to attract and inspire. Exhibiting at the Maker Faire offers an invaluable outreach and education opportunity to reach a large targeted population and an even broader audience through media coverage. Our participation has also served as a bridge to connect with the industry as major industry players, such as Intel, AutoDesk, and Nvidia, and a host of early-stage start-ups have also created a significant presence at Maker Faire in recent years. 
 
-<img src="/education/images/maker.gif">
+<img src="/education/images/maker.jpg">
