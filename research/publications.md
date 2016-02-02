@@ -7,7 +7,7 @@ published: true
 <!-- [Bibtex file](/utilities/dart_pub.bib) of DART lab publications. -->
 
 <div class="alert alert-success">
-    <strong>Four papers</strong> submitted and accepted to <a href="http://ims2016.org/">IMS2016</a>! Not bad for a 100% rate...
+    <strong>Four papers</strong> submitted and accepted to <a href="http://ims2016.org/">IMS2016</a>!
 </div>
 
 ### Journals
