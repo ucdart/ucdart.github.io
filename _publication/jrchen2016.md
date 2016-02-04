@@ -1,7 +1,7 @@
 ---
 type: conference
 title: An Evanescent-Mode Tunable Dual-band Filter with Independently-Controlled Center Frequencies
-author: Jiun-Rong Chen, Akash Anand, Marvin D. Benge, Hjali Sigmarsson, and Xiaoguang Liu
+author: James Chen, Marvin D. Benge, Akash Anand, Hjali Sigmarsson, and Xiaoguang Liu
 journal:
 volume:
 number:
@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
 note: Accepted
 sort_key: 201605
+topic: tunable-filter
 ---

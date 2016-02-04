@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications
 note: Invited
 sort_key: 201507
+topic: hot-rfmems
 ---

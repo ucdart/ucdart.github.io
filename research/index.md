@@ -22,7 +22,8 @@ published: true
         </div>
       </div>
     </div>
-    
+ 
+ <!--   
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -35,7 +36,8 @@ published: true
         </div>
       </div>
     </div>
-    
+-->
+
 </div> 
 
 ### Circuits
@@ -54,7 +56,20 @@ published: true
         </div>
       </div>
     </div>
-    
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Advanced Tunable N-Path Integrated Filters</a>
+        </h4>
+      </div>
+      <div id="n-path" class="panel-collapse collapse">
+        <div class="panel-body">
+    {% include_relative n-path.html %}
+        </div>
+      </div>
+    </div>
+
 </div> 
 
 ### Systems
@@ -73,16 +88,10 @@ published: true
       </div>
     </div>
     
-</div> 
-  
-### Funded Projects
-
-<div class="panel-group" id="funded">
-
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#funded" href="#bps">Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications</a>
+          <a data-toggle="collapse" data-parent="#system" href="#bps">Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications</a>
         </h4>
       </div>
       <div id="bps" class="panel-collapse collapse">
@@ -95,7 +104,7 @@ published: true
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#funded" href="#cardiac">Development of a Wearable Long-term Monitor for Cardiac Arrhythmia </a>
+          <a data-toggle="collapse" data-parent="#system" href="#cardiac">Development of a Wearable Long-term Monitor for Cardiac Arrhythmia </a>
         </h4>
       </div>
       <div id="cardiac" class="panel-collapse collapse">
@@ -107,3 +116,21 @@ published: true
     
 </div> 
 
+### Archived
+
+<div class="panel-group" id="archieved">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#archived" href="#tunable-power">Electro-Mechancial Instability in MEMS-enabled Tunable Evanescent-mode High-frequency filters</a>
+        </h4>
+      </div>
+      <div id="bps" class="panel-collapse collapse">
+        <div class="panel-body">
+		{% include_relative tunable-power.html %}
+        </div>
+      </div>
+    </div>
+    
+</div> 

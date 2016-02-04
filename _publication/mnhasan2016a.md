@@ -13,4 +13,5 @@ publisher:
 booktitle:  IEEE International Symposium on Circuits and Systems (ISCAS)
 note: Accepted, Student Paper Competition Finalist
 sort_key: 201605
+topic: n-path
 ---

@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
 note: Best Student Paper
 sort_key: 201406
+topic: tunable-filter
 ---
