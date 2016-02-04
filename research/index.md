@@ -40,6 +40,23 @@ published: true
 
 ### Circuits
 
+<div class="panel-group" id="circuits">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#circuits" href="#tunable-filter">High-Q Tunable Evanescent-mode Cavity Filters</a>
+        </h4>
+      </div>
+      <div id="tunable-filter" class="panel-collapse collapse">
+        <div class="panel-body">
+    {% include_relative tunable-filter.html %}
+        </div>
+      </div>
+    </div>
+    
+</div> 
+
 ### Systems
 <div class="panel-group" id="systems">
 
