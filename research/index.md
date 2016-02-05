@@ -60,7 +60,7 @@ published: true
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Advanced Tunable N-Path Integrated Filters</a>
+          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
         </h4>
       </div>
       <div id="n-path" class="panel-collapse collapse">
