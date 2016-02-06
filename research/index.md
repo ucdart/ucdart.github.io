@@ -104,7 +104,7 @@ published: true
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#system" href="#cardiac">Development of a Wearable Long-term Monitor for Cardiac Arrhythmia </a>
+          <a data-toggle="collapse" data-parent="#system" href="#cardiac">Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring</a>
         </h4>
       </div>
       <div id="cardiac" class="panel-collapse collapse">
