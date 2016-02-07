@@ -3,7 +3,7 @@ layout: default
 title: UCDart::Facilities
 ---
 
-The DART lab has access to a variety of state-of-the-art modeling, fabrication, and characterization tool. Below is a glimpse of what is available. 
+The DART lab has access to a variety of state-of-the-art modeling, fabrication, and characterization tools. Below is a glimpse of what are available. 
 
 ### Software Tools
 Through the generous donations and discounts from various vendors, we have access to the latest versions of the following software tools for device, circuit, and system design / analysis. 
