@@ -86,9 +86,10 @@ Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
-| Juan Zeng | 2015 | Postdoctoral Researcher |
-| Xiaocheng Gu, Luyi Kang, Haoyang Ye | 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
-| [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/files/master-plan-ii-project-report-minjie-zhu-samuel-cheung-v2.pdf) |
+| Juan Zeng | 2015 | Postdoctoral Researcher | Now with Intel Corp.|
+| Haoyang Ye | 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), [True Ground Speed Measurement and Height Awareness of UAV by Radar Transceiver](/files/2015-Haoyang.pdf) |
+| Xiaocheng Gu, Luyi Kang| 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
+| [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/uav/2015-Minjie-and-Samuel.pdf) |
 | Francis Ambion| 2013 - 2015 | Undergrad |&nbsp;|
 | Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | Danqing Fu | 2014 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: [RF MEMS Varactor-Based True Time Delay Line Technology for Phased Antenna Array Systems](http://search.proquest.com/docview/1665571996/DABBEE94F2F34F32PQ/1?accountid=14505) |
