@@ -126,7 +126,7 @@ published: true
           <a data-toggle="collapse" data-parent="#archived" href="#tunable-power">Electro-Mechancial Instability in MEMS-enabled Tunable Evanescent-mode High-frequency filters</a>
         </h4>
       </div>
-      <div id="bps" class="panel-collapse collapse">
+      <div id="tunable-power" class="panel-collapse collapse">
         <div class="panel-body">
 		{% include_relative tunable-power.html %}
         </div>
