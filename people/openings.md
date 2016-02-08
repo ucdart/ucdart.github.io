@@ -4,7 +4,7 @@ title: UCDart::Openings
 published: true
 ---
 
-## Joining DART Lab
+### Joining DART Lab
 
 One of the philosophies of our group is to provide the students with a comprehensive training/learning experience in a diversity of technical directions. We are lucky to have a group of talented researchers, students, and collaborators with diverse expertise in micro-devices, passive/active circuits, and system design. 
 
