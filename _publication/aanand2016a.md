@@ -13,5 +13,6 @@ publisher:
 booktitle: 
 note: Under Review
 sort_key: 201612
+bib_key: aanand2016a
 topic: tunable-filter
 ---

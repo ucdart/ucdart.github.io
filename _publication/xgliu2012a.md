@@ -13,4 +13,5 @@ publisher:
 booktitle:
 note:
 sort_key: 201202
+bib_key: xgliu2012a
 ---

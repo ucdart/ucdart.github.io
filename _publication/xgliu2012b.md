@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
 note:
 sort_key: 201206
+bib_key: xgliu2012b
 ---

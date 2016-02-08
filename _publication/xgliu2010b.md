@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE Microwave and Wireless Component Letters
 note:
 sort_key: 201011
+bib_key: xgliu2010b
 ---

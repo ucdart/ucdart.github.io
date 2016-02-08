@@ -13,5 +13,6 @@ publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
 note:
 sort_key: 201406
+bib_key: yhliu2014b
 topic: hot-rfmems
 ---

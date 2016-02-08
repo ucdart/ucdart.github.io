@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE Radio and Wireless Symposium (RWS)
 note:
 sort_key: 201401
+bib_key: yhliu2014a
 ---

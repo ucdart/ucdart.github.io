@@ -13,5 +13,6 @@ publisher:
 booktitle:
 note:
 sort_key: 201008
+bib_key: xgliu2010a
 topic: tunable-filter
 ---

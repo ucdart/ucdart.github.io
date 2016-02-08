@@ -13,4 +13,5 @@ publisher:
 booktitle: European Microwave Integrated Circuits Conference (EuMIC)
 note:
 sort_key: 201110
+bib_key: xgliu2011c
 ---

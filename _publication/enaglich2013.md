@@ -13,4 +13,5 @@ publisher:
 booktitle: Government Microcircuit Applications and Critical Technologies Conference (GOMACTech)
 note:
 sort_key: 201303
+bib_key: enaglich2013
 ---
