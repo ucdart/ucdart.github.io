@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE MTT-S International Wireless Symposium (IWS)
 note:
 sort_key: 201404
+bib_key: aanand2014a
 ---

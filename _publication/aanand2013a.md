@@ -13,4 +13,5 @@ publisher:
 booktitle: USNC-URSI National Radio Science Meeting
 note:
 sort_key: 201301
+bib_key: aanand2013a
 ---

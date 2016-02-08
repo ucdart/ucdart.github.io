@@ -13,5 +13,6 @@ publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
 note:
 sort_key: 201306
+bib_key: aanand2013b
 topic: tunable-filter
 ---

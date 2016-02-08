@@ -20,7 +20,7 @@ published: true
     {% if paper.note != null %}
 		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 	{% endif %}
-    {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
+    {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf"> <img src = "/images/oa-icon.png"> </a> </li>
 	{% endif %}	
 	{% endfor %}
 </ol>
@@ -34,7 +34,7 @@ published: true
     {% if paper.note != null %}
 		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 	{% endif %}
-     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> </li>
+     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf"> <img src = "/images/oa-icon.png"> </a> </li>
 	{% endif %}	
 	{% endfor %}
 </ol>

@@ -13,5 +13,6 @@ publisher:
 booktitle:
 note:
 sort_key: 201312
+bib_key: aanand2013c
 topic: tunable-filter
 ---
