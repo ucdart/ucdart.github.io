@@ -13,4 +13,5 @@ publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
 note: Invited
 sort_key: 201504
+bib_key: xgliu2015
 ---
