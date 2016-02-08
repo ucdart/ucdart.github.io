@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart/UAV Lab
+title: UCDart::UAV Lab
 published: true
 ---
 
