@@ -18,6 +18,6 @@ Our general recommendation for undergraduate students is to focus on getting goo
 
 For students with US citizenship, we currently have a National Science Foundation (NSF) funded Research Experience for Undergraduates (REU) program that can provide some level of financial support. The project is aimed at developing novel device, circuit, and signal processing techniques to realize reconfigurable bandpass-sampling receivers for softwared defined radio (SDR) applications. 
 
-### To UC Davis Master Students seeking a Project
+### To UC Davis Master Students Seeking a Project
 
 Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we tend to prefer Plan 1 students and/or Plan 2 students who can start the project at least a year before the graduation deadline. If you are a Master student looking for a project in our group, please make sure that you start the discussion with Dr. Liu in your first year here!
