@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart/People
+title: UCDart::People
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "UCDart::Resources"
+title: UCDart::Resources
 published: true
 ---
 

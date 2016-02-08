@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latex resources
+title: UCDart::Resources::Latex
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart/Research
+title: UCDart::Research
 published: true
 ---
 <div class="alert alert-warning">

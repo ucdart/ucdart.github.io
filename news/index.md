@@ -1,6 +1,7 @@
 ---
 layout: default
-title: News
+title: UCDart::News
+published: true
 ---
 <section>
 	<h3>{{ page.title }}</h3>

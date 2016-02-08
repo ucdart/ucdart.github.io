@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: UCDart::Publications
 published: true
 ---
 
