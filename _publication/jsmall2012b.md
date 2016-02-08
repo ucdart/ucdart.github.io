@@ -13,4 +13,5 @@ publisher:
 booktitle:
 note:
 sort_key: 201212
+bib_key: jsmall2012b
 ---

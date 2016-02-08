@@ -13,4 +13,5 @@ publisher:
 booktitle: Asia-Pacific Microwave Conference (APMC)
 note:
 sort_key: 200912
+bib_key: jsmall2009
 ---
