@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Davis Adaptive RF Technology
+title: Davis Advanced RF Technology
 published: true
 ---
 <!--
