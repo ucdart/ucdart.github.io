@@ -15,15 +15,16 @@ We have assembled a team of undergraduate and graduate students to investigate v
 	<li> Situation awareness and autonomous collision avoidance </li>
 	<li> Distributed and coorperative radio-frequency sensing and location</li>
 	<li> Aerial-connected wireless sensors and wireless sensor networks </li>
-	<li> Energy efficienty UAV platform development</li>
+	<li> Energy efficient and safety-oriented UAV platform development</li>
 </ul>
+
+UC Davis is part of the Federal Aviation Association's (FAA) Center of Excellence for UAV Research (ASSURE). 
 
 Contact Dr. Liu (lxgliu@ucdavis.edu) if you are interested in joining the team. 
 
 ### Past Projects
 
-* Minjie Zhu and Samuel Cheung, "[Autonomous Collision Avoidance
-For Small Unmanned Aerial Vehicles](/uav/2015-Minjie-and-Samuel.pdf)". This project was an initial exploration of using small lidar sensors for UAV collision avoidance. 
+* Minjie Zhu and Samuel Cheung, "[Autonomous Collision Avoidance For Small Unmanned Aerial Vehicles](/uav/2015-Minjie-and-Samuel.pdf)". This project was an initial exploration of using small lidar sensors for UAV collision avoidance. 
 
 
 * Christopher Bird, Shalmali Joshi, Lindsey Raven, Angela Tobin, "[Computer vision based UAV navigation](/uav/2015-EEC181.pdf)". Here is a [link to their final test video](https://www.youtube.com/watch?v=ygKTjIUttk4). Unfortunately the UAV platform was not functioning well towards the end and they were not able to do a real flight test. Instead they hold the quadcopter frame and "simulated" a flight test by personally moving the frame according to the instruction of the processor. 
