@@ -6,17 +6,12 @@ published: true
 
 ### Inspirational
 
-* [How lucky can one be? A perspective from a young scientist at the right place at the right time](http://www.nature.com/nm/journal/v18/n10/full/nm.2925.html?WT.ec_id=NM-201210)
-
-* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-
-* [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full)
-
-* [Cargo Cult Science -- Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
-
-* [The pleasure of finding things out -- Richard Feynman](https://www.youtube.com/watch?v=Bgaw9qe7DEE)
-
-* [My advise to young people -- Donald Knuth](https://www.youtube.com/watch?v=75Ju0eM5T2c)
+* [How lucky can one be? A perspective from a young scientist at the right place at the right time](http://www.laskerfoundation.org/awards/pdf/2012_b_vale.pdf) -- Ronald D. Vale
+* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) -- Richard Hamming
+* [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full) -- Martin A. Schwartz
+* [Cargo Cult Science](http://www.lhup.edu/~DSIMANEK/cargocul.htm) -- Richard Feynman
+* [The pleasure of finding things out](https://www.youtube.com/watch?v=Bgaw9qe7DEE) -- Richard Feynman
+* [My advise to young people](https://www.youtube.com/watch?v=75Ju0eM5T2c) -- Donald Knuth
 
 ### Publication and presentation
 
