@@ -32,7 +32,7 @@ Email: lxgliu@ucdavis.edu <br>
 </p>
 
 <p>
-Dr. Xiaoguang "Leo" Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He was a post-doctoral researcher at Purdue University before joining UC Davis. His academic interests are in the areas of high frequency electronics and engineering education. As a student, he received the graduate research fellowship from IEEE Antenna and Propagation Society in 2009. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
+Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He is currently an assistant professor in the Department of Electrical and Computer Engineering at the University of California, Davis. His research interests include radio frequency microelectromechanical (RF-MEMS) devices and other reconfigurable high frequency components, high frequency integrated circuits, and biomedical and industrial applications of high frequency communication and sensing systems. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
 </p>
 
 <hr>
