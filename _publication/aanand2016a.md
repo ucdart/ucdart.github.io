@@ -1,6 +1,6 @@
 ---
 type: article
-title: Frequency and Bandwidth Tunable Coaxial-Cavity Filter with Two Transmission Zeros
+title: Reconfigurable Planar Capacitive Coupling in Substrate-Integrated Coaxial-Cavities Filters
 author: Akash Anand and Xiaoguang Liu
 journal: IEEE Transactions on Microwave Theory and Techniques
 volume:
@@ -11,7 +11,7 @@ doi:
 pages:
 publisher:
 booktitle: 
-note: Under Review
+note: Accepted
 sort_key: 201612
 bib_key: aanand2016a
 topic: tunable-filter
