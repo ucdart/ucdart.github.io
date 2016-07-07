@@ -68,6 +68,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
      </tr>
      <tr>
      	<td sytle="width:30%">Jun Ouyang (MS) <br> <img src="/images/blank.jpg"/></td>
+     	<td sytle="width:30%">Yanpeng Dong (MS) <br> <img src="/images/blank.jpg"/></td>
      </tr>
 </table>
 
