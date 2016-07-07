@@ -51,33 +51,36 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Akash Anand (PhD)<br> <img src="/images/akash.jpg" alt="Akash Anand" /></td>
-		<td  style="width:30%">Songjie Bi (PhD)<br> <img src="/images/songjie.jpg" alt="Songjie Bi" /></td>
-		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg" alt="Naimul Hasan" /></td>
+		<td  style="width:30%">Akash Anand (PhD)<br> <img src="/images/akash.jpg"/></td>
+		<td  style="width:30%">Songjie Bi (PhD)<br> <img src="/images/songjie.jpg"/></td>
+		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg"/></td>
 	</tr>
 	<hr>
 	<tr>
-		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg" alt="Fengqi Hu" /></td>
+		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
 		<td>Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
-		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/meijiao.jpg" alt="Meijiao Li" /></td>
+		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/meijiao.jpg"/></td>
 	</tr>
 	<tr>
-		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg" alt="Yuhao Liu" /></td>
-		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg" alt="Hao Wang" /></td>
-		<td>Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg" alt="Kim-Thu Pham" /></td>
-      	</tr>
+		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg"/></td>
+		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg"/></td>
+		<td>Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg"/></td>
+     </tr>
+     <tr>
+     	<td sytle="width:30%">Jun Ouyang (MS) <br> <img src="/images/blank.jpg"/></td>
+     </tr>
 </table>
 
 <h3> Undergraduate Students </h3>
 
 <table style="width:100%">
 	<tr>
-      	<td style="width:30%">James Chen <br> <img src="/images/jameschen.jpg" alt="James Chen" /></td>
-		<td style="width:30%">Marzhan Bekbalanova <br> <img src="/images/marzhan.jpg" alt="Marzhan" /> </td>
-		<td style="width:30%">Hengjiu Kang <br> <img src="/images/blank.jpg" alt="Hengjiu Kang" /></td>
+      	<td style="width:30%">Eric Andler <br> <img src="/images/blank.jpg"/></td>
+		<td style="width:30%">Andrew Eckloff <br> <img src="/images/blank.jpg"/> </td>
+		<td style="width:30%">Xiaonan Jiang <br> <img src="/images/blank.jpg"/></td>
 	</tr>
 	<tr>
-		<td sytle="width:30%">Jun Ouyang <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>
+		<td sytle="width:30%">Jesus-Alexis Torres <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>
 	</tr>
 </table>
 
@@ -86,11 +89,14 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| James Chen | 2014 - 2016 |Undergrad | &nbsp; |
+| Marzhan Bekbalanova | 2015 - 2016 | Undergrad | &nbsp; |
+| Hengjiu Kang | 2015 - 2016 | Undergrad | &nbsp; |
 | Juan Zeng | 2015 | Postdoctoral Researcher | Now with Intel Corp.|
 | Haoyang Ye | 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), [True Ground Speed Measurement and Height Awareness of UAV by Radar Transceiver](/files/2015-Haoyang.pdf) |
 | Xiaocheng Gu, Luyi Kang| 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Minjie Zhu](https://www.linkedin.com/in/lucifercloei) and Samuel Cheung| 2013 - 2015| M.S.| Report: [Autonomous Collision Avoidance or Small Unmanned Aerial Vehicles](/uav/2015-Minjie-and-Samuel.pdf) |
-| Francis Ambion| 2013 - 2015 | Undergrad |&nbsp;|
+| Francis Ambion| 2013 - 2016 | Undergrad, MS |&nbsp;|
 | Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | Danqing Fu | 2014 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: [RF MEMS Varactor-Based True Time Delay Line Technology for Phased Antenna Array Systems](http://search.proquest.com/docview/1665571996/DABBEE94F2F34F32PQ/1?accountid=14505) |
 | Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
