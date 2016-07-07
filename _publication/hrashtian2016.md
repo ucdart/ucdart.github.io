@@ -7,7 +7,7 @@ volume:
 number:
 year: 2016
 month: Jan.
-doi: 
+doi: 10.1109/SIRF.2016.7445473
 pages:
 publisher:
 booktitle: IEEE Radio and Wireless Symposium (RWS)
