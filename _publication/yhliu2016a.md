@@ -11,7 +11,7 @@ doi:
 pages:
 publisher:
 booktitle: 
-note: Under Review
+note: accepted
 sort_key: 201612
 bib_key: yhliu2016a
 topic: hot-rfmems
