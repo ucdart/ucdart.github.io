@@ -7,7 +7,7 @@ volume:
 number:
 year: 2015
 month: Aug.
-doi: 
+doi: 10.1109/MWSCAS.2015.7282050
 pages:
 publisher:
 booktitle: IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
