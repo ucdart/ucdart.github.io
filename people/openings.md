@@ -9,7 +9,7 @@ published: true
 
 
 <div class="alert alert-info">
-    A Ph.D. position is available for Fall 2017. Strong analytical capabilities and a background in analog and/or radio frequency IC are preferred.</a>.
+    A Ph.D. position is available for Fall 2017. Strong analytical capabilities and a background in analog and/or radio frequency IC are preferred.
 </div>
 
 ### Joining DART Lab
