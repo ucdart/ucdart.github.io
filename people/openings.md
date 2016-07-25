@@ -3,6 +3,9 @@ layout: default
 title: UCDart::Openings
 published: true
 ---
+<div class="alert alert-info">
+    A postdoc researcher position is available for 2016. More details can be found <a href="postdoc-spar.html"> here </a>.
+</div>
 
 ### Joining DART Lab
 
