@@ -7,6 +7,10 @@ published: true
     A postdoc researcher position is available for 2016. More details can be found <a href="postdoc-spar.html"> here </a>.
 </div>
 
+<div class="alert alert-info">
+    A Ph.D. position is available for Fall 2017. Strong analytical capabilities and a background in analog and/or radio frequency IC are preferred.</a>.
+</div>
+
 ### Joining DART Lab
 
 One of the philosophies of our group is to provide the students with a comprehensive training/learning experience in a diversity of technical directions. We are lucky to have a group of talented researchers, students, and collaborators with diverse expertise in micro-devices, passive/active circuits, and system design. 
