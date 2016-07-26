@@ -32,9 +32,13 @@ We welcome master students who want to either experience graduate research or ga
 
 We are particularly looking for students interested in one or more of the following topics:
  - Analog and RFIC design (Plan 1 only)
+ 
  - Board-level RF front-end system design (Plan 1 & 2)
+ 
  - High-speed data acquisition system design (Plan 1 & 2)
+ 
  - Small unmanned aerial vehicle (UAV) design (Plan 1 & 2)
+ 
  - Radar signal processing (Plan 1 & 2)
 
 In our lab, the expectations for a master student is that he/she must be able to contribute at least 10 hours/week to the master project. There will usually be a one-quarter "evaulation" period to determine there is enough "chemistry" between the advisor and the student. 
