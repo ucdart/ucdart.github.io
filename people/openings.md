@@ -31,6 +31,7 @@ For students with US citizenship, we currently have a National Science Foundatio
 We welcome master students who want to either experience graduate research or gain practical electronics skills for better preparation of a future job. Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we tend to prefer Plan 1 students and/or Plan 2 students who can start the project at least a year before the graduation deadline. 
 
 We are particularly looking for students interested in one or more of the following topics:
+
  - Analog and RFIC design (Plan 1 only)
  
  - Board-level RF front-end system design (Plan 1 & 2)
