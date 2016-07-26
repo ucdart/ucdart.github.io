@@ -12,7 +12,7 @@ published: true
     A Ph.D. position is available for Fall 2017. Strong analytical capabilities and a background in analog and/or radio frequency IC are preferred.
 </div>
 
-### Joining DART Lab
+### Joining DART Lab as a PhD Student
 
 One of the philosophies of our group is to provide the students with a comprehensive training/learning experience in a diversity of technical directions. We are lucky to have a group of talented researchers, students, and collaborators with diverse expertise in micro-devices, passive/active circuits, and system design. 
 
@@ -28,4 +28,15 @@ For students with US citizenship, we currently have a National Science Foundatio
 
 ### To UC Davis Master Students Seeking a Project
 
-Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we tend to prefer Plan 1 students and/or Plan 2 students who can start the project at least a year before the graduation deadline. If you are a Master student looking for a project in our group, please make sure that you start the discussion with Dr. Liu in your first year here!
+We welcome master students who want to either experience graduate research or gain practical electronics skills for better preparation of a future job. Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we tend to prefer Plan 1 students and/or Plan 2 students who can start the project at least a year before the graduation deadline. 
+
+We are particularly looking for students interested in one or more of the following topics:
+ - Analog and RFIC design (Plan 1 only)
+ - Board-level RF front-end system design (Plan 1 & 2)
+ - High-speed data acquisition system design (Plan 1 & 2)
+ - Small unmanned aerial vehicle (UAV) design (Plan 1 & 2)
+ - Radar signal processing (Plan 1 & 2)
+
+In our lab, the expectations for a master student is that he/she must be able to contribute at least 10 hours/week to the master project. There will usually be a one-quarter "evaulation" period to determine there is enough "chemistry" between the advisor and the student. 
+
+If you are a Master student looking for a project in our group, please make sure that you start the discussion with Dr. Liu in your first year here!
