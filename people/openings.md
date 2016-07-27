@@ -3,7 +3,7 @@ layout: default
 title: UCDart::Openings
 published: true
 ---
-<div class="alert alert-info">
+<div class="alert alert-danger">
     A postdoc researcher position is available <strong>immediately</strong>. More details can be found <a href="postdoc-spar.html"> here </a>.
 </div>
 
