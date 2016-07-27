@@ -84,7 +84,7 @@ The DART lab is housed in Kemper Hall on the beautiful UC Davis campus. The lab 
 
 
 <div class="alert alert-danger">
-    A postdoc researcher position is available <strong>immediately</strong>. More details can be found <a href="postdoc-spar.html"> here </a>.
+    A postdoc researcher position is available <strong>immediately</strong>. More details can be found <a href="/people/postdoc-spar.html"> here </a>.
 </div>
 
 <div class="alert alert-info">
