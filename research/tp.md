@@ -3,9 +3,6 @@ layout: default
 title: UCDart::Research
 published: true
 ---
-<div class="alert alert-warning">
-    Click on the project titles for more information!
-</div>
 
 ### Devices
 
