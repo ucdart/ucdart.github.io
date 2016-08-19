@@ -11,7 +11,9 @@ published: true
 
 #### Highly Reliable Hot-Switching RF-MEMS Switches
 
+<div>
 {% include_relative hot-rfmems.html %}
+</div>
 
 ### Circuits
 
