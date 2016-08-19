@@ -8,129 +8,27 @@ published: true
 </div>
 
 ### Devices
-<div class="panel-group" id="devices">
 
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#devices" href="#hot-rfmems">Highly Reliable Hot-Switching RF-MEMS Switches</a>
-        </h4>
-      </div>
-      <div id="hot-rfmems" class="panel-collapse collapse in">
-        <div class="panel-body">
-		{% include_relative hot-rfmems.html %}
-        </div>
-      </div>
-    </div>
- 
- <!--   
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#devices" href="#mems-rectf">Resonant Voltage Amplification for Extremely Low-power RF signal Detection and Conversion</a>
-        </h4>
-      </div>
-      <div id="mems-rectf" class="panel-collapse collapse">
-        <div class="panel-body">
-    		{% include_relative mems-rectifier.html %}
-        </div>
-      </div>
-    </div>
--->
+#### Highly Reliable Hot-Switching RF-MEMS Switches
 
-</div> 
+{% include_relative hot-rfmems.html %}
 
 ### Circuits
 
-<div class="panel-group" id="circuits">
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#tunable-filter">High-Q Tunable Evanescent-mode Cavity Filters</a>
-        </h4>
-      </div>
-      <div id="tunable-filter" class="panel-collapse collapse">
-        <div class="panel-body">
+#### High-Q Tunable Evanescent-mode Cavity Filters
     {% include_relative tunable-filter.html %}
-        </div>
-      </div>
-    </div>
 
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
-        </h4>
-      </div>
-      <div id="n-path" class="panel-collapse collapse">
-        <div class="panel-body">
+#### Tunable N-Path Integrated Filters with Enhanced Block Rejection
     {% include_relative n-path.html %}
-        </div>
-      </div>
-    </div>
 
-</div> 
 
 ### Systems
-<div class="panel-group" id="systems">
 
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#devices" href="#thzi">High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies</a>
-        </h4>
-      </div>
-      <div id="thzi" class="panel-collapse collapse">
-        <div class="panel-body">
-		{% include_relative thz-inter.html %}
-        </div>
-      </div>
-    </div>
-    
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#system" href="#bps">Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications</a>
-        </h4>
-      </div>
-      <div id="bps" class="panel-collapse collapse">
-        <div class="panel-body">
-		{% include_relative tunable-bps.html %}
-        </div>
-      </div>
-    </div>
-    
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#system" href="#cardiac">Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring</a>
-        </h4>
-      </div>
-      <div id="cardiac" class="panel-collapse collapse">
-        <div class="panel-body">
-    		{% include_relative cardiac-radar.html %}
-        </div>
-      </div>
-    </div>
-    
-</div> 
+#### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
+	
+	{% include_relative thz-inter.html %}
 
-### Archived
-
-<div class="panel-group" id="archieved">
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#archived" href="#tunable-power">Electro-Mechancial Instability in MEMS-enabled Tunable Evanescent-mode High-frequency filters</a>
-        </h4>
-      </div>
-      <div id="tunable-power" class="panel-collapse collapse">
-        <div class="panel-body">
-		{% include_relative tunable-power.html %}
-        </div>
-      </div>
-    </div>
-    
-</div> 
+#### Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications
+	{% include_relative tunable-bps.html %}
+#### Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring
+	{% include_relative cardiac-radar.html %}
