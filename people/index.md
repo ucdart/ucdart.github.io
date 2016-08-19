@@ -90,7 +90,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
-| James Chen | 2014 - 2016 |Undergrad | 2015 IEEE MTT-S Undergraduate Fellowship |
+| [James Chen](https://www.linkedin.com/in/james-chen-3b9a80a5) | 2014 - 2016 |Undergrad | 2015 IEEE MTT-S Undergraduate Fellowship |
 | Marzhan Bekbalanova | 2015 - 2016 | Undergrad | &nbsp; |
 | Hengjiu Kang, Jun Ouyang, Kim-Thu Pham | 2015 - 2016 | Undergrad | &nbsp; |
 | Juan Zeng | 2015 | Postdoctoral Researcher | Now with Intel Corp.|

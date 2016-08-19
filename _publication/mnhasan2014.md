@@ -13,5 +13,6 @@ publisher:
 booktitle: IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
 note:
 sort_key: 201408
+bib_key: mnhasan2014
 topic: n-path
 ---

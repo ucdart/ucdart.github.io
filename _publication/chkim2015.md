@@ -1,7 +1,7 @@
 ---
 type: conference
 title: Varactor Tuned Ring Resonator Filter With Wide Tunable Bandwidth
-author: Chan Ho Kim, Kai Chang, and Xiaoguang Liu1
+author: Chan Ho Kim, Kai Chang, and Xiaoguang Liu
 journal:
 volume:
 number:
