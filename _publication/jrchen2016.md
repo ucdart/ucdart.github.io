@@ -7,11 +7,12 @@ volume:
 number:
 year: 2016
 month: May
-doi: 
+doi: 10.1109/MWSYM.2016.7540404
 pages:
 publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
-note: Accepted
+note:
 sort_key: 201605
+bib_key: jrchen2016
 topic: tunable-filter
 ---
