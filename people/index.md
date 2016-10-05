@@ -64,12 +64,12 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg"/></td>
 		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg"/></td>
-		<td>Kim-Thu Pham (MS) <br> <img src="/images/blank.jpg"/></td>
+		<td>Joseph Cooney (MS) <br> <img src="/images/blank.jpg"/></td>
      </tr>
      <tr>
-     	<td sytle="width:30%">Jun Ouyang (MS) <br> <img src="/images/blank.jpg"/></td>
      	<td sytle="width:30%">Yanpeng Dong (MS) <br> <img src="/images/blank.jpg"/></td>
      </tr>
+ -->
 </table>
 
 <h3> Undergraduate Students </h3>
