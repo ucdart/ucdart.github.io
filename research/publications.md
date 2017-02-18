@@ -6,11 +6,11 @@ published: true
 
 <!-- [Bibtex file](/utilities/dart_pub.bib) of DART lab publications. -->
 
-<!--
+
 <div class="alert alert-success">
-    <strong>Four papers</strong> submitted and accepted to <a href="http://ims2016.org/">IMS2016</a>!
+    <strong>Four papers</strong> accepted to <a href="http://ims2017.org/">IMS2017</a>!
 </div>
--->
+
 
 ### Journals
 
