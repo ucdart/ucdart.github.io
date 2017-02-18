@@ -43,7 +43,7 @@ published: true
 	{% endfor %}
 </ol>
 
-### Patens
+### Patents
 
 <ol reversed>
 	{% for paper in papers reversed %}
@@ -52,7 +52,7 @@ published: true
     {% if paper.note != null %}
 		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 	{% endif %}
-     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf"  target = "_blank"> <img src = "/images/oa-icon.png"> </a> </li>
+     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> US Patent # {{ paper.patent }}, {{ paper.month }}, {{ paper.year }}.
 	{% endif %}	
 	{% endfor %}
 </ol>
