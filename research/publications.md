@@ -11,6 +11,7 @@ published: true
     <strong>Four papers</strong> accepted to <a href="http://ims2017.org/">IMS2017</a>!
 </div>
 
+[Journals](### Journals)   |    [Conferences](### Conferences)
 
 ### Journals
 
