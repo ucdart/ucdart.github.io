@@ -59,7 +59,6 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 </table>
 
 <h3> Master Students </h3>
-<hr>
 
 <table style="width:100%">
 	<tr>
@@ -69,7 +68,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 </table>
 
 <h3> Undergraduate Students </h3>
-<hr>
+
 <table style="width:100%">
 	<tr>
 		<td style="width:30%">Xiaonan Jiang <br><br> <img src="/images/blank.jpg"/></td>
