@@ -44,8 +44,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td  style="width:30%">Juan Zeng (PhD)<br> <img src="/images/juan.jpg" alt="Juan Zeng" /></td>
 	</tr>
-</table>
--->
+</table> -->
 
 <h3> Graduate Students </h3>
 
@@ -53,36 +52,30 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td  style="width:30%">Akash Anand (PhD)<br> <img src="/images/akash.jpg"/></td>
 		<td  style="width:30%">Songjie Bi (PhD)<br> <img src="/images/songjie.jpg"/></td>
-		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg"/></td>
+		<td>Joseph Cooney (MS) <br> <img src="/images/blank.jpg"/></td>
+
 	</tr>
 	<hr>
 	<tr>
+		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg"/></td>
 		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
 		<td>Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
-		<td>Meijiao Li (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/meijiao.jpg"/></td>
 	</tr>
+	<hr>
 	<tr>
-		<td>Yuhao Liu (PhD) <br> <img src="/images/yuhao.jpg"/></td>
+		<td>Mahmoud Nafe (PhD) <br> <br> <img src="/images/blank.jpg" alt="Mahmoud Nafe" /></td>		
 		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg"/></td>
-		<td>Joseph Cooney (MS) <br> <img src="/images/blank.jpg"/></td>
+		<td>Jingjun Zhao (MS) <br> <img src="/images/blank.jpg"/></td>
      </tr>
-     <tr>
-     	<td sytle="width:30%">Yanpeng Dong (MS) <br> <img src="/images/blank.jpg"/></td>
-     </tr>
- -->
 </table>
 
 <h3> Undergraduate Students </h3>
 
 <table style="width:100%">
 	<tr>
-      	<td style="width:30%">Eric Andler <br> <img src="/images/blank.jpg"/></td>
-		<td style="width:30%">Andrew Eckloff <br> <img src="/images/blank.jpg"/> </td>
 		<td style="width:30%">Xiaonan Jiang <br> <img src="/images/blank.jpg"/></td>
 	</tr>
-	<tr>
-		<td sytle="width:30%">Jesus-Alexis Torres <br> <img src="/images/blank.jpg" alt="Jun Ouyang" /></td>
-	</tr>
+
 </table>
 
 
@@ -90,6 +83,14 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
+| Bing Zhang | 2015 - 2017 | MS | Project topic: Obstacle avoidance system for Unmanned Aerial Vehicle (UAV) by using TX1 and stereo camera |
+| [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
+| [Yuhao Liu](https://www.linkedin.com/in/liu239/) | 2012 - 2016 | PhD | Dissertation topic: Highly Reliable Compact RF-MEMS Contact Switch: Design,
+Fabrication and Characterization |
+| Jesus-Alexis Torres | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
+| Eric Andler | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
+| Yanpeng Dong | 2014 - 2016 | MS | Project topic: Data Acquisition System for Millimeter-wave Digital Beamforming Phase Array System |
 | [James Chen](https://www.linkedin.com/in/james-chen-3b9a80a5) | 2014 - 2016 |Undergrad | 2015 IEEE MTT-S Undergraduate Fellowship |
 | Marzhan Bekbalanova | 2015 - 2016 | Undergrad | &nbsp; |
 | Hengjiu Kang, Jun Ouyang, Kim-Thu Pham | 2015 - 2016 | Undergrad | &nbsp; |
