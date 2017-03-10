@@ -46,27 +46,34 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 </table> -->
 
-<h3> Graduate Students </h3>
+<h3> PhD Students </h3>
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Akash Anand (PhD)<br> <img src="/images/akash.jpg"/></td>
-		<td  style="width:30%">Songjie Bi (PhD)<br> <img src="/images/songjie.jpg"/></td>
-		<td>Joseph Cooney (MS) <br> <img src="/images/blank.jpg"/></td>
-
+		<td style="width:30%">Akash Anand <br> <img src="/images/akash.jpg"/></td>
+		<td style="width:30%">Songjie Bi <br> <img src="/images/songjie.jpg"/></td>
+		<td style="width:30%">James T.S. Do <br> <br> <img src="/images/blank.jpg" alt="James Do" /></td>		
 	</tr>
 	<hr>
 	<tr>
-		<td  style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg"/></td>
-		<td>Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
-		<td>Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
+		<td style="width:30%">Md. Naimul Hasan (PhD) <br> <img src="/images/naimul.jpg"/></td>
+		<td style="width:30%">Fengqi Hu (PhD) <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
+		<td style="width:30%">Daniel Kuzmenko (PhD) <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
 	</tr>
 	<hr>
 	<tr>
-		<td>Mahmoud Nafe (PhD) <br> <br> <img src="/images/blank.jpg" alt="Mahmoud Nafe" /></td>		
-		<td>Hao Wang (PhD) <br> <img src="/images/haowang.jpg"/></td>
-		<td>Jingjun Zhao (MS) <br> <img src="/images/blank.jpg"/></td>
+		<td style="width:30%">Mahmoud Nafe (PhD) <br> <br> <img src="/images/blank.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Hao Wang (PhD) <br> <img src="/images/haowang.jpg"/></td>
      </tr>
+</table>
+
+<h3> Master Students </h3>
+
+<table style="width:100%">
+	<tr>
+		<td  style="width:30%">Joseph Cooney <br> <img src="/images/blank.jpg"/></td>
+		<td  style="width:30%">Jingjun Zhao<br> <img src="/images/blank.jpg"/></td>
+	</tr>
 </table>
 
 <h3> Undergraduate Students </h3>
