@@ -85,15 +85,14 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 | :--- |:---|:---:|:----------|
 | Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
 | Bing Zhang | 2015 - 2017 | MS | Project topic: Obstacle avoidance system for Unmanned Aerial Vehicle (UAV) by using TX1 and stereo camera |
-| [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
-| [Yuhao Liu](https://www.linkedin.com/in/liu239/) | 2012 - 2016 | PhD | Dissertation topic: Highly Reliable Compact RF-MEMS Contact Switch: Design,
-Fabrication and Characterization |
+| [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
+| [Yuhao Liu](https://www.linkedin.com/in/liu239/) | 2012 - 2016 | PhD | Dissertation topic: Highly Reliable Compact RF-MEMS Contact Switch: Design, Fabrication and Characterization |
 | Jesus-Alexis Torres | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
 | Eric Andler | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
 | Yanpeng Dong | 2014 - 2016 | MS | Project topic: Data Acquisition System for Millimeter-wave Digital Beamforming Phase Array System |
 | [James Chen](https://www.linkedin.com/in/james-chen-3b9a80a5) | 2014 - 2016 |Undergrad | 2015 IEEE MTT-S Undergraduate Fellowship |
 | Marzhan Bekbalanova | 2015 - 2016 | Undergrad | &nbsp; |
-| Hengjiu Kang, Jun Ouyang, Kim-Thu Pham | 2015 - 2016 | Undergrad | &nbsp; |
+| Hengjiu Kang, Jun Ouyang, Kim-Thu Pham | 2015 - 2016 | Undergrad | partly supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant|
 | Juan Zeng | 2015 | Postdoctoral Researcher | Now with Intel Corp.|
 | Haoyang Ye | 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), [True Ground Speed Measurement and Height Awareness of UAV by Radar Transceiver](/files/2015-Haoyang.pdf) |
 | Xiaocheng Gu, Luyi Kang| 2015 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
