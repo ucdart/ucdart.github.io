@@ -37,15 +37,6 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <hr>
 
-<!---
-<h3> Post-Doctoral Scholar </h3>
-
-<table style="width:100%">
-	<tr>
-		<td  style="width:30%">Juan Zeng (PhD)<br> <img src="/images/juan.jpg" alt="Juan Zeng" /></td>
-	</tr>
-</table> -->
-
 <h3> PhD Students </h3>
 
 <table style="width:100%">
