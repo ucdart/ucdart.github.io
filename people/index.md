@@ -45,13 +45,13 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 		<td style="width:30%">Songjie Bi <br> <br><img src="/images/songjie.jpg"/></td>
 		<td style="width:30%">James T.S. Do <br> <br> <img src="/images/blank.jpg" alt="James Do" /></td>		
 	</tr>
-	<hr>
+
 	<tr>
 		<td style="width:30%">Md. Naimul Hasan<br> <img src="/images/naimul.jpg"/></td>
 		<td style="width:30%">Fengqi Hu <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
 		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
 	</tr>
-	<hr>
+
 	<tr>
 		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/images/blank.jpg" alt="Mahmoud Nafe" /></td>		
 		<td style="width:30%">Hao Wang <br><br> <img src="/images/haowang.jpg"/></td>
