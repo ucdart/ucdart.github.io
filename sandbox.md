@@ -82,7 +82,6 @@ Critical to our scientific research efforts is a pursuit of fundamental understa
 The DART lab is housed in Kemper Hall on the beautiful UC Davis campus. The lab is affiliated with the Davis Millimeter-wave Research Center (DMRC). The DMRC is broadly focused on fostering millimeter wave technology for wireless communications, radar, sensing, and imaging systems.
 -->
 
-
 <div class="alert alert-danger">
     A postdoc researcher position is available <strong>immediately</strong>. More details can be found <a href="/people/postdoc-spar.html"> here </a>.
 </div>
