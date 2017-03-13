@@ -1,7 +1,7 @@
 ---
 type: article
 title: Millimeter-wave Imaging of Magnetic Fusion Plasmas: Technology Innovations Advancing Physics Understanding
-author: Y. Wang, B. Tobias, Y.-T. Chang, J.-H. Yu, M. Li, F. Hu, M. Chen, M. Mamidanna, T. Phan, A.-V. Pham, J. Gu, X. Liu, Y. Zhu, C.W. Domier, L. Shi, E. Valeo, G.J. Kramer, D. Kuwahara, Y. Nagayama, A. Mase, and N.C. Luhmann Jr. 
+author: Y. Wang, 
 journal: Nuclear Fusion
 volume: 57
 number: 
