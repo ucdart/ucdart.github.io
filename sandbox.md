@@ -98,5 +98,8 @@ We are always looking for motivated students and researchers to join the group. 
 
 
 {% assign papers = (site.publication | sort: 'sort_key') %}
-
-{{papers}}
+<ol reversed>
+  {% for paper in papers reversed %}
+  <li> {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> </li>
+  {% endfor %}
+</ol>
