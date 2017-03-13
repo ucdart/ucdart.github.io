@@ -1,7 +1,7 @@
 ---
 type: article
-title: Millimeter-wave Imaging of Magnetic Fusion Plasmas: Technology Innovations Advancing Physics Understanding
-author: Y. Wang, 
+title: Millimeter-wave Imaging of Magnetic Fusion Plasmas, Technology Innovations Advancing Physics Understanding
+author: Y. Wang
 journal: Nuclear Fusion
 volume: 57
 number: 
