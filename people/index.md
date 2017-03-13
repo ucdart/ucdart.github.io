@@ -43,7 +43,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td style="width:30%">Akash Anand <br><br> <img src="/people/pix/akash.jpg"/></td>
 		<td style="width:30%">Songjie Bi <br> <br><img src="/people/pix/songjie.jpg"/></td>
-		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/pix/blank.jpg" alt="James Do" /></td>		
+		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/pix/james_do.jpg" alt="James Do" /></td>		
 	</tr>
 
 	<tr>
