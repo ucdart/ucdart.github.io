@@ -41,20 +41,20 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Akash Anand <br><br> <img src="/images/akash.jpg"/></td>
-		<td style="width:30%">Songjie Bi <br> <br><img src="/images/songjie.jpg"/></td>
-		<td style="width:30%">James T.S. Do <br> <br> <img src="/images/blank.jpg" alt="James Do" /></td>		
+		<td style="width:30%">Akash Anand <br><br> <img src="/people/pix/akash.jpg"/></td>
+		<td style="width:30%">Songjie Bi <br> <br><img src="/people/pix/songjie.jpg"/></td>
+		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/pix/blank.jpg" alt="James Do" /></td>		
 	</tr>
 
 	<tr>
-		<td style="width:30%">Md. Naimul Hasan<br> <img src="/images/naimul.jpg"/></td>
-		<td style="width:30%">Fengqi Hu <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/images/fengqi.jpg"/></td>
-		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
+		<td style="width:30%">Md. Naimul Hasan<br> <img src="/people/pix/naimul.jpg"/></td>
+		<td style="width:30%">Fengqi Hu <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/people/pix/fengqi.jpg"/></td>
+		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/pix/daniel.jpg" alt="Daniel Kuzmenko" /></td>
 	</tr>
 
 	<tr>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/images/blank.jpg" alt="Mahmoud Nafe" /></td>		
-		<td style="width:30%">Hao Wang <br><br> <img src="/images/haowang.jpg"/></td>
+		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
      </tr>
 </table>
 
@@ -62,8 +62,8 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Joseph Cooney <br><br> <img src="/images/blank.jpg"/></td>
-		<td  style="width:30%">Jingjun Zhao <br><br> <img src="/images/blank.jpg"/></td>
+		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/pix/joe_cooney.jpg"/></td>
+		<td  style="width:30%">Jingjun Zhao <br><br> <img src="/people/pix/blank.jpg"/></td>
 	</tr>
 </table>
 
@@ -71,7 +71,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Xiaonan Jiang <br><br> <img src="/images/blank.jpg"/></td>
+		<td style="width:30%">Xiaonan Jiang <br><br> <img src="/people/pix/blank.jpg"/></td>
 	</tr>
 
 </table>
