@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DART Lab to Participate in DARPA N-Zero program"
+title: "DART Lab to Participate in DARPA SPAR program"
 date: 2016-11-8
 category: news
 ---
