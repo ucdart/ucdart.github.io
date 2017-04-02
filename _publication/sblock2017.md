@@ -6,11 +6,11 @@ journal:
 volume:
 number:
 year: 2017
-month: June
+month: Jun.
 doi: 
 pages:
 publisher:
-booktitle: 
+booktitle: IEEE International Symposium on Circuits and Systems (ISCAS)
 note: Accepted
 sort_key: 201706
 topic: 
