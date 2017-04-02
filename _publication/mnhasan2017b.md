@@ -11,7 +11,7 @@ doi:
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
-note:
+note: Accepted
 sort_key: 201704
 bib_key: mnhasan2017b
 topic: 
