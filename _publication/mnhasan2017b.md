@@ -7,12 +7,12 @@ volume:
 number:
 year: 2017
 month: Apr.
-doi: 
+doi: 10.1109/WAMICON.2017.7930272
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
-note: Accepted
+note:
 sort_key: 201704
 bib_key: mnhasan2017b
-topic: 
+topic:
 ---

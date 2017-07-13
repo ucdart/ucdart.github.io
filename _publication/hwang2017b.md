@@ -1,18 +1,17 @@
 ---
 type: conference
-title: A Miniature 800-1100-MHz Tunable Filter with High-Q Ceramic Coaxial Resonators and Commercial RF-MEMS Tunable Digital Capacitors
-author: Hao Wang, Akash Anand, Xiaoguang Liu
+title: A Compact 213-GHz CMOS Fundamental Oscillator with 0.56 mW Output Power and 3.9% Efficiency using a Capacitive Transformer
+author: Hao Wang, Daniel Kuzmenko, Bo Yu, Yu Ye, Jane Gu, Hooman Rashtian, Xiaoguang Liu
 journal:
 volume:
 number:
 year: 2017
-month: Apr.
-doi: 
+month: Jun.
+doi:
 pages:
 publisher:
-booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
+booktitle: IEEE MTT-S International Microwave Symposium (IMS)
 note: Accepted
-sort_key: 201704
+sort_key: 201706
 bib_key: hwang2017b
-topic: 
 ---
