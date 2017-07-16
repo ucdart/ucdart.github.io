@@ -44,3 +44,4 @@ published: true
 ### Misc/Fun
 
 * [The Unofficial MTT Symposium Website](http://www.nonlintec.com/mttsymposium/)
+* [How To Contact The Voyager 2 Probe (PART 1)](https://www.youtube.com/watch?v=FzRP1qdwPKw), [Part 2](https://www.youtube.com/watch?v=1rCrfQUcXDI), [Part 3](https://www.youtube.com/watch?v=sP_hleOXTaU)
