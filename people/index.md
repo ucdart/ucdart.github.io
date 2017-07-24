@@ -47,15 +47,15 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 
 	<tr>
-		<td style="width:30%">Md. Naimul Hasan<br> <img src="/people/pix/naimul.jpg"/></td>
-		<td style="width:30%">Fengqi Hu <br> Co-advised with <a href="http://tempest.das.ucdavis.edu/luhmann.html">Prof. Luhmann</a> <br> <img src="/people/pix/fengqi.jpg"/></td>
+		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/pix/naimul.jpg"/></td>
 		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/pix/daniel.jpg" alt="Daniel Kuzmenko" /></td>
+		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
 	</tr>
 
 	<tr>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
 		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
-     </tr>
+  </tr>
 </table>
 
 <h3> Master Students </h3>
@@ -63,7 +63,8 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 <table style="width:100%">
 	<tr>
 		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/pix/joe_cooney.jpg"/></td>
-		<td  style="width:30%">Jingjun Zhao <br><br> <img src="/people/pix/blank.jpg"/></td>
+	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/pix/blank.jpg"/></td>
+		<td  style="width:30%">Jingjun Zhao <br><br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 </table>
 
@@ -71,16 +72,29 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Xiaonan Jiang <br><br> <img src="/people/pix/blank.jpg"/></td>
+		<td style="width:30%">Mohammad "Mo" Biswas <br><br> <img src="/people/pix/blank.jpg"/></td>
+		<td style="width:30%">Yharo Torres <br><br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 
 </table>
 
+<h3> Visiting Students </h3>
+
+<table style="width:100%">
+	<tr>
+		<td style="width:30%">Wangke Chen <br> Zhejiang University <br> <img src="/people/pix/blank.jpg"/></td>		
+		<td style="width:30%">Qiyu Hu <br> Zhejiang University <br> <br> <img src="/people/pix/blank.jpg"/></td>
+		<td style="width:30%">Yulu Jin <br> Zhejiang University <br> <br> <img src="/people/pix/blank.jpg"/></td>		
+	</tr>
+
+</table>
 
 ### Alumni
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| [Md. Naimul Hasan](https://www.linkedin.com/in/md-naimul-hasan-a613a725/) | 2012 - 2017 | PhD | Dissertation topic: Blocker-Tolerant Integrated Tunable Filters in CMOS for Next Generation Wireless Communication |
+| [Fengqi Hu](https://www.linkedin.com/in/fengqi-hu-09450b6b/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Microwave Imaging Radar Reflectometer Receiver System Utilizing Digital Beam Forming |
 | Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
 | Bing Zhang | 2015 - 2017 | MS | Project topic: Obstacle avoidance system for Unmanned Aerial Vehicle (UAV) by using TX1 and stereo camera |
 | [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
