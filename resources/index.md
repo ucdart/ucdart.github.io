@@ -45,3 +45,4 @@ published: true
 
 * [The Unofficial MTT Symposium Website](http://www.nonlintec.com/mttsymposium/)
 * [How To Contact The Voyager 2 Probe (PART 1)](https://www.youtube.com/watch?v=FzRP1qdwPKw), [Part 2](https://www.youtube.com/watch?v=1rCrfQUcXDI), [Part 3](https://www.youtube.com/watch?v=sP_hleOXTaU)
+* [The Sproutie MKII HF Regen Receiver](https://aa7ee.wordpress.com/2015/09/14/the-sproutie-mk-ii-hf-regen-receiver/)
