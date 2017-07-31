@@ -96,10 +96,13 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Haitao Zheng | 2016 - 2017 | Visiting Ph.D. student from Beijing Institute of Technology, China |
+| Dr. Yan Zhang | 2016 - 2017 | Visiting scholar from Shanghai Radio Equipment Research Institute， China |
 | [Md. Naimul Hasan](https://www.linkedin.com/in/md-naimul-hasan-a613a725/) | 2012 - 2017 | PhD | Dissertation topic: Blocker-Tolerant Integrated Tunable Filters in CMOS for Next Generation Wireless Communication |
 | [Fengqi Hu](https://www.linkedin.com/in/fengqi-hu-09450b6b/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Microwave Imaging Radar Reflectometer Receiver System Utilizing Digital Beam Forming |
 | Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
 | Bing Zhang | 2015 - 2017 | MS | Project topic: Obstacle avoidance system for Unmanned Aerial Vehicle (UAV) by using TX1 and stereo camera |
+| Prof. Yingsong Li | 2016 2017 | Vising professor from Harbin Engineering University, China |
 | [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
 | [Yuhao Liu](https://www.linkedin.com/in/liu239/) | 2012 - 2016 | PhD | Dissertation topic: Highly Reliable Compact RF-MEMS Contact Switch: Design, Fabrication and Characterization |
 | Jesus-Alexis Torres | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
