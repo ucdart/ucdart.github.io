@@ -49,11 +49,11 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/pix/xiaonan.jpg"/></td>
 		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/pix/daniel.jpg" alt="Daniel Kuzmenko" /></td>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/nafe.jpg" alt="Mahmoud Nafe" /></td>		
 	</tr>
 
 	<tr>
-		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/blank.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/hind.jpg" alt="Hind Reggad" /></td>		
 		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
   </tr>
 </table>
@@ -118,8 +118,10 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 | Francis Ambion| 2013 - 2016 | Undergrad, MS |[Construction of a Modular Cost Effective Spectrum Analyzer with a Tracking Generator](/files/2016-Francis-MS.pdf)|
 | Jose Enrique Almanza Medina| 2015| Visiting from [CICESE.MX](http://www.cicese.edu.mx/#modal-one)|[Report](/files/Jose_UC_MEXUS_Report.pdf)|
 | Danqing Fu | 2014 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: [RF MEMS Varactor-Based True Time Delay Line Technology for Phased Antenna Array Systems](http://search.proquest.com/docview/1665571996/DABBEE94F2F34F32PQ/1?accountid=14505) |
+| Dr. Chan Ho Kim | 2013 - 2014 | Postdoctoral scholar
 | Wei-Lung Ho, Edward Wu, Chenguang Yin, Hengjiu Kang, Timothy Lin, Weitang Liu, Ruchika Jingar, Genevieve Kam, Ray Lin | 2014 Summer | Undergrad | Mini-Project Summer Camp|
 | Myung-Ju Song | 2014 Summer | High School | Mini-Project Summer Camp. His [Youtube Channel](https://www.youtube.com/user/MJSBEST/videos) documenting his learning experience |
+| Yusha Bey | 2012 - 2014 | Postdoctoral scholar
 | Xiaoxiao Fan | 2014 Summer | Undergrad | Summer exchange student from Zhejiang University, China |
 | Zihan Chen, Yue Li, Xingbo Wang | 2014 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/) |
 | [Zachary Myers](https://www.linkedin.com/in/zamyerssu) | 2012 - 2014 | Undergrad | IEEE MTT-S Undergraduate Student Fellowship |
