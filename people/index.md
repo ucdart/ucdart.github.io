@@ -7,7 +7,7 @@ published: true
 <h3>Principle Investigator</h3>
 
 <p>
-<b>Xiaoguang "Leo" Liu, PhD, Assistant Professor </b>
+<b>Xiaoguang "Leo" Liu, PhD, Associate Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
@@ -32,7 +32,7 @@ Email: lxgliu@ucdavis.edu <br>
 </p>
 
 <p>
-Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He is currently an assistant professor in the Department of Electrical and Computer Engineering at the University of California, Davis. His research interests include radio frequency microelectromechanical (RF-MEMS) devices and other reconfigurable high frequency components, high frequency integrated circuits, and biomedical and industrial applications of high frequency communication and sensing systems. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
+Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He is currently an associate professor in the Department of Electrical and Computer Engineering at the University of California, Davis. His research interests include radio frequency microelectromechanical (RF-MEMS) devices and other reconfigurable high frequency components, high frequency integrated circuits, and biomedical and industrial applications of high frequency communication and sensing systems. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
 </p>
 
 <hr>
