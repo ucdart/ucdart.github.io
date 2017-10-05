@@ -12,7 +12,7 @@ published: true
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
 <img src='/people/pix/liu2015s.jpg'>
-<p> <a href="\files\CV_XiaoguangLiu_Current.pdf"> Link to CV </a> </p>
+<p> <a href="\files\CV_XiaoguangLiu_Current.pdf"> Link to CV </a> <br> <a href='http://goo.gl/wMrPPD'> My Calendar </a> </p>
 </div>
 
 <p>
@@ -28,7 +28,7 @@ Mailing Address: <br>
 Office: 3169 Kemper Hall<br>
 Tel.: (530)-289-6367<br>
 Email: lxgliu@ucdavis.edu <br>
-<a href='http://goo.gl/wMrPPD'> My Calendar </a>
+
 </p>
 
 <p>
@@ -41,7 +41,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/pix/chang.jpg"/></td>	
+		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/pix/chang.jpg"/></td>
 	</tr>
 
 </table>
