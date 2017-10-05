@@ -56,12 +56,13 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 
 	<tr>
+		<td style="width:30%">Saleh Hassanzade <br> <img src="/people/pix/saleh.jpg"/></td>
 		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/pix/xiaonan.jpg"/></td>
 		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/pix/daniel.jpg" alt="Daniel Kuzmenko" /></td>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/nafe.jpg" alt="Mahmoud Nafe" /></td>		
 	</tr>
 
 	<tr>
+		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/nafe.jpg" alt="Mahmoud Nafe" /></td>		
 		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/hind.jpg" alt="Hind Reggad" /></td>		
 		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
   </tr>
@@ -80,6 +81,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 </table>
 
+<!---
 <h3> Undergraduate Students </h3>
 
 <table style="width:100%">
@@ -90,7 +92,9 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 
 </table>
+--->
 
+<!---
 <h3> Visiting Students </h3>
 
 <table style="width:100%">
@@ -101,10 +105,15 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	</tr>
 </table>
 
+--->
+
 ### Alumni
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Xiaoyang Zhou | 2017 Summer | Undergrad | Worked on a characterization set up for quartz crystals |
+| Mohammad "Mo" Biswas and Yharo Torres | 2017 Summer | Undergrad | Worked on prototyping of a millimeter-wave radar module. Supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
+| Wangke Chen, Qiyu Hu, Yulu Jin | 2017 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), worked on optimization of a millimeter-wave oscillator design|
 | Haitao Zheng | 2016 - 2017 | Visiting Ph.D. student from Beijing Institute of Technology, China |
 | Dr. Yan Zhang | 2016 - 2017 | Visiting scholar from Shanghai Radio Equipment Research Institute， China |
 | [Md. Naimul Hasan](https://www.linkedin.com/in/md-naimul-hasan-a613a725/) | 2012 - 2017 | PhD | Dissertation topic: Blocker-Tolerant Integrated Tunable Filters in CMOS for Next Generation Wireless Communication |
