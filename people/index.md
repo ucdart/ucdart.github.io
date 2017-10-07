@@ -42,6 +42,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 <table style="width:100%">
 	<tr>
 		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/pix/chang.jpg"/></td>
+		<td style="width:30%">Dr. Xiaomeng Gao <br><br> <img src="/people/pix/xiaomeng.jpg"/></td>
 	</tr>
 
 </table>
