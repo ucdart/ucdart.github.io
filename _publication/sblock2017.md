@@ -7,11 +7,12 @@ volume:
 number:
 year: 2017
 month: Jun.
-doi: 
+doi:
 pages:
 publisher:
 booktitle: IEEE International Symposium on Circuits and Systems (ISCAS)
 note: Accepted
 sort_key: 201706
-topic: 
+bib_key: sblock2017
+topic:
 ---
