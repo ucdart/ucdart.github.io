@@ -7,7 +7,7 @@ volume: 65
 number: 9
 year: 2017
 month:
-doi:
+doi: 10.1109/TMTT.2017.2687427
 pages: 3188 - 3199
 publisher:
 booktitle:
