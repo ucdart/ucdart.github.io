@@ -7,11 +7,11 @@ volume:
 number:
 year: 2017
 month: Jun.
-doi:
+doi: 10.1109/MWSYM.2017.8058972
 pages:
 publisher:
 booktitle: IEEE MTT-S International Microwave Symposium (IMS)
-note: Accepted
+note:
 sort_key: 201706
 bib_key: hwang2017b
 ---
