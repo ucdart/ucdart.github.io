@@ -75,7 +75,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 	<tr>
 		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/pix/joe_cooney.jpg"/></td>
 	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/pix/blank.jpg"/></td>
-		<td  style="width:30%">Jingjun Zhao <br><br> <img src="/people/pix/blank.jpg"/></td>		
+		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 	<tr>
 		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/blank.jpg"/></td>
