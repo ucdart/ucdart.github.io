@@ -1,5 +1,5 @@
 ---
-type: conference
+type: article
 title: Design Methodology of Reconfigurable N-path Filter with Center Frequency and Bandwidth Tuning
 author: M. Naimul Hasan, Shahrokh Saeedi, Qun Jane Gu, Hjalti H. Sigmarsson, Xiaoguang “Leo” Liu
 journal: IEEE Transactions on Microwave Theory and Techniques Applications
