@@ -66,8 +66,6 @@ function showSlides() {
 			<li><img src="images/img_mountains_wide.jpg" alt="Cats!"></li>
 		</ul>
 	</div>
-	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-	<script src="/javascripts/unslider-min.js"></script>
 	<script>
 			jQuery(document).ready(function($) {
 			$('.fading-slider').unslider({
