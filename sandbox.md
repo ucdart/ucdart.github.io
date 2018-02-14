@@ -57,12 +57,20 @@ function showSlides() {
 }
 </script>
 
-<div class="fading-slider">
-	<ul>
-		<li><img src="images/img_nature_wide.jpg" alt="Cats!"></li>
-		<li><img src="images/img_fjords_wide.jpg" alt="Cats!"></li>
-		<li><img src="images/img_mountains_wide.jpg" alt="Cats!"></li>
-	</ul>
+<div>
+<h2> fading slider demo </h2>
+	<div class="fading-slider">
+		<ul>
+			<li><img src="images/img_nature_wide.jpg" alt="Cats!"></li>
+			<li><img src="images/img_fjords_wide.jpg" alt="Cats!"></li>
+			<li><img src="images/img_mountains_wide.jpg" alt="Cats!"></li>
+		</ul>
+	</div>
+	<script>
+		jQuery(document).ready(function($) {
+			$('.fading-slider').unslider();
+		});
+	</script>
 </div>
 
 ### Welcome to the website of the Davis Advanced RF Technologies (DART) lab
