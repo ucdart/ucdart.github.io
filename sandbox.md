@@ -3,69 +3,59 @@ layout: default
 title: Davis Advanced RF Technology
 published: true
 ---
-<!--
+<h2>Automatic Slideshow</h2>
+<p>Change image every 2 seconds:</p>
 
-<div class="container">
-  <br>
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div class="slideshow-container">
 
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-
-
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="img_chania.jpg" alt="Chania" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img_chania2.jpg" alt="Chania" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-        </div>
-      </div>
-    
-      <div class="item">
-        <img src="img_flower.jpg" alt="Flower" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beatiful flowers in Kolymbari, Crete.</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img_flower2.jpg" alt="Flower" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beatiful flowers in Kolymbari, Crete.</p>
-        </div>
-      </div>
-  
-    </div>
-
-
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/img_nature_wide.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
 </div>
 
--->
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/img_fjords_wide.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
 
 ### Welcome to the website of the Davis Advanced RF Technologies (DART) lab
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
