@@ -68,7 +68,11 @@ function showSlides() {
 	</div>
 	<script>
 		jQuery(document).ready(function($) {
-			$('.fading-slider').unslider();
+			$('.fading-slider').unslider({
+				animation: 'fade',
+				autoplay: true,
+			arrows: false
+			});
 		});
 	</script>
 </div>
