@@ -57,6 +57,14 @@ function showSlides() {
 }
 </script>
 
+<div class="fading-slider">
+	<ul>
+		<li><img src="images/img_nature_wide.jpg" alt="Cats!"></li>
+		<li><img src="images/img_fjords_wide.jpg" alt="Cats!"></li>
+		<li><img src="images/img_mountains_wide.jpg" alt="Cats!"></li>
+	</ul>
+</div>
+
 ### Welcome to the website of the Davis Advanced RF Technologies (DART) lab
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
 
