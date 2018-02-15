@@ -72,7 +72,6 @@ function showSlides() {
 	</div>
 	<script>
 		$('.fading-slider').unslider({
-			animateHeight： true,
 			autoplay: true,
 			arrows: false
 		});
