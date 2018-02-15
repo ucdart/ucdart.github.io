@@ -3,6 +3,8 @@ layout: default
 title: Davis Advanced RF Technology
 published: true
 ---
+<!--
+
 <h2>Automatic Slideshow</h2>
 <p>Change image every 2 seconds:</p>
 
@@ -56,6 +58,8 @@ function showSlides() {
     setTimeout(showSlides, 4000); // Change image every 2 seconds
 }
 </script>
+
+-->
 
 <div>
 <h2> fading slider demo </h2>
