@@ -26,7 +26,7 @@ Mailing Address: <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2064 Kemper Hall, <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Davis, CA, 95616<br>
 Office: 3169 Kemper Hall<br>
-Tel.: (530)-289-6367<br>
+Tel.: (530)-752-1443<br>
 Email: lxgliu@ucdavis.edu <br>
 
 </p>
