@@ -300,6 +300,21 @@ footer {
   }
 }
 
+/* Override Bootstrap Carousel styles
+*/
+
+.carousel-control {
+	width: 5%;
+}
+
+.carousel-inner {
+	width: 60%;
+}
+
+.carousel-indicators {
+	width: 35%;
+}
+
 /* Image slider - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto
 */
 
