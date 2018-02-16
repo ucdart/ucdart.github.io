@@ -62,7 +62,7 @@ function showSlides() {
 -->
 <div class="container">
   <h2>Carousel Example</h2>  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width=35%">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -70,26 +70,26 @@ function showSlides() {
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
-    <div class="carousel-inner">
+    <div class="carousel-inner" style="width=60%">
       <div class="item active">
-        <img src="images/img_nature_wide.jpg" alt="Los Angeles" style="width:300px;">
+        <img src="images/img_nature_wide.jpg" alt="Los Angeles" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="images/img_fjords_wide.jpg" alt="Chicago" style="width:300px;">
+        <img src="images/img_fjords_wide.jpg" alt="Chicago" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="images/img_mountains_wide.jpg" alt="New york" style="width:300px;">
+        <img src="images/img_mountains_wide.jpg" alt="New york" style="width:100%;">
       </div>
     </div>
 
 
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="width=5%">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
     </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <a class="right carousel-control" href="#myCarousel" data-slide="next" style="width=5%">
       <span class="glyphicon glyphicon-chevron-right"></span>
       <span class="sr-only">Next</span>
     </a>
