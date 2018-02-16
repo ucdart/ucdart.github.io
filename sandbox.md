@@ -72,15 +72,15 @@ function showSlides() {
 
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/img_nature_wide.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="images/img_nature_wide.jpg" alt="Los Angeles" style="width:300px;">
       </div>
 
       <div class="item">
-        <img src="images/img_fjords_wide.jpg" alt="Chicago" style="width:100%;">
+        <img src="images/img_fjords_wide.jpg" alt="Chicago" style="width:300px;">
       </div>
     
       <div class="item">
-        <img src="images/img_mountains_wide.jpg" alt="New york" style="width:100%;">
+        <img src="images/img_mountains_wide.jpg" alt="New york" style="width:300px;">
       </div>
     </div>
 
