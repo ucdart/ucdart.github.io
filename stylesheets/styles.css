@@ -315,7 +315,9 @@ footer {
 }
 
 .carousel-indicators {
-	width: 35%;
+	width: 40%;
+	bottom: 0px;
+	margin-left: -20%;
 }
 
 /* Image slider - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto
