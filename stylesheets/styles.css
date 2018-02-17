@@ -302,6 +302,9 @@ footer {
 
 /* Override Bootstrap Carousel styles
 */
+.carousel {
+	width: 60%;
+}
 
 .carousel-control {
 	width: 5%;
