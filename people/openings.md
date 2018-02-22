@@ -29,20 +29,26 @@ For students with US citizenship, we currently have a National Science Foundatio
 
 ### To UC Davis Master Students Seeking a Project
 
-We welcome master students who want to either experience graduate research or gain practical electronics skills for better preparation of a future job. Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we tend to prefer Plan 1 students and/or Plan 2 students who can start the project at least a year before the graduation deadline. 
+We welcome master students who want to either experience graduate research or gain practical electronics skills for better preparation of a future job. Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we take only **Plan 1** students who can start working on their research project from either the Fall or the Winter quarter of the first year. 
 
-We are particularly looking for students interested in one or more of the following topics:
+We treat Plan 1 master student similarly as PhD students, expecting critical thinking and strong work ethics. Accordingly, we provide similar support to Plan 1 students in terms of office space, computation resources, tape-out/prototyping opportunities, etc, with the exception of financial support. 
 
- - Analog and RFIC design (Plan 1 only)
- 
- - Board-level RF front-end system design (Plan 1 & 2)
- 
- - High-speed data acquisition system design (Plan 1 & 2)
- 
- - Small unmanned aerial vehicle (UAV) design (Plan 1 & 2)
- 
- - Radar signal processing (Plan 1 & 2)
+Students who are interested in Plan 2 should enroll in the EEC290 capstone project course.  
 
-In our lab, the expectations for a master student is that he/she must be able to contribute at least 10 hours/week to the master project. There will usually be a one-quarter "evaulation" period to determine there is enough "chemistry" between the advisor and the student. 
+In particular, we are looking for students interested in one or more of the following topics:
+
+ - Analog and RFIC design
+ 
+ - Board-level RF front-end system design
+ 
+ - High-speed data acquisition system design
+ 
+ - Small unmanned aerial vehicle (UAV) design
+ 
+ - Radar signal processing
+
+<!--
+In our lab, the expectations for a master student is that he/she must be able to contribute at least 10 hours/week to the master project. There will usually be a one-quarter "evaluation" period to determine there is enough "chemistry" between the advisor and the student. 
+-->
 
 If you are a Master student looking for a project in our group, please make sure that you start the discussion with Dr. Liu in your first year here!
