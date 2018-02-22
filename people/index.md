@@ -7,7 +7,8 @@ published: true
 <h3>Principle Investigator</h3>
 
 <p>
-<b>Xiaoguang "Leo" Liu, PhD, Associate Professor </b>
+<b>Xiaoguang "Leo" Liu, PhD, <br>
+Associate Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
