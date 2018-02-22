@@ -10,7 +10,7 @@ published: true
 * [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) -- Richard Hamming
 * [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full) -- Martin A. Schwartz
 * [Cargo Cult Science](http://www.lhup.edu/~DSIMANEK/cargocul.htm) -- Richard Feynman
-* [The pleasure of finding things out](https://www.youtube.com/watch?v=Bgaw9qe7DEE) -- Richard Feynman
+* [The pleasure of finding things out](https://www.youtube.com/watch?v=PVob_tATVRI) -- Richard Feynman
 * [My advise to young people](https://www.youtube.com/watch?v=75Ju0eM5T2c) -- Donald Knuth
 
 ### Publication and presentation

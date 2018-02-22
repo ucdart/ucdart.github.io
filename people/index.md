@@ -79,7 +79,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 	<tr>
-		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/blank.jpg"/></td>
+		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/li.jpg"/></td>
 	</tr>
 </table>
 
