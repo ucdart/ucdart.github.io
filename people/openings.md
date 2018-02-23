@@ -21,13 +21,13 @@ One of the philosophies of our group is to provide the students with a comprehen
 
 We are always looking for motivated students and researchers to join our group at UC Davis. Typical characteristics that we are looking for include strong motivation, good work ethics, strong analytical and hands-on skills, and above all, a curiosity about <strong>how things work </strong> and <strong>why they work</strong>.
 
-Although the type and number of openings vary from year to year with the level of research funding, interested candidates should always free feel to contact Dr. Liu (lxgliu@ucdavis.edu) or [other group members](/people/) to learn about the activities and the atomsphere in the group.
+Although the type and number of openings vary from year to year with the level of research funding, interested candidates should always free feel to contact Dr. Liu (lxgliu@ucdavis.edu) or [other group members](/people/) to learn about the activities and the atmosphere in the group.
 
 ### To Undergraduate Students Seeking Research Experience
 
 Our general recommendation for undergraduate students is to focus on getting good grades in your coursework. However, if you feel that you have extra time and energy, and/or that you want to explore research experience over the summer, you are most welcome to contact Dr. Liu for more information.
 
-For students with US citizenship, we currently have a National Science Foundation (NSF) funded Research Experience for Undergraduates (REU) program that can provide some level of financial support. The project is aimed at developing novel device, circuit, and signal processing techniques to realize reconfigurable bandpass-sampling receivers for softwared defined radio (SDR) applications.
+For students with US citizenship, we currently have a National Science Foundation (NSF) funded Research Experience for Undergraduates (REU) program that can provide some level of financial support. The project is aimed at developing novel device, circuit, and signal processing techniques to realize reconfigurable bandpass-sampling receivers for software defined radio (SDR) applications.
 
 ### To UC Davis Master Students Seeking a Project
 
@@ -35,7 +35,7 @@ We welcome master students who want to either experience graduate research or ga
 
 We treat Plan 1 master student similarly as PhD students, expecting critical thinking and strong work ethics. Accordingly, we provide similar support to Plan 1 students in terms of office space, computation resources, tape-out/prototyping opportunities, etc, with the exception of financial support.
 
-Students who are interested in Plan 2 should enroll in the **EEC290B** capstone project course.  
+Students who are interested in Plan 2 should enroll in the **EEC290P** capstone project course.  
 
 In particular, we are looking for students interested in one or more of the following topics:
 
