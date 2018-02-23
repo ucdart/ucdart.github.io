@@ -35,7 +35,7 @@ We welcome master students who want to either experience graduate research or ga
 
 We treat Plan 1 master student similarly as PhD students, expecting critical thinking and strong work ethics. Accordingly, we provide similar support to Plan 1 students in terms of office space, computation resources, tape-out/prototyping opportunities, etc, with the exception of financial support.
 
-Students who are interested in Plan 2 should enroll in the EEC290 capstone project course.  
+Students who are interested in Plan 2 should enroll in the **EEC290B** capstone project course.  
 
 In particular, we are looking for students interested in one or more of the following topics:
 
