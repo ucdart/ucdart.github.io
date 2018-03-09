@@ -96,18 +96,17 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 </table>
 --->
 
-<!---
-<h3> Visiting Students </h3>
+
+<h3> Visiting Scholars/Students </h3>
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Wangke Chen <br> Zhejiang University <br> <img src="/people/pix/blank.jpg"/></td>		
-		<td style="width:30%">Qiyu Hu <br> Zhejiang University <br> <br> <img src="/people/pix/blank.jpg"/></td>
-		<td style="width:30%">Yulu Jin <br> Zhejiang University <br> <br> <img src="/people/pix/blank.jpg"/></td>		
+		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/pix/blank.jpg"/></td>		
+		<td style="width:30%">Xiaohu Wu <br>  <br> <br> <img src="/people/pix/blank.jpg"/></td>
+		<td style="width:30%">Dashuai Zhang <br>  <br> <br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 </table>
 
---->
 
 ### Alumni
 
