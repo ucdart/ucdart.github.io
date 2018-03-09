@@ -38,6 +38,14 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <hr>
 
+<h3> Visiting Professor </h3>
+
+<table style="width:100%">
+	<tr>
+		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/pix/blank.jpg"/></td>
+	</tr>
+</table>
+
 <h3> Research Scientists </h3>
 
 <table style="width:100%">
@@ -102,7 +110,6 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 <table style="width:100%">
 	<tr>
 		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/pix/blank.jpg"/></td>		
-		<td style="width:30%">Xiaohu Wu <br>  <br> <br> <img src="/people/pix/blank.jpg"/></td>
 		<td style="width:30%">Dashuai Zhang <br>  <br> <br> <img src="/people/pix/blank.jpg"/></td>		
 	</tr>
 </table>
