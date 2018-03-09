@@ -23,13 +23,16 @@ We are always looking for motivated students and researchers to join our group a
 
 Although the type and number of openings vary from year to year with the level of research funding, interested candidates should always free feel to contact Dr. Liu (lxgliu@ucdavis.edu) or [other group members](/people/) to learn about the activities and the atmosphere in the group.
 
-### To Undergraduate Students Seeking Research Experience
+### For Undergraduate Students Seeking Research Experience
 
 Our general recommendation for undergraduate students is to focus on getting good grades in your coursework. However, if you feel that you have extra time and energy, and/or that you want to explore research experience over the summer, you are most welcome to contact Dr. Liu for more information.
 
+For undergraduate students from outside of the US wanting to do summer research with our group, we are happy to host you in our group if you are able to present evidence of strong academic achievement. In general, we will not be able to provide financial support for your stay here.
+
 For students with US citizenship, we currently have a National Science Foundation (NSF) funded Research Experience for Undergraduates (REU) program that can provide some level of financial support. The project is aimed at developing novel device, circuit, and signal processing techniques to realize reconfigurable bandpass-sampling receivers for software defined radio (SDR) applications.
 
-### To UC Davis Master Students Seeking a Project
+
+### For UC Davis Master Students Seeking a Project
 
 We welcome master students who want to either experience graduate research or gain practical electronics skills for better preparation of a future job. Since most of the projects in our group relate to building actual hardware, which generally requires a longer time for the student to acquire the necessary skills and produce results, we take only **Plan 1** students who can start working on their research project from either the Fall or the Winter quarter of the first year.
 
@@ -54,3 +57,7 @@ In our lab, the expectations for a master student is that he/she must be able to
 -->
 
 If you are a Master student looking for a project in our group, please make sure that you start the discussion with Dr. Liu in your first year here!
+
+### For Non-UCD PhD Students Seeking an Research Exchange Program
+
+Please contact Prof. Liu directly with your CV and a short email explaining your research background and interest. 
