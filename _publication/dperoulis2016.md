@@ -5,12 +5,12 @@ author: Dimitrios Peroulis, Akash Anand, Joshua Azariah Small, Xiaoguang Liu, Mu
 journal:
 volume:
 number:
-year:
-month: Apr
+year: 2012
+month:
 doi:
 pages:
 publisher:
-booktitle: 
+booktitle:
 patent: US 9,325,052
 note:
 sort_key: 201604

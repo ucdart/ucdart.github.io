@@ -5,12 +5,12 @@ author: Dimitrios Peroulis, Adam Fruehling, Joshua Azariah Small, Xiaoguang Liu,
 journal:
 volume:
 number:
-year:
-month: Oct
+year: 2012
+month:
 doi:
 pages:
 publisher:
-booktitle: 
+booktitle:
 patent: US 9,166,271
 note:
 sort_key: 201510

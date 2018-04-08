@@ -5,12 +5,12 @@ author: Himanshu Joshi, Hjalti Hreinn Sigmarsson, Dimitrios Peroulis, William J 
 journal:
 volume:
 number:
-year:
-month: May
+year: 2008
+month: 
 doi:
 pages:
 publisher:
-booktitle: 
+booktitle:
 patent: US 9,024,709
 note:
 sort_key: 201505
