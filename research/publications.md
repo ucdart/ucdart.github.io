@@ -52,7 +52,7 @@ published: true
     {% if paper.note != null %}
 		<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 	{% endif %}
-     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> US Patent # {{ paper.patent }}, {{ paper.year }}. </li>
+     {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> US Patent # {{ paper.patent }}, {{ paper.month }}, {{ paper.year }}. </li>
 	{% endif %}
 	{% endfor %}
 </ol>

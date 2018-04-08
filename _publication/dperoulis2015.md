@@ -6,12 +6,12 @@ journal:
 volume:
 number:
 year: 2012
-month:
+month: Jun.
 doi:
 pages:
 publisher:
 booktitle:
-patent: US 9,166,271
+patent: US/9,166,271
 note:
 sort_key: 201510
 bib_key: dperoulis2015
