@@ -109,7 +109,7 @@ Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 a
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/pix/blank.jpg"/></td>		
+		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/pix/wenjing.jpg"/></td>		
 		<td style="width:30%">Dashuai Zhang <br>  <br> <br> <img src="/people/pix/dashuai.jpg"/></td>		
 	</tr>
 </table>
