@@ -33,7 +33,7 @@ Email: lxgliu@ucdavis.edu <br>
 </p>
 
 <p>
-Xiaoguang Liu received his B.S. degree from Zhejiang University, China in 2004 and his Ph.D. degree from Purdue University in 2010. He is currently an associate professor in the Department of Electrical and Computer Engineering at the University of California, Davis. His research interests include radio frequency microelectromechanical (RF-MEMS) devices and other reconfigurable high frequency components, high frequency integrated circuits, and biomedical and industrial applications of high frequency communication and sensing systems. He received the UC Davis Hellman Foundation Fellowship for 2013-2014. His amateur radio call sign is AI6DW.
+Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University in 2004 and PhD degree from Purdue University, USA in 2010. He joined the Department of Electrical and Computer Engineering, University of California, Davis in Nov. 2011 as an assistant professor and was promoted to an associate professor in Jul. 2017. At UC Davis, his research group is investigating various aspects of cutting-edge high-frequency circuit and system design and implementation concepts. Besides typical duties inside the University and professional societies, Dr. Liu has consulted for a number of companies and national labs on topics related to high-frequency circuits, antennas, and systems. His amateur radio call sign is AI6DW.
 </p>
 
 <hr>
