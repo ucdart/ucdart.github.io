@@ -10,6 +10,8 @@ published: true
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
 -->
 
+![alt text](/images/daniel_s.jpg "Logo Title Text 1")
+
 We are a group of researchers with a keen interest in many exciting areas of high frequency electronics. Our [research](/research/) interests include:
 
 - Reconfigurable high frequency devices and components;
