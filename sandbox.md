@@ -4,24 +4,23 @@ title: Davis Advanced RF Technology
 published: true
 ---
 {% assign papers = (site.publication | sort: 'sort_key') %}
-<ol reversed>
-	{% for paper in papers offset:0 limit:3 %}
-		{% if paper.type =="article" %}
+<ul>
+		{% if papers[-1].type =="article" %}
 		<li>     
     		{% if paper.note != null %}
-				<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
-			{% endif %}
+					<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
+				{% endif %}
     		{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf" target = "_blank"> <img src = "/images/oa-icon.png"> </a>
 		</li>
-	{% elseif paper.type =="conference" %}
+	{% elseif papers[-1].type =="conference" %}
 		<li>
 			{% if paper.note != null %}
-			<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
-		{% endif %}
-			 {{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf"  target = "_blank"> <img src = "/images/oa-icon.png"> </a> </li>
+				<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
+			{% endif %}
+			{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }},"</span> <i> {{ paper.booktitle}}</i>, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf"  target = "_blank"> <img src = "/images/oa-icon.png"> </a> </li>
 	{% endif %}
 	{% endfor %}
-</ol>
+</ul>
 
 {% assign papers = (site.publication | sort: 'sort_key') %}
 {{ papers[-3:0].author }}
