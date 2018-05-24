@@ -6,9 +6,9 @@ published: true
 {% assign papers = (site.publication | sort: 'sort_key') %}
 {% paper = papers[-1] %}
 <ul>
-
 		{% if paper.type =="article" %}
 		<li>     
+				{{paper.author}}
     		{% if paper.note != null %}
 					<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 				{% endif %}
