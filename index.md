@@ -5,7 +5,7 @@ published: true
 ---
 
 
-### Welcome to the website of the Davis Advanced RF Technologies (DART) lab
+### Welcome to the Davis Advanced RF Technologies (DART) lab
 <!---
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
 -->

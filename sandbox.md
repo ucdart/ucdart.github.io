@@ -4,8 +4,9 @@ title: Davis Advanced RF Technology
 published: true
 ---
 {% assign papers = (site.publication | sort: 'sort_key') %}
+{% paper = papers[-1] %}
 <ul>
-		{% paper = papers[-1] %}
+
 		{% if paper.type =="article" %}
 		<li>     
     		{% if paper.note != null %}
