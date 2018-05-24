@@ -22,8 +22,7 @@ published: true
 	{% endfor %}
 </ul>
 
-{% assign papers = (site.publication | sort: 'sort_key') %}
-{{ papers[-3:0].author }}
+{{ papers[-3].author }}
 
 <!--
 
