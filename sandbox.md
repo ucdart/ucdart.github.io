@@ -14,6 +14,9 @@ published: true
 	{% endfor %}
 </ol>
 
+{% assign papers = (site.publication | sort: 'sort_key') %}
+papers[0]
+
 <!--
 
 <h2>Automatic Slideshow</h2>
