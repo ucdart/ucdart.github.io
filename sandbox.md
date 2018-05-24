@@ -24,7 +24,7 @@ published: true
 </ol>
 
 {% assign papers = (site.publication | sort: 'sort_key') %}
-{{ papers[-1].author }}
+{{ papers[-3:0].author }}
 
 <!--
 
