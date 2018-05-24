@@ -5,7 +5,7 @@ published: true
 ---
 {% assign papers = (site.publication | sort: 'sort_key') %}
 <ol reversed>
-	{% for paper in papers reversed limit:3 %}
+	{% for paper in papers limit:3 %}
 		<li>     
     		{% if paper.note != null %}
 				<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
