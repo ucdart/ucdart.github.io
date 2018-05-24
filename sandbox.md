@@ -15,7 +15,7 @@ published: true
 </ol>
 
 {% assign papers = (site.publication | sort: 'sort_key') %}
-papers[0]
+{% papers[0] %}
 
 <!--
 
