@@ -5,7 +5,7 @@ published: true
 ---
 {% assign papers = (site.publication | sort: 'sort_key') %}
 <ol reversed>
-	{% for paper in papers reversed %}
+	{% for paper in papers reversed offset: 0 limit: 3 %}
 		{% if paper.type =="article" %}
 		<li>     
     		{% if paper.note != null %}
