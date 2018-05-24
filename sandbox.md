@@ -5,14 +5,12 @@ published: true
 ---
 {% assign papers = (site.publication | sort: 'sort_key') %}
 <ol reversed>
-	{% for paper in papers reversed offset: 0 limit: 3 %}
-		{% if paper.type =="article" %}
+	{% for paper in papers reversed limit:3 %}
 		<li>     
     		{% if paper.note != null %}
 				<span style='font-weight:600; color:#AD655F;'>[{{ paper.note }}]</span> &nbsp;
 			{% endif %}
     		{{ paper.author }}, <span style='font-weight: 600;'>"{{ paper.title }}," </span> <i> {{ paper.journal }}</i>, vol. {{ paper.volume }}, no. {{ paper.number }}, pp. {{ paper.pages }}, {{ paper.month }}, {{ paper.year }}. &nbsp; <a href="http://dx.doi.org/{{ paper.doi }}">DOI:{{ paper.doi }}</a> | <a href = "/publication/{{ paper.bib_key}}.pdf" target = "_blank"> <img src = "/images/oa-icon.png"> </a> </li>
-		{% endif %}
 	{% endfor %}
 </ol>
 
