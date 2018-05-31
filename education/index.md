@@ -15,4 +15,6 @@ published: true
 
 #### [EEC 229 RF-MEMS and Adaptive Wireless Systems](/education/eec229.html)
 
+<br>
+<br>
 <img align="middle;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg">
