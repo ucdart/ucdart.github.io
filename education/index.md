@@ -4,7 +4,7 @@ title: "UCDart::Education"
 published: true
 ---
 
-### Courses 
+### Courses
 
 #### [EEC 130A Introductory Electromagntics I](/education/eec130a.html)
 
@@ -14,3 +14,5 @@ published: true
 #### [EEC 289N Design of RF/Microwave Filters](/education/eec289n.html)
 
 #### [EEC 229 RF-MEMS and Adaptive Wireless Systems](/education/eec229.html)
+
+<img style="float: center;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg">
