@@ -8,10 +8,10 @@ published: true
 
 **子曰：“有教无类”**
 
-**Confucious once said, "Among really educated men，there is no caste or race-distinction."**
+**Confucious once said, "Among really educated men, there is no caste or race-distinction."**
 
 Another translation interprets it differently,
 
-**Confucius once said，"There should be education for everyone without distinction."**
+**Confucius once said, "There should be education for everyone without distinction."**
 
-I find both interpretations inspriational and thought-provoking. 
+I find both interpretations inspriational and thought-provoking.
