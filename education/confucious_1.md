@@ -4,7 +4,7 @@ title: "UCDart::Education"
 published: true
 ---
 
-<img align="middle;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg">
+<img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg">
 
 **子曰：“有教无类”**
 
