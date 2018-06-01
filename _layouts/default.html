@@ -11,7 +11,7 @@
 			<link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css">
 			<!-- link to Bootstrap scripts -->
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 			<script src="https://use.fontawesome.com/b2e828500b.js"></script>
 			<!-- link to Unslider scripts and CSS -->
 			<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -27,15 +27,15 @@
 			<header>
         			<h1>Davis Advanced RF Technologies Lab</h1>
 				<p></p>
-              
+
 			<p class = "view">
               <a href="/">Home</a> | <a href="/people">People</a>-<a href="/people/openings.html">Openings</a> | <a href="/education">Teaching</a> | <a href="/research">Research</a>-<a href="/research/publications.html">Publications</a> | <a href="/uav">UAV Lab</a> | <a href="/education/outreach.html">Outreach</a> | <a href="/facilities">Facilities</a> | <a href="/resources">Resources</a> |
 			</p>
-			
+
 			<h4>
 				<a href="/news">News</a>
 			</h4>
-			
+
 			<p class = "view">
 			{% for post in site.posts limit:6 %}
 				{% if post.categories contains 'news' %}
@@ -43,26 +43,26 @@
 	  			{% endif %}
 	  		{% endfor %}
 			</p>
-			
+
 			<p class = "view">
-	        		<a href="mailto:dart.ucdavis@gmail.com">email</a> |  <a href="https://github.com/ucdart">GitHub</a> 
+	        		<a href="mailto:dart.ucdavis@gmail.com">email</a> |  <a href="https://github.com/ucdart">GitHub</a>
 			</p>
-			
+
             <!--
               <p>
                 <small>This website is hosted by Github Pages. This means that all the sources files are open (as in open-source) in a <a href="https://github.com/ucdart/ucdart.github.io.git">Github repository</a>. You can contribute to the content by sending a pull request. </small>
               </p>
-            -->  
+            -->
 			</header>
-      		
+
       		<section>
 				{{ content }}
-				
+
       		</section>
-			
+
 			</div><!-- /.wrapper -->
 			<!--</div> /.container -->
-	
+
 			<!--
 			<footer>
 
