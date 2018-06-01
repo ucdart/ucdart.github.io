@@ -37,9 +37,9 @@
 			</h4>
 
 			<p class = "view">
-			{% for news in site.news limit:6 %}
-				{% if news.categories contains 'news' %}
-	    			» [{{ news.date | date_to_string }}] » <a href="{{ news.url }}" title="{{ news.title }}">{{ news.title }}</a><br>
+			{% for post in site.posts limit:6 %}
+				{% if post.categories contains 'news' %}
+	    			» [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
 	  			{% endif %}
 	  		{% endfor %}
 			</p>
