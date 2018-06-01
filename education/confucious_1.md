@@ -14,4 +14,4 @@ Another translation interprets it differently,
 
 **Confucius once said, "There should be education for everyone without distinction."**
 
-I find both interpretations inspriational and thought-provoking.
+Both interpretations inspriational and thought-provoking.
