@@ -17,4 +17,6 @@ published: true
 
 <br>
 <br>
-<img align="middle;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg">
+<a href="https://dart.ece.ucdavis.edu/education/confucious_1" target="_blank"> <img align="middle;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg"> </a>
+
+<a href="https://dart.ece.ucdavis.edu/education/confucious_2" target="_blank"> <img align="middle;" src="https://dart.ece.ucdavis.edu/images/teaching_confucious_2.jpg"> </a>
