@@ -2,7 +2,7 @@
 layout: post
 title: "High-Efficiency mmW/THz Oscillator Design (1)"
 date: 2018-06-01
-category: news
+category: blog
 ---
 The extremely large bandwidth available at the millimeter-wave (mmW) and terahertz (THz) frequency bands has interesting potentials for a variety of applications such as high-data rate communications, high precision sensing (radar), and low-cost spectroscopy. The technology scaling of silicon integrated circuits, primarily driven by the desire to have faster and lower-power CPUs, has resulted in extremely fast transistors. This naturally motivated many researcher to look at design techniques for creating silicon IC based mmW/THz systems with the hope that the cost of these systems could be significantly lowered with the massive economy of scale of silicon IC manufacturing.
 
