@@ -13,7 +13,7 @@ Associate Professor </b>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
 <img src='/people/pix/liu2015s.jpg'>
-<p> <a href="\files\CV_Xiaoguang_Liu.pdf"> Link to CV </a> <br> <a href='http://goo.gl/wMrPPD'> My Calendar </a> </p>
+<p> <a href="files\CV_Xiaoguang_Liu.pdf"> Link to CV </a> <br> <a href='http://goo.gl/wMrPPD'> My Calendar </a> </p>
 </div>
 
 <p>
