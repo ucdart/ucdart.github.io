@@ -7,38 +7,6 @@ published: true
     Click on the project titles for more information!
 </div>
 
-### Devices
-<div class="panel-group" id="devices">
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#devices" href="#hot-rfmems">Highly Reliable Hot-Switching RF-MEMS Switches</a>
-        </h4>
-      </div>
-      <div id="hot-rfmems" class="panel-collapse collapse in">
-        <div class="panel-body">
-		{% include_relative hot-rfmems.html %}
-        </div>
-      </div>
-    </div>
- 
- <!--   
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#devices" href="#mems-rectf">Resonant Voltage Amplification for Extremely Low-power RF signal Detection and Conversion</a>
-        </h4>
-      </div>
-      <div id="mems-rectf" class="panel-collapse collapse">
-        <div class="panel-body">
-    		{% include_relative mems-rectifier.html %}
-        </div>
-      </div>
-    </div>
--->
-
-</div> 
 
 ### Circuits
 
@@ -70,7 +38,41 @@ published: true
       </div>
     </div>
 
-</div> 
+</div>
+
+### Devices
+<div class="panel-group" id="devices">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#devices" href="#hot-rfmems">Highly Reliable Hot-Switching RF-MEMS Switches</a>
+        </h4>
+      </div>
+      <div id="hot-rfmems" class="panel-collapse collapse in">
+        <div class="panel-body">
+		{% include_relative hot-rfmems.html %}
+        </div>
+      </div>
+    </div>
+
+ <!--   
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#devices" href="#mems-rectf">Resonant Voltage Amplification for Extremely Low-power RF signal Detection and Conversion</a>
+        </h4>
+      </div>
+      <div id="mems-rectf" class="panel-collapse collapse">
+        <div class="panel-body">
+    		{% include_relative mems-rectifier.html %}
+        </div>
+      </div>
+    </div>
+-->
+
+</div>
+
 
 ### Systems
 <div class="panel-group" id="systems">
@@ -87,7 +89,7 @@ published: true
         </div>
       </div>
     </div>
-    
+
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -100,7 +102,7 @@ published: true
         </div>
       </div>
     </div>
-    
+
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -113,8 +115,8 @@ published: true
         </div>
       </div>
     </div>
-    
-</div> 
+
+</div>
 
 ### Archived
 
@@ -132,5 +134,5 @@ published: true
         </div>
       </div>
     </div>
-    
-</div> 
+
+</div>
