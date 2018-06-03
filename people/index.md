@@ -127,8 +127,8 @@ for System on Chip Bluetooth low energy |
 | Xiaoyang Zhou | 2017 Summer | Undergrad | Worked on a characterization set up for quartz crystals |
 | Mohammad "Mo" Biswas and Yharo Torres | 2017 Summer | Undergrad | Worked on prototyping of a millimeter-wave radar module. Supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
 | Wangke Chen, Qiyu Hu, Yulu Jin | 2017 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), worked on optimization of a millimeter-wave oscillator design|
-| Haitao Zheng | 2016 - 2017 | Visiting Ph.D. student from Beijing Institute of Technology, China |
-| Dr. Yan Zhang | 2016 - 2017 | Visiting scholar from Shanghai Radio Equipment Research Institute， China |
+| Haitao Zheng | 2016 - 2017 | Visiting Ph.D. student from Beijing Institute of Technology, China | Worked on ground penetration radar (GPR) iamging using synthetic aperture radar (SAR) techniques |
+| Dr. Yan Zhang | 2016 - 2017 | Visiting scholar from Shanghai Radio Equipment Research Institute， China | Worked on super-resolution radar imaging techniques and a new architure for ultra-fast millimeter-wave phased array imaging |
 | [Md. Naimul Hasan](https://www.linkedin.com/in/md-naimul-hasan-a613a725/) | 2012 - 2017 | PhD | Dissertation topic: Blocker-Tolerant Integrated Tunable Filters in CMOS for Next Generation Wireless Communication |
 | [Fengqi Hu](https://www.linkedin.com/in/fengqi-hu-09450b6b/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Microwave Imaging Radar Reflectometer Receiver System Utilizing Digital Beam Forming |
 | Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
