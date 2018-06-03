@@ -7,6 +7,11 @@ published: true
     Click on the project titles for more information!
 </div>
 
+<!--
+
+Add "in" to the end of       <div id="n-path" class="panel-collapse collapse"> to make a section expanded by default
+e.g.       <div id="n-path" class="panel-collapse collapse in">
+-->
 
 ### Active Circuits
 
