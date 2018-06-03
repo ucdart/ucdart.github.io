@@ -51,7 +51,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
+          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Highly Tunable RF and Microwave Filters</a>
         </h4>
       </div>
       <div id="n-path" class="panel-collapse collapse">
