@@ -20,19 +20,6 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#tunable-filter">High-Q Tunable Evanescent-mode Cavity Filters</a>
-        </h4>
-      </div>
-      <div id="tunable-filter" class="panel-collapse collapse">
-        <div class="panel-body">
-    {% include_relative tunable-filter.html %}
-        </div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
         </h4>
       </div>
@@ -51,12 +38,12 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
+          <a data-toggle="collapse" data-parent="#circuits" href="#tunable-filter">High-Q Tunable Evanescent-mode Cavity Filters</a>
         </h4>
       </div>
-      <div id="n-path" class="panel-collapse collapse">
+      <div id="tunable-filter" class="panel-collapse collapse">
         <div class="panel-body">
-    {% include_relative n-path.html %}
+    {% include_relative tunable-filter.html %}
         </div>
       </div>
     </div>
