@@ -122,8 +122,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
 | Songjie Bi | 2012 - 2018 | PhD | Dissertation topic: Monitor Cardiac Motion Based On Contact Radar Technology |
-| Asem Elshimi | 2017 - 2018 | MS | Project topic: Fast Start up circuits for 32 MHz crystal oscillators
-for System on Chip Bluetooth low energy |
+| Asem Elshimi | 2017 - 2018 | MS | Project topic: Fast Start up circuits for 32 MHz crystal oscillators for System on Chip Bluetooth low energy |
 | Xiaoyang Zhou | 2017 Summer | Undergrad | Worked on a characterization set up for quartz crystals |
 | Mohammad "Mo" Biswas and Yharo Torres | 2017 Summer | Undergrad | Worked on prototyping of a millimeter-wave radar module. Supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
 | Wangke Chen, Qiyu Hu, Yulu Jin | 2017 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), worked on optimization of a millimeter-wave oscillator design|
