@@ -37,3 +37,13 @@ The DART lab is housed in Kemper Hall on the beautiful UC Davis campus. The lab 
 
 We are always looking for motivated students and researchers to join the group. Read [more](/joiningdart.html) if you are interested.
 -->
+
+### Blog
+
+{% for post in site.blog limit:1 %}
+
+#### [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+
+{{ post.excerpt }}
+
+{% endfor %}

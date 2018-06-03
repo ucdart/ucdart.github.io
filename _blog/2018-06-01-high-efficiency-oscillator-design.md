@@ -6,6 +6,8 @@ category: news
 ---
 The extremely large bandwidth available at the millimeter-wave (mmW) and terahertz (THz) frequency bands has interesting potentials for a variety of applications such as high-data rate communications, high precision sensing (radar), and low-cost spectroscopy. The technology scaling of silicon integrated circuits, primarily driven by the desire to have faster and lower-power CPUs, has resulted in extremely fast transistors. For example, the maximum achievable Fmax can go well beyond 300 GHz in a 65-nm CMOS process. This naturally motivated many researchers to look at design techniques for creating silicon IC based mmW/THz systems with the hope that the cost of these systems could be significantly lowered with the massive economy of scale of silicon IC manufacturing.
 
+<!--more-->
+
 Among the many challenges of designing at extremely high frequencies, high-efficiency signal generation is one of the most critical. The following chart shows a review of recent works in this area. You will see that signal up to 1 THz can be generated! As impressive as it is, you will probably notice that the output power and dc-to-RF power efficiency at higher frequencies are both quite low. One can probably argue that higher output power can be achieved by power combining. However, with such low efficiency, we will most likely hit a thermal brick wall at some point as we pack more and more of these signal sources together.
 
 ![Literature Survey](high-efficiency-oscillator/survey.png)
