@@ -8,3 +8,4 @@ collections:
     output: true
   blog:
     output: true
+excerpt_separator: <!--more-->

@@ -8,9 +8,9 @@ published: true
 </div>
 
 
-### Circuits
+### Active Circuits
 
-<div class="panel-group" id="circuits">
+<div class="panel-group" id="actives">
 
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -40,8 +40,21 @@ published: true
 
 </div>
 
-### Devices
-<div class="panel-group" id="devices">
+### Passive Devices
+<div class="panel-group" id="passives">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#circuits" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection</a>
+        </h4>
+      </div>
+      <div id="n-path" class="panel-collapse collapse">
+        <div class="panel-body">
+    {% include_relative n-path.html %}
+        </div>
+      </div>
+    </div>
 
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -49,7 +62,7 @@ published: true
           <a data-toggle="collapse" data-parent="#devices" href="#hot-rfmems">Highly Reliable Hot-Switching RF-MEMS Switches</a>
         </h4>
       </div>
-      <div id="hot-rfmems" class="panel-collapse collapse in">
+      <div id="hot-rfmems" class="panel-collapse collapse">
         <div class="panel-body">
 		{% include_relative hot-rfmems.html %}
         </div>
