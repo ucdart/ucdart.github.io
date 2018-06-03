@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High-Efficiency mmW/THz Oscillator Design - 1"
+title: "High-Efficiency mmW/THz Oscillator Design - 1 Introduction"
 date: 2018-06-01
 category: news
 ---
