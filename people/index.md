@@ -38,7 +38,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <hr>
 
-<h3> Visiting Professor </h3>
+### Visiting Professor
 
 <table style="width:100%">
 	<tr>
@@ -56,12 +56,12 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 </table>
 
-<h3> PhD Students </h3>
+### PhD Students
 
 <table style="width:100%">
 	<tr>
 		<td style="width:30%">Akash Anand <br><br> <img src="/people/pix/akash.jpg"/></td>
-		<td style="width:30%">Songjie Bi <br> <br><img src="/people/pix/songjie.jpg"/></td>
+		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/pix/jingjun.jpg"/></td>
 		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/pix/james_do.jpg" alt="James Do" /></td>		
 	</tr>
 
@@ -76,19 +76,21 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/hind.jpg" alt="Hind Reggad" /></td>		
 		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
   </tr>
+
+	<tr>
+		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/li.jpg"/></td>
+	</tr>
+
 </table>
 
-<h3> Master Students </h3>
+### Master Students
 
 <table style="width:100%">
 	<tr>
 		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/pix/joe_cooney.jpg"/></td>
 	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/pix/blank.jpg"/></td>
-		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/pix/jingjun.jpg"/></td>		
 	</tr>
-	<tr>
-		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/li.jpg"/></td>
-	</tr>
+
 </table>
 
 <!---
@@ -105,7 +107,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 --->
 
 
-<h3> Visiting Scholars/Students </h3>
+### Visiting Scholars/Students
 
 <table style="width:100%">
 	<tr>
@@ -119,6 +121,9 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Songjie Bi | 2012 - 2018 | PhD | Dissertation topic: Monitor Cardiac Motion Based On Contact Radar Technology |
+| Asem Elshimi | 2017 - 2018 | MS | Project topic: Fast Start up circuits for 32 MHz crystal oscillators
+for System on Chip Bluetooth low energy |
 | Xiaoyang Zhou | 2017 Summer | Undergrad | Worked on a characterization set up for quartz crystals |
 | Mohammad "Mo" Biswas and Yharo Torres | 2017 Summer | Undergrad | Worked on prototyping of a millimeter-wave radar module. Supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
 | Wangke Chen, Qiyu Hu, Yulu Jin | 2017 Summer | Undergrad | [UC Davis GREAT Program](http://great.ucdavis.edu/), worked on optimization of a millimeter-wave oscillator design|
@@ -128,7 +133,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 | [Fengqi Hu](https://www.linkedin.com/in/fengqi-hu-09450b6b/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Microwave Imaging Radar Reflectometer Receiver System Utilizing Digital Beam Forming |
 | Juran Zhang | 2015 - 2017 | MS | Project topic: Implementation of Two Near-field Algorithms for Synthetic Aperture Radar Tomographic Reconstruction |
 | Bing Zhang | 2015 - 2017 | MS | Project topic: Obstacle avoidance system for Unmanned Aerial Vehicle (UAV) by using TX1 and stereo camera |
-| Prof. Yingsong Li | 2016 2017 | Vising professor from Harbin Engineering University, China |
+| Prof. Yingsong Li | 2016 - 2017 | Vising professor from Harbin Engineering University, China |
 | [Meijiao Li](https://www.linkedin.com/in/meijiao-li-678473107/) | 2012 - 2017 | PhD | Co-advised with [Prof. Neville Luhmann](http://tempest.das.ucdavis.edu/luhmann.html). Dissertation topic: Digitally Controlled Phased Array Transmitter Systems for Fusion Plasma Imaging Radar Reflectometric Diagnostics |
 | [Yuhao Liu](https://www.linkedin.com/in/liu239/) | 2012 - 2016 | PhD | Dissertation topic: Highly Reliable Compact RF-MEMS Contact Switch: Design, Fabrication and Characterization |
 | Jesus-Alexis Torres | 2016 | Undergrad | Summer intern, supported by a National Science Foundation Research Experience for Undergraduates (REU) Grant |
