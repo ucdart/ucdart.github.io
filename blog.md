@@ -6,7 +6,7 @@ published: true
 
 ### Blog
 
-Atom feed ![feed](/images/atom.ico)
+{% feed_meta %}
 
 
 <ul>
