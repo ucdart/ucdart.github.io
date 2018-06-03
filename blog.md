@@ -4,6 +4,11 @@ title: Davis Advanced RF Technology
 published: true
 ---
 
+### Blog
+
+Atom feed ![feed](/images/atom.ico)
+
+
 <ul>
   {% for post in site.blog %}
     <li>

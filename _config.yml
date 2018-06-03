@@ -1,4 +1,4 @@
-name: Davis Adaptive RF Technology Lab
+name: Davis Advanced RF Technology Lab
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
@@ -9,3 +9,5 @@ collections:
   blog:
     output: true
 excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
