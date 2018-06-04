@@ -25,7 +25,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="n-path" class="panel-collapse collapse">
         <div class="panel-body">
-    {% include_relative n-path.html %}
+    {% include_relative /npath-filter/n-path.html %}
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="tunable-filter" class="panel-collapse collapse">
         <div class="panel-body">
-    {% include_relative tunable-filter.html %}
+    {% include_relative /tunable-filter/tunable-filter.html %}
         </div>
       </div>
     </div>
@@ -56,7 +56,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="hot-rfmems" class="panel-collapse collapse">
         <div class="panel-body">
-		{% include_relative hot-rfmems.html %}
+		{% include_relative /rfmems/hot-rfmems.html %}
         </div>
       </div>
     </div>
@@ -90,7 +90,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="thzi" class="panel-collapse collapse">
         <div class="panel-body">
-		{% include_relative thz-inter.html %}
+		{% include_relative /thz-inter/thz-inter.html %}
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="bps" class="panel-collapse collapse">
         <div class="panel-body">
-		{% include_relative tunable-bps.html %}
+		{% include_relative /bpsr/tunable-bps.html %}
         </div>
       </div>
     </div>
@@ -116,7 +116,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="cardiac" class="panel-collapse collapse">
         <div class="panel-body">
-    		{% include_relative cardiac-radar.html %}
+    		{% include_relative /cardiac-radar/cardiac-radar.html %}
         </div>
       </div>
     </div>
@@ -135,7 +135,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
       <div id="tunable-power" class="panel-collapse collapse">
         <div class="panel-body">
-		{% include_relative tunable-power.html %}
+		{% include_relative /tunable-filter/tunable-power.html %}
         </div>
       </div>
     </div>
