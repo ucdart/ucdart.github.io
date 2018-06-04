@@ -12,7 +12,7 @@ Associate Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
-<img src='/people/pix/liu2015s.jpg'>
+<img src='/people/images/liu2015s.jpg'>
 <p> <a href="files\CV_Xiaoguang_Liu.pdf"> Link to CV </a> <br> <a href='http://goo.gl/wMrPPD'> My Calendar </a> </p>
 </div>
 
@@ -42,7 +42,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/pix/xiaohu.jpg"/></td>
+		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/images/xiaohu.jpg"/></td>
 	</tr>
 </table>
 
@@ -50,8 +50,8 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/pix/chang.jpg"/></td>
-		<td style="width:30%">Dr. Xiaomeng Gao <br><br> <img src="/people/pix/xiaomeng.jpg"/></td>
+		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/images/chang.jpg"/></td>
+		<td style="width:30%">Dr. Xiaomeng Gao <br><br> <img src="/people/images/xiaomeng.jpg"/></td>
 	</tr>
 
 </table>
@@ -60,25 +60,25 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Akash Anand <br><br> <img src="/people/pix/akash.jpg"/></td>
-		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/pix/jingjun.jpg"/></td>
-		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/pix/james_do.jpg" alt="James Do" /></td>		
+		<td style="width:30%">Akash Anand <br><br> <img src="/people/images/akash.jpg"/></td>
+		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/images/jingjun.jpg"/></td>
+		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/images/james_do.jpg" alt="James Do" /></td>		
 	</tr>
 
 	<tr>
-		<td style="width:30%">Saleh Hassanzade <br> <img src="/people/pix/saleh.jpg"/></td>
-		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/pix/xiaonan.jpg"/></td>
-		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/pix/daniel.jpg" alt="Daniel Kuzmenko" /></td>
+		<td style="width:30%">Saleh Hassanzade <br> <img src="/people/images/saleh.jpg"/></td>
+		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/images/xiaonan.jpg"/></td>
+		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
 	</tr>
 
 	<tr>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/pix/nafe.jpg" alt="Mahmoud Nafe" /></td>		
-		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/pix/hind.jpg" alt="Hind Reggad" /></td>		
-		<td style="width:30%">Hao Wang <br><br> <img src="/people/pix/haowang.jpg"/></td>
+		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/images/nafe.jpg" alt="Mahmoud Nafe" /></td>		
+		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/images/hind.jpg" alt="Hind Reggad" /></td>		
+		<td style="width:30%">Hao Wang <br><br> <img src="/people/images/haowang.jpg"/></td>
   </tr>
 
 	<tr>
-		<td  style="width:30%">Li Zhang <br><br> <img src="/people/pix/li.jpg"/></td>
+		<td  style="width:30%">Li Zhang <br><br> <img src="/people/images/li.jpg"/></td>
 	</tr>
 
 </table>
@@ -87,8 +87,8 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/pix/joe_cooney.jpg"/></td>
-	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/pix/blank.jpg"/></td>
+		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/images/joe_cooney.jpg"/></td>
+	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
@@ -98,9 +98,9 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Mohammad "Mo" Biswas <br><br> <img src="/people/pix/blank.jpg"/></td>
-		<td style="width:30%">Yharo Torres <br><br> <img src="/people/pix/blank.jpg"/></td>
-		<td style="width:30%">Xiaoyang Zhou <br><br> <img src="/people/pix/blank.jpg"/></td>				
+		<td style="width:30%">Mohammad "Mo" Biswas <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%">Yharo Torres <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%">Xiaoyang Zhou <br><br> <img src="/people/images/blank.jpg"/></td>				
 	</tr>
 
 </table>
@@ -111,8 +111,8 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/pix/wenjing.jpg"/></td>		
-		<td style="width:30%">Dashuai Zhang <br>  <br> <br> <img src="/people/pix/dashuai.jpg"/></td>		
+		<td style="width:30%">Wenjing Shang <br>  <br> <img src="/people/images/wenjing.jpg"/></td>		
+		<td style="width:30%">Dashuai Zhang <br>  <br> <br> <img src="/people/images/dashuai.jpg"/></td>		
 	</tr>
 </table>
 
