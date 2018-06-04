@@ -6,7 +6,6 @@ published: true
 
 ### Blog
 
-{% feed_meta %}
 
 
 <ul>
