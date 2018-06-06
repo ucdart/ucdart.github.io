@@ -3,12 +3,12 @@ type: article
 title: Design Methodology of N-Path Filters With Adjustable Frequency, Bandwidth, and Filter Shape
 author: M. Naimul Hasan, Shahrokh Saeedi, Qun Jane Gu, Hjalti H. Sigmarsson, Xiaoguang Liu
 journal: IEEE Transactions on Microwave Theory and Techniques Applications
-volume:
-number:
+volume: 66
+number: 6
 year: 2018
-month:
+month: Jun.
 doi: 10.1109/TMTT.2018.2809573
-pages:
+pages: 2775-2790
 publisher:
 booktitle:
 note: Accepted
