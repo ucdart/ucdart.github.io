@@ -7,7 +7,7 @@ volume:
 number:
 year: 2018
 month:
-doi:
+doi: 10.1109/JSSC.2018.2837863
 pages:
 publisher:
 booktitle:
