@@ -11,7 +11,7 @@ doi: 10.1109/TMTT.2018.2809573
 pages: 2775-2790
 publisher:
 booktitle:
-note: Accepted
+note:
 sort_key: 201806
 bib_key: mnhasan2018
 topic:
