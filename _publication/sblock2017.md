@@ -1,6 +1,6 @@
 ---
 type: conference
-title: A 100-nW CMOS Wake-Up Receiver with -60dBm Sensitivity Using AlN High-Q Piezoelectric Resonators
+title: A 170-nW CMOS Wake-Up Receiver with -60dBm Sensitivity Using AlN High-Q Piezoelectric Resonators
 author: Scott Block, Xiaonan Jiang, Can Cui, Jeronimo Segovia Fernandez, Rajeevan Amirtharajah, David Horsley, Hooman Rashtian, Xiaoguang Liu
 journal:
 volume:
