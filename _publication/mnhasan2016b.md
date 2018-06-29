@@ -1,6 +1,6 @@
 ---
 type: conference
-title: Tunable Blocker-Tolerant RF Front-end Filter with Dual Adaptive Notches for Reconfigurable Receivers	
+title: Tunable Blocker-Tolerant On-Chip Radio-Frequency Front-End Filter With Dual Adaptive Transmission Zeros for Software-Defined Radio Applications	
 author: Md. Naimul Hasan, Jane Q. Gu, and Xiaoguang Liu
 journal:
 volume:
