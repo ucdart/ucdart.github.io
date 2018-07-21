@@ -4,12 +4,16 @@ title: UCDart::Resources::Latex
 published: true
 ---
 
+<!--
 ## {{ page.title}}
+-->
 
 Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic information on LaTeX. Some great introductory tutorials on LaTeX include [The Not So Short Introduction to LaTeX2e](http://tobi.oetiker.ch/lshort/lshort.pdf) by [Tobi Oetiker](http://tobi.oetiker.ch/hp/) and the [LATEX Tutorials -- A PRIMER](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) by the Indian Tex User Group. The [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX) is also a great start point. Intermediate level users may find *"Guide to LaTeX: Tools and Techniques for Computer Typesetting"* by Helmut Kopka and Patrick W. Daly useful. For users of all levels, the [LaTeX Stack Exchange](http://tex.stackexchange.com/) site is always a great resource.
 
 ### LaTeX editors
 
+Our group has been using ShareLaTeX, which has now merged with Overleaf, for collaboratively editing LaTeX documents. Compared to a local installation of LaTeX, ShareLaTeX (Overleaf) is not as fast and there is usually noticeable delays in generating the output file. However, the nice set of collaboration features, such as shared editing, commenting, and track changes, makes ShareLaTeX a great tool for drafting documents together with a group of people. Being an online tool, it also saves the trouble of installing the LaTeX distribution and ensures that everyone is working with the same setup.
+<!--
 [Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed.
 
 * Installation:
@@ -17,8 +21,8 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
    * Install Texlipse through software update. An instruction can be found here: [http://texlipse.sourceforge.net/manual/installation.html](http://texlipse.sourceforge.net/manual/installation.html)
 
 * The way Eclipse organizes projects is a little bit different than most Windows applications. A project is organized in a folder. In order to open an existing project, you need to go "File->Import->Existing Projects into Workspace". Then select the directory where the project folder resides.
-
-[Texstudio](http://texstudio.sourceforge.net) is also a highly recommended editor with a fairly complete set of functionalities.
+-->
+When documents have to be edited locally, we use [Texstudio](http://texstudio.sourceforge.net) as the editor and TeX Live as the distribution.
 
 ### LaTeX Templates
 
@@ -28,13 +32,13 @@ Perhaps the best way to get started in LaTeX is to use a template.
 * [IEEE conference templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 * [IEEE journal templates](http://www.ieee.org/publications_standards/publications/authors/author_templates.html)
 
-Be sure to check the conference or journal website for their designated templates.
+When you are submitting an academic manuscript, be sure to check the conference or journal website for their designated templates.
 
 ### Document Structure
 
-#### Create an empty page
+#### Creating an empty page
 
-From: [http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html](ttp://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html)
+Source: [http://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html](ttp://nw360.blogspot.com/2007/10/creat-empty-page-in-latex.html)
 
 It is necessary to use a trick when creating an empty page in Latex. The following code does the job:
 
@@ -117,7 +121,7 @@ A better alternative is to use the *siunitx* package. The manual of the package 
 {% endhighlight %}
 
 #### Line spacing in *enumerate* and *itemize* environment
-Use the enumitem package. The manual for the package can be found [here](http://ctan.mackichan.com/macros/latex/contrib/enumitem/enumitem.pdf)
+Use the **enumitem** package. The manual for the package can be found [here](http://ctan.mackichan.com/macros/latex/contrib/enumitem/enumitem.pdf)
 {% highlight latex %}
 \begin{enumerate}[itemsep=-2mm]
     \item xxx
@@ -126,7 +130,7 @@ Use the enumitem package. The manual for the package can be found [here](http://
 {% endhighlight %}
 
 #### Custom label in enumerate and itemize environment
-Again, use the {\tt enumitem} package. There are several options to choose from: \alph*, \Alph*, \arabic*, \roman*, and
+Again, use the **enumitem** package. There are several options to choose from: \alph*, \Alph*, \arabic*, \roman*, and
 \Roman*.
 
 {% highlight latex %}
@@ -134,7 +138,7 @@ Again, use the {\tt enumitem} package. There are several options to choose from:
 {% endhighlight %}
 
 #### In-line list
-Use the *enumerate\** and *itemize\** environments in the enumitem package. The *inline* option needs to be enabled in the enumitem package.
+Use the *enumerate\** and *itemize\** environments in the **enumitem** package. The *inline* option needs to be enabled in the enumitem package.
 {% highlight latex %}
 \usepackage[inline]{enumitem}
 {% endhighlight %}
@@ -332,4 +336,3 @@ The *\nobibliography{bibfile}* command allows you to generate citations via Bibt
 
 [Math into LaTeX](http://ctan.math.washington.edu/tex-archive/info/mil/mil.pdf)
 [The Comprehensive LATEX Symbol List](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
-
