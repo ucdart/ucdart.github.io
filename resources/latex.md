@@ -13,6 +13,7 @@ Refer to the [Wikipedia entry](http://en.wikipedia.org/wiki/LaTeX) for basic inf
 ### LaTeX editors
 
 Our group has been using ShareLaTeX, which has now merged with Overleaf, for collaboratively editing LaTeX documents. Compared to a local installation of LaTeX, ShareLaTeX (Overleaf) is not as fast and there is usually noticeable delays in generating the output file. However, its collaboration features, such as shared editing, commenting, and track changes, makes ShareLaTeX a great tool for drafting documents together with a group of people. Being an online tool, it also saves the trouble of installing the LaTeX distribution and ensures that everyone is working with the same setup.
+
 <!--
 [Eclipse](https://eclipse.org/)+TeXlipse is a great combination for LaTeX editing. The PDF viewer that comes with TeXlipse is very fast and supports reverse search. Unfortunately the open source version of Texlipse is no longer being developed.
 
