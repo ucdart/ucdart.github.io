@@ -1,5 +1,4 @@
 name: Davis Advanced RF Technology Lab
-markdown: maruku
 permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
