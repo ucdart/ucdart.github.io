@@ -19,6 +19,10 @@
 			<script src="/javascripts/unslider-min.js"></script>
 			<link rel="stylesheet" href="/stylesheets/unslider.css">
 			<link rel="stylesheet" href="/stylesheets/unslider-dots.css">
+			<!-- MathJax support -->
+			{% if page.use_math %}
+				{% include mathjax_support %}
+			{% endif %}
 		</head>
 		<body>
 
