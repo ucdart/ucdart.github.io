@@ -11,7 +11,7 @@ doi:
 pages:
 publisher:
 booktitle: IEEE International Symposium on Circuits and Systems (ISCAS)
-note: Accepted
+note:
 sort_key: 201706
 bib_key: sblock2017
 topic:

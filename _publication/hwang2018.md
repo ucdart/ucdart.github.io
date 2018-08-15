@@ -11,7 +11,7 @@ doi: 10.1109/JSSC.2018.2837863
 pages: 2151-2163
 publisher:
 booktitle:
-note: Accepted
+note:
 sort_key: 201808
 bib_key: hwang2018
 topic:
