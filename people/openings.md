@@ -21,7 +21,7 @@ One of the philosophies of our group is to provide the students with a comprehen
 
 We are always looking for motivated students and researchers to join our group at UC Davis. Typical characteristics that we are looking for include strong motivation, good work ethics, strong analytical and hands-on skills, and above all, a curiosity about <strong>how things work </strong> and <strong>why they work</strong>.
 
-Although the type and number of openings vary from year to year with the level of research funding, interested candidates should always free feel to contact Dr. Liu (lxgliu@ucdavis.edu) or [other group members](/people/) to learn about the activities and the atmosphere in the group. Due to the large of emails that Dr. Liu receive everyday, he may not respond immediately but he does read every email.
+Although the type and number of openings vary from year to year with the level of research funding, interested candidates should always free feel to contact Dr. Liu (lxgliu@ucdavis.edu) or [other group members](/people/) to learn about the activities and the atmosphere in the group. Due to the large of emails that Dr. Liu receive everyday, he may not respond immediately but **he does read every email**.
 
 ### For Undergraduate Students Seeking Research Experience
 
