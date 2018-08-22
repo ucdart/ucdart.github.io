@@ -49,7 +49,7 @@ $$
 \end{equation}
 $$
 
-\eqref{eqn:pr_n} shows that the power $P_R$ forms a paraboloid with respect to the complex voltage gain (A_R and $A_I$ ) (Fig.~\ref{fig:pr_theory}). Maximum value of $P_R$ is reached at the apex of the paraboloid, and the corresponding optimum complex voltage gain is given by
+(3) shows that the power $P_R$ forms a paraboloid with respect to the complex voltage gain (A_R and $A_I$ ) (Fig.~\ref{fig:pr_theory}). Maximum value of $P_R$ is reached at the apex of the paraboloid, and the corresponding optimum complex voltage gain is given by
 
 $$
 \begin{equation}
@@ -57,3 +57,5 @@ $$
     \label{eqn:aopt}
 \end{equation}
 $$
+
+![Pr Theory](high-efficiency-oscillator/pr_theory.png)
