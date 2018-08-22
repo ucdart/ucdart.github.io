@@ -23,6 +23,7 @@ where $A_R$ and $A_I$ are the real and imaginary parts of $A$, respectively.
 ![2-port](high-efficiency-oscillator/2port.png)
 
 Let $y_{ij}=g_{ij}+jb_{ij}$ denote the Y-parameters of the network. By definition,
+
 $$
 \begin{align}
 	I_1 & = y_{11}V_1+y_{12}V_2, \nonumber \\
@@ -40,7 +41,7 @@ $$
 \end{align}
 $$
 
-If we assume that $V_1$ is a constant with respect to $A$, then $P_R$ can be normalized by |V_1|^2.
+If we assume that $V_1$ is a constant with respect to $A$, then $P_R$ can be normalized by $|V_1|^2$.
 
 $$
 \begin{equation}
@@ -49,6 +50,7 @@ $$
 $$
 
 \eqref{eqn:pr_n} shows that the power $P_R$ forms a paraboloid with respect to the complex voltage gain ( $A_R$ and $A_I$ ) (Fig.~\ref{fig:pr_theory}). Maximum value of $P_R$ is reached at the apex of the paraboloid, and the corresponding optimum complex voltage gain is given by
+
 $$
 \begin{equation}
     A_{opt} = -\frac{g_{21}+g_{12}}{2g_{22}} - j\frac{b_{21}-b_{12}}{2g_{22}} = -\frac{y_{21}+y^*_{12}}{2g_{22}}.
