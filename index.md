@@ -40,7 +40,7 @@ We are always looking for motivated students and researchers to join the group. 
 
 ### Blog
 
-{% for post in site.blog limit:1 %}
+{% for post in site.blog limit:-1 %}
 
 #### [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 
