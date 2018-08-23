@@ -3,7 +3,7 @@ layout: default
 title: UCDart::Research
 published: true
 ---
-To learn about our current research activities, please read the [recent publications](\research\publications). While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.
+**To learn about our current research activities, please read the [recent publications](\research\publications). While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.**
 
 <div class="alert alert-warning">
     Click on the project titles for more information!
