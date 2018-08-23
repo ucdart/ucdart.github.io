@@ -41,7 +41,7 @@ $$
 \end{align}
 $$
 
-If we assume that $V_1$ is a constant with respect to $A$, then $P_R$ can be normalized by $|V_1|^2$.
+If we assume that $V_1$ is a constant with respect to $A$, then $P_R$ can be normalized
 
 $$
 \begin{equation}
@@ -49,7 +49,7 @@ $$
 \end{equation}
 $$
 
-(3) shows that the power $P_R$ forms a paraboloid with respect to the complex voltage gain (A_R and A_I$ ) (Fig.~\ref{fig:pr_theory}). Maximum value of $P_R$ is reached at the apex of the paraboloid, and the corresponding optimum complex voltage gain is given by
+Eqn. 3 shows that the power $P_R$ forms a paraboloid with respect to the real and imaginary parts of the complex voltage gain. Maximum value of $P_R$ is reached at the apex of the paraboloid, and the corresponding optimum complex voltage gain is given by
 
 $$
 \begin{equation}
