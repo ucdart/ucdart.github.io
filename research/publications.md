@@ -16,7 +16,7 @@ published: true
 
 ### Journals
 
-{% assign papers = (site.publication | sort: 'sort_key') %}
+{% assign papers = site.publication | sort: 'sort_key' %}
 <ol reversed>
 	{% for paper in papers reversed %}
 		{% if paper.type =="article" %}

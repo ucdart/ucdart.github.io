@@ -1,7 +1,5 @@
 name: Davis Advanced RF Technology Lab
 permalink: /blog/:year/:month/:day/:title
-gems:
-  - jekyll-sitemap
 collections:
   publication:
     output: true
@@ -10,3 +8,4 @@ collections:
 excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
