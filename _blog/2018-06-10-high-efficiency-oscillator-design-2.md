@@ -7,7 +7,7 @@ published: true
 use_math: true
 ---
 
-<!--more-->
+
 
 [//]: # (Turns out that people have been thinking about this problem from very early on. In 1968, Vehovec documented in his book a method for optimizing the output power of a transistor oscillator circuit. He formulated the problem in terms of the complex voltage gain across the transistor. Shown in the following figure, a transistor oscillator is considered as a combination of an active device and a passive feedback network. The ratio between the voltage at the output and the input port of the active device is defined as the voltage gain. In the steady state, we use phasors to represent the voltages and therefore the voltage gain is complex.)
 
@@ -20,7 +20,9 @@ In 1968, Vehovec documented in his book a method for optimizing the output power
 \end{equation}
 where $A_R$ and $A_I$ are the real and imaginary parts of $A$, respectively.
 
-![2-port](high-efficiency-oscillator/2port.png)
+<!--more-->
+
+<img src="high-efficiency-oscillator/2port.png" alt="2-port Description of a Feedback Oscillator " style="width:60%; margin-left: 20%; margin-right: auto;"/>
 
 Let $y_{ij}=g_{ij}+jb_{ij}$ denote the Y-parameters of the network. By definition,
 
@@ -58,5 +60,4 @@ $$
 \end{equation}
 $$
 
-
-![Pr Theory](high-efficiency-oscillator/pr_theory.png)
+<img src="high-efficiency-oscillator/pr_theory.png" alt="2-port Description of a Feedback Oscillator " style="width:80%; margin-left: 10%; margin-right: auto;"/>

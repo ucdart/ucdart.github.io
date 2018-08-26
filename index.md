@@ -2,6 +2,7 @@
 layout: default
 title: Davis Advanced RF Technology
 published: true
+use_math: true
 ---
 
 
@@ -40,10 +41,9 @@ We are always looking for motivated students and researchers to join the group. 
 
 ### Blog
 
-{% for post in site.blog limit:1 %}
 
-#### [{{ post.date | date_to_string }}] » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+{% assign latest_blog = site.blog.last %}
 
-{{ post.excerpt }}
+#### [{{ latest_blog.date | date_to_string }}] » <a href="{{ latest_blog.url }}" title="{{ latest_blog.title }}">{{ latest_blog.title }}</a>
 
-{% endfor %}
+{{ latest_blog.excerpt }} [Read More...]({{ latest_blog.url }})
