@@ -111,7 +111,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Zhigang Peng <br>  <br> <img src="/people/images/blank.jpg"/></td>				
+		<td style="width:30%">Zhigang Peng <br>  <br> <img src="/people/images/zhigang.jpg"/></td>				
 	</tr>
 </table>
 
