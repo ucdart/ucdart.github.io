@@ -1,7 +1,7 @@
 ---
 type: conference
 title: A Wideband Magnetic-Free Circulator Using Spatio-Temporal Modulation of 2-pole Bandpass Filters
-author: M. Naimul Hasan, Shahrokh Saeedi, Qun Jane Gu, Hjalti H. Sigmarsson, Xiaoguang Liu
+author: Mahmoud A. Nafe, Xiaohu Wu, Xiaoguang Liu
 journal: IEEE Radio Wireless Symposium
 volume:
 number:
@@ -13,6 +13,6 @@ publisher:
 booktitle:
 note: Accepted
 sort_key: 201901
-bib_key: manafe2018
+bib_key: manafe2019
 topic:
 ---
