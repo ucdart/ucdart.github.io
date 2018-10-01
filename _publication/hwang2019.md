@@ -10,7 +10,7 @@ month: Jan
 doi:
 pages:
 publisher:
-booktitle:
+booktitle: IEEE Radio & Wireless Symposium (RWS)
 note: Accepted
 sort_key: 201901
 bib_key: hwang2019
