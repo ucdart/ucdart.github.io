@@ -62,7 +62,7 @@ $$
 
 <img src="high-efficiency-oscillator/pr_theory.png" alt="2-port Description of a Feedback Oscillator " style="width:80%; margin-left: 10%; margin-right: auto;"/>
 
-However, the acute reader may wonder, why does $|V_1|$ have to be a constant? After all, in an oscillator, it is very difficult to predict the final saturating amplitude of the oscillation. And there is no clear substantiation that $|V_1|$ must be a constant.
+However, the acute reader may wonder, why does |V1| have to be a constant? After all, in an oscillator, it is very difficult to predict the final saturating amplitude of the oscillation. And there is no clear substantiation that |V1| must be a constant.
 
 In fact, around the same time as [Vehovec1968], Spence solved the optimization problem using a slightly different assumption. He assumed that $|V_1||V_2|$, rather than $|V_1|$ alone, is a constant. Under this assumption,
 $$
