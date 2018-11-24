@@ -67,12 +67,13 @@ However, the acute reader may wonder, why does |V1| have to be a constant? After
 In fact, around the same time as [Vehovec1968], Spence solved the optimization problem using a slightly different assumption. He assumed that $|V_1||V_2|$, rather than $|V_1|$ alone, is a constant. Under this assumption,
 $$
 \begin{align} \label{eqn:pr_v1v2}
-\frac{P_R}{\displaystyle \frac{1}{2}\left|V_1\right|\left|V_2\right|} =-\Bigg[\left(\left|A\right|^{-1} g_{11}+ \left|A\right| g_{22}\right) + |y_{12}+y_{21}^*| \nonumber \\
+\frac{P_R}{\displaystyle \frac{1}{2}\left|V_1\right|\left|V_2\right|} =-\Bigg[\left(\left|A\right|^{-1} g_{11}+ \left|A\right| g_{22}\right) + |y_{12}+y_{21}^*|
 \cos\left(\angle(y_{12}+y_{21}^*)+\angle A \right)\Bigg].
 \end{align}.
 $$
 
 Now, if $g_{11}$ and $g_{22}$ are both positive, the optimum oscillation should be
+
 $$
 \begin{equation}\label{eqn:aopt_v1v2}
 \left|A_{opt}\right|=\sqrt{\frac{g_{11}}{g_{22}}}.
@@ -84,7 +85,7 @@ This condition is different from that of Eqn. 4. **So which one is correct?**
 
 ### References
 
-[Vehovec1968] M. Vehovec, L. Houselander, and R. Spence, “On oscillator design for maximum power,” IEEE Transactions on Circuit Theory, vol. 15, no. 3,
+**[Vehovec1968]** M. Vehovec, L. Houselander, and R. Spence, “On oscillator design for maximum power,” IEEE Transactions on Circuit Theory, vol. 15, no. 3,
 pp. 281–283, Sep 1968.
 
-[Spence1970] R. Spence, Linear Active Networks. New York: Wiley-Interscience, 1970.
+**[Spence1970]** R. Spence, Linear Active Networks. New York: Wiley-Interscience, 1970.
