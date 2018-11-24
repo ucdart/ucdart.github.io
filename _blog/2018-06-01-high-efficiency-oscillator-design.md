@@ -15,3 +15,7 @@ Among the many challenges of designing at extremely high frequencies, high-effic
 ![Literature Survey](high-efficiency-oscillator/survey.png)
 
 How can one improve the power efficiency of signal generation at mmW/THz frequencies? What's the upper bound of the output power and efficiency for a given active device when it's used in an oscillator? My graduate students, Hao Wang and Jingjun Chen, and I have been thinking about these questions for a couple of years and in this series of posts, we'll try to document our thoughts and findings along the way. With a number of academic publications in print and under review (see the [Publications](/research/publications)), a purpose of this series of blogs is to provide additional details that was inappropriate (or deemed too fundamental by the reviewers) for an academic paper.
+
+### References
+
+**[Wang2018]** Hao Wang, Jingjun Chen, James T.S. Do, Hooman Rashtian, Xiaoguang Liu, "High-Efficiency Millimeter-wave Single-ended and Differential Fundamental Oscillators in CMOS," IEEE Journal of Solid State Circuits, vol. 53, no. 8, pp. 2151-2163, Aug, 2018.

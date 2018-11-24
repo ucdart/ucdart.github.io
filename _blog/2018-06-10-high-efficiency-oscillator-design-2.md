@@ -91,7 +91,7 @@ For the CMOS oscillator, the $A_{opt}$ from simulation is closer to Spence's pre
 
 For the CMOS oscillator, the simulated $\|A_{opt}\|$ is almost 1 whereas it's ~3.3 for the SiGe:C HBT. This is probably due to the higher current gain of the HBT transistor.
 
-Lastly, we note that although the respective theories of Vehovec and Spence seem to deviate from the true $A_{opt}$ (assuming that the brute-force non-linear simulations are accurate enough), they still seem reasonable as a first approximation. In the next couple of blog posts, we will show that reality is not easy on us. We will also explain how to perform the simulations for those of you that have been wondering.
+Lastly, we note that although the respective theories of Vehovec and Spence seem to deviate from the true $A_{opt}$ (assuming that the brute-force non-linear simulations are accurate enough), they still seem reasonable as a first approximation. In the next couple of blog posts, we will show that reality is unfortunately not that easy on us. We will also explain how to perform the simulations for those of you that have been wondering.
 
 ### References
 
@@ -99,3 +99,5 @@ Lastly, we note that although the respective theories of Vehovec and Spence seem
 pp. 281–283, Sep 1968.
 
 **[Spence1970]** R. Spence, Linear Active Networks. New York: Wiley-Interscience, 1970.
+
+**[Wang2018]** Hao Wang, Jingjun Chen, James T.S. Do, Hooman Rashtian, Xiaoguang Liu, "High-Efficiency Millimeter-wave Single-ended and Differential Fundamental Oscillators in CMOS," IEEE Journal of Solid State Circuits, vol. 53, no. 8, pp. 2151-2163, Aug, 2018.
