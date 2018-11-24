@@ -1,28 +1,29 @@
 ---
 layout: post
-title: "High-Efficiency mmW/THz Oscillator Design - 2: Some Historic Perspectives"
-date: 2018-06-10 16:16:01 -0600
+title: "High-Efficiency mmW/THz Oscillator Designs - 3: Synthesizing an Oscillator from the Complex Voltage Gain A "
+date: 2018-11-25 16:16:01 -0600
 category: news
-published: true
+published: false
 use_math: true
 ---
 
+Before we reveal more issues with Vehovec's and Spence's design approaches, let's talk a little bit about how the last figure of the last post was generated, i.e. how we simulated the oscillator output power given a complex voltage gain $A$. 
 
-
-[//]: # (Turns out that people have been thinking about this problem from very early on. In 1968, Vehovec documented in his book a method for optimizing the output power of a transistor oscillator circuit. He formulated the problem in terms of the complex voltage gain across the transistor. Shown in the following figure, a transistor oscillator is considered as a combination of an active device and a passive feedback network. The ratio between the voltage at the output and the input port of the active device is defined as the voltage gain. In the steady state, we use phasors to represent the voltages and therefore the voltage gain is complex.)
-
-Turns out that people have been thinking about this problem from very early on.
-
-In [Vehovec1968], a method for optimizing the output power of a transistor oscillator circuit was proposed. Vehovec formulated the problem in terms of the complex voltage gain across the transistor. Shown in the following figure, a transistor oscillator is considered as a combination of an active device and a passive feedback network. The ratio between the voltage at the output and the input port of the active device is defined as the voltage gain. In the steady state, we use phasors to represent the voltages and therefore the voltage gain is complex.
-
-\begin{equation}
-    A=A_R+jA_I=\frac{V_2}{V_1},
-\end{equation}
-where $A_R$ and $A_I$ are the real and imaginary parts of $A$, respectively.
+<img src="high-efficiency-oscillator/2port.png" alt="2-port Description of a Feedback Oscillator " style="width:60%; margin-left: 20%; margin-right: auto;"/>
 
 <!--more-->
 
-<img src="high-efficiency-oscillator/2port.png" alt="2-port Description of a Feedback Oscillator " style="width:60%; margin-left: 20%; margin-right: auto;"/>
+Using the above figure as a starting point, we note that in equilibrium, the circuit is governed by the Kirchoff's current law, that is
+$$
+\begin{align}
+	I_1 + I_{1E} = 0, \nonumber \\
+	I_2 + I_{2E} = 0.
+\end{align}
+$$
+
+Because the current variables are all phasors, this set of equations are actually 4 real-valued equations. Assuming that the parameters of the active networks are known, then to satisfy the 4 equations, we would need 4 independent variables. The output load resistance is one for sure. To minimize the loss, we can then conclude that the external embedding network must have 3 reactive elements.
+
+
 
 Let $y_{ij}=g_{ij}+jb_{ij}$ denote the Y-parameters of the network. By definition,
 
