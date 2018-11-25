@@ -49,6 +49,10 @@ $$
 
 So this is how we ran the brute-force oscillator simulations in [our last blog](/blog/2018-06-10-high-efficiency-oscillator-design-2). We construct a grid of the complex voltage gain $A$. For each $A$, we use Eqn. (\ref{eqn:matrix_equation}) to calculate the embedding network elements. Then we wrote a script in Cadence to automatically generate a netlist according to the topology of choice and run the simulation. This way, we can automate the process to sweep through all possible $A$ values.
 
+Finally, a few notes are in order regarding oscillator topologies.
+ - We intentionally did not draw the ground reference in the oscillator schematics. This is because the circuit will oscillate independent of where the reference is.
+ - Most popular oscillator topologies (e.g. Colpitts, Hartley, Clapp, Pierce, Seiler, Vackar, Lampkin) belong to the $\pi$ embedding oscillators. Later we will show that if the embedding components are idea, i.e. infinite Q, $\pi$ and $T$ embedded oscillators provide theoretically identical output power and efficiency. When considering component $Q$, the $T$ embedded oscillators outperform the $\pi$ embedded oscillations in many regards. However, the $T$ embedded oscillators seem to be much less popular in history. **Why is this?** We are not sure yet, but it seems to be an interesting topic of study :)
+
 ### References
 
 **[Vehovec1968]** M. Vehovec, L. Houselander, and R. Spence, “On oscillator design for maximum power,” IEEE Transactions on Circuit Theory, vol. 15, no. 3,
