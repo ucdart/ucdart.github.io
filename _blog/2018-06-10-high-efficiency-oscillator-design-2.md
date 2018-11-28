@@ -83,7 +83,7 @@ This condition is different from that of Eqn. 4. **So which one is correct?**
 
 As you might have guessed, the answer is neither. To see this, let's compare these equations with simulated oscillator performances for two different technologies, a 65-nm bulk CMOS for mixed-signal/RF applications and a 130-nm SiGe:C HBT. The simulations are performed at 215 GHz.
 
-<img src="high-efficiency-oscillator/power_contour_CMOS_SiGe.jpg" alt="Output Power Contours vs A=A_R + jA_I for CMOS and SiGe" style="width:80%; margin-left: 10%; margin-right: auto;"/>
+<img src="high-efficiency-oscillator/power_contour_CMOS_SiGe.png" alt="Output Power Contours vs A=A_R + jA_I for CMOS and SiGe" style="width:80%; margin-left: 10%; margin-right: auto;"/>
 
 A few interesting observations can be made.
 
