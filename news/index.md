@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart::News
+title: News
 published: true
 ---
 <section>

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: UCDart::Facilities
+title: Facilities
 published: true
 ---
 ## Facilities
 
-The DART lab has access to a variety of state-of-the-art modeling, fabrication, and characterization tools. Below is a glimpse of what are available. 
+The DART lab has access to a variety of state-of-the-art modeling, fabrication, and characterization tools. Below is a glimpse of what are available.
 
 ### Software Tools
-Through the generous donations and discounts from various vendors, we have access to the latest versions of the following software tools for device, circuit, and system design / analysis. 
+Through the generous donations and discounts from various vendors, we have access to the latest versions of the following software tools for device, circuit, and system design / analysis.
 
 <ul>
 	<li> Cadence Analog Design Environment (IC) and Allegro (PCB)</li>
@@ -17,7 +17,7 @@ Through the generous donations and discounts from various vendors, we have acces
 	<li> CST Mcirowave Studio</li>
 	<li> AWR Microwave and Virtual System Simulator (VSS)</li>
 	<li> Coventorware and MEMS+</li>
-	<li> COMSOL Multiphysics</li>	
+	<li> COMSOL Multiphysics</li>
 	<li> Tanner L-Edit</li>
 </ul>
 
@@ -35,7 +35,7 @@ For semiconductor device fabrication, we have access to <a href = "http://cnm2.e
 </ul>
 
 In addition, we have full access to the UC Berkeley Marvell Nanofabrication Laboratory (~1 hour away from Davis) with additional fabrication and characterization equipment to complement the capabilities at UC Davis.
- 
+
 <img src = "/facilities/qcj5.jpg" width="220px" style="float:right; margin-top:5px; margin-left:10px;">
 
 #### Printed Circuit Board (PCB)

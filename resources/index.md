@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart::Resources
+title: Resources
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "UCDart::Education"
+title: Education
 published: true
 ---
 
