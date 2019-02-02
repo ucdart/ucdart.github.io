@@ -51,7 +51,7 @@ So this is how we ran the brute-force oscillator simulations in [our last blog](
 
 Finally, a few notes are in order regarding oscillator topologies.
  - We intentionally did not draw the ground reference in the oscillator schematics. This is because the circuit will oscillate independent of where the reference is.
- - Most popular oscillator topologies (e.g. Colpitts, Hartley, Clapp, Pierce, Seiler, Vackar, Lampkin) belong to the $\pi$ embedding oscillators. Later we will show that if the embedding components are idea, i.e. infinite Q, $\pi$ and $T$ embedded oscillators provide theoretically identical output power and efficiency. When considering component $Q$, the $T$ embedded oscillators outperform the $\pi$ embedded oscillations in many regards. However, the $T$ embedded oscillators seem to be much less popular in history. **Why is this?** We are not sure yet, and it sure seems to be an interesting topic of study :)
+ - Most classical oscillator designs (e.g. Colpitts, Hartley, Clapp, Pierce, Seiler, Vackar, Lampkin) belong to the $\pi$ topologies. Later we will show that if the embedding components are ideal, i.e. with infinite Q, $\pi$ and $T$ embedded oscillators provide theoretically identical output power and efficiency. When considering component $Q$, the $T$ embedded oscillators outperform the $\pi$ embedded oscillations in many regards. However, the $T$ embedded oscillators seem to be much less popular in history. **Why is this?** We are not sure yet, and it sure seems to be an interesting topic of study :)
 
 ### References
 

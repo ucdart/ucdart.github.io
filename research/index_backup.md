@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-published: true
+published: false
 ---
 **To learn about our current research activities, please read the [recent publications](\research\publications). While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.**
 

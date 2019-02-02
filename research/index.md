@@ -5,7 +5,7 @@ published: true
 ---
 
 <div class="alert alert-warning">
-    To learn about our current research activities, please read the [recent publications](\research\publications). While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.
+    To learn about our current research activities, please read the <a href=\research\publications> recent publications </a>. While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.
 </div>
 
 <!--
@@ -13,17 +13,13 @@ published: true
 Add "in" to the end of       <div id="n-path" class="panel-collapse collapse"> to make a section expanded by default
 e.g.       <div id="n-path" class="panel-collapse collapse in">
 -->
-## Integraed Circuits
-
-### Tunable N-Path Integrated Filters with Enhanced Block Rejection
-
-    {% include_relative /npath-filter/n-path.html %}
+## Integrated Circuits
 
 ## Passive Devices and Circuits
 
-### Highly Reliable Hot-Switching RF-MEMS Switches
+### Highly Reliable Hot-Switching RF-MEMS Direct-Contact Switches
 
-		{% include_relative /rfmems/hot-rfmems.html %}
+{% include_relative /rfmems/hot-rfmems.md %}
 
 ### High-Q Tunable Evanescent-mode Cavity Filters
 
@@ -47,7 +43,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 
 ### Archived
 
-<div class="panel-group" id="archieved">
+<div class="panel-group" id="archived">
 
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -61,5 +57,31 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
         </div>
       </div>
     </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#archived" href="#n-path">Tunable N-Path Integrated Filters with Enhanced Block Rejection </a>
+        </h4>
+      </div>
+      <div id="n-path" class="panel-collapse collapse">
+        <div class="panel-body">
+		{% include_relative /npath-filter/n-path.md %}
+        </div>
+      </div>
+    </div>    
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#archived" href="#hot-mems">Highly Reliable Hot-Switching RF-MEMS Direct-Contact Switches </a>
+        </h4>
+      </div>
+      <div id="hot-mems" class="panel-collapse collapse">
+        <div class="panel-body">
+		{% include_relative /rfmems/hot-rfmems.md %}
+        </div>
+      </div>
+    </div>    
 
 </div>

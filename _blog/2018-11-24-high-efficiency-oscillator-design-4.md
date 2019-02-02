@@ -7,6 +7,7 @@ published: false
 use_math: true
 ---
 
+In [our previous blog post](/blog/2018-06-10-high-efficiency-oscillator-design-2), we discussed the inaccuracies of Vehovec's and Spence's optimal power oscillator design theories. W
 
 ### References
 
