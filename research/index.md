@@ -5,7 +5,7 @@ published: true
 ---
 
 <div class="alert alert-warning">
-    To learn about our current research activities, please read the <a href=\research\publications> recent publications </a>. While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.
+    To learn about our current research activities, please read the recent publications. While we try our best to keep things updated, the following project descriptions may not be the most up-to-date.
 </div>
 
 <!--
@@ -15,6 +15,12 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 -->
 ## Integrated Circuits
 
+### Tunable N-Path Integrated Filters with Enhanced Block Rejection
+
+{% include_relative /npath-filter/n-path.md %}
+
+
+
 ## Passive Devices and Circuits
 
 ### Highly Reliable Hot-Switching RF-MEMS Direct-Contact Switches
@@ -23,22 +29,27 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 
 ### High-Q Tunable Evanescent-mode Cavity Filters
 
-    {% include_relative /tunable-filter/tunable-filter.html %}
+{% include_relative /tunable-filter/tunable-filter.md %}
+
 
 
 ## Systems
 
 ### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
 
-		{% include_relative /thz-inter/thz-inter.html %}
+{% include_relative /spar/spar.md %}
+
+### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
+
+{% include_relative /thz-inter/thz-inter.md %}
 
 ### Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications
 
-		{% include_relative /bpsr/tunable-bps.html %}
+{% include_relative /bpsr/tunable-bps.md %}
 
 ###Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring
 
-    		{% include_relative /cardiac-radar/cardiac-radar.html %}
+{% include_relative /cardiac-radar/cardiac-radar.md %}
 
 
 ### Archived
@@ -58,6 +69,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
       </div>
     </div>
 
+<!--
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -83,5 +95,5 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
         </div>
       </div>
     </div>    
-
+-->
 </div>

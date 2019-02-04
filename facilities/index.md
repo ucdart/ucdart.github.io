@@ -47,6 +47,17 @@ Through the UC Davis <a href = "http://bme.ucdavis.edu/team/">BME TEAM facility 
 prototyping capability, such as CNC machining, 3D printing, injection modeling, and water-jet cutting at low cost.
 
 ### Characterization
+
+In our own lab (Kemper Hall 3182), we maintain a basic set of high frequency characterization equipment for connectorized and on-wafer measurement below 40 GHz.
+<ul>
+  	<li>Agilent 8722D 40-GHz Vector Network Analyzer (VNA)</li>
+	<li>Agilent 5071A 8-GHz 4-port VNA</li>
+	<li>Agilent E4422B and E4433B (option 1E5 & UND) 4-GHz vector signal generator</li>
+	<li>LeCroy WavePro7300A 3-GHz (20 Gsps) oscilloscope</li>
+	<li>Tektronix RTSA3308B 8-GHz real-time spectrum analyzer</li>
+	<li>Multiple DC power supplies, funtion generators, and digital multimeters</li>
+</ul>
+
 <img src = "/facilities/dmrc.jpg" width="300px" style="float:left; margin-top:5px; margin-right:10px;">
 The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC) which has a shared high-frequency characterization lab in Ghausi Hall on the UC Davis campus. Through collaboration with Agilent Technologies (now Keysight Technologies), we are equipped with full vector signal generation and characterization equipment up to 500 GHz. Notable examples include:
 <ul>
@@ -57,14 +68,4 @@ The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC)
 	<li>Waveguide power meter (50 GHz - 110 GHz)</li>
 	<li>VDI-Erickson PM4 power meter (75 GHz - 3 THz)</li>
 	<li>Harmonic mixers up to 325 GHz</li>
-</ul>
-
-In our own lab (Kemper Hall 3182), we maintain a basic set of high frequency characterization equipment.
-<ul>
-  	<li>Agilent 8722D 40-GHz Vector Network Analyzer (VNA)</li>
-	<li>Agilent 5071A 8-GHz 4-port VNA</li>
-	<li>Agilent E4422B and E4433B (option 1E5 & UND) 4-GHz vector signal generator</li>
-	<li>LeCroy WavePro7300A 3-GHz (20 Gsps) oscilloscope</li>
-	<li>Tektronix RTSA3308B 8-GHz real-time spectrum analyzer</li>
-	<li>Multiple DC power supplies, funtion generators, and digital multimeters</li>
 </ul>
