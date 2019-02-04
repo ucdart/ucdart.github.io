@@ -15,7 +15,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 -->
 ## Integrated Circuits
 
-### Tunable N-Path Integrated Filters with Enhanced Block Rejection
+### Tunable N-Path Integrated Filters with Enhanced Blocker Rejection
 
 {% include_relative /npath-filter/n-path.md %}
 
