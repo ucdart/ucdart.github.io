@@ -18,19 +18,19 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 ### Tunable N-Path Integrated Filters with Enhanced Blocker Rejection
 
 {% include_relative /npath-filter/n-path.md %}
-
-
+---
 
 ## Passive Devices and Circuits
 
 ### Highly Reliable Hot-Switching RF-MEMS Direct-Contact Switches
 
 {% include_relative /rfmems/hot-rfmems.md %}
+---
 
 ### High-Q Tunable Evanescent-mode Cavity Filters
 
 {% include_relative /tunable-filter/tunable-filter.md %}
-
+---
 
 
 ## Systems
@@ -38,19 +38,22 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 ### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
 
 {% include_relative /spar/spar.md %}
+---
 
 ### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
 
 {% include_relative /thz-inter/thz-inter.md %}
+---
 
 ### Reconfigurable Bandpass Sampling Receivers for Software-Defined Radio Applications
 
 {% include_relative /bpsr/tunable-bps.md %}
+---
 
-###Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring
+### Wearable Radar Sensor for Long-term Cardiac Arrhythmia Monitoring
 
 {% include_relative /cardiac-radar/cardiac-radar.md %}
-
+---
 
 ### Archived
 

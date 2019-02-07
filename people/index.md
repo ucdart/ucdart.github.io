@@ -46,11 +46,10 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 	</tr>
 </table>
 
-<h3> Research Scientists </h3>
+### Research Scientists
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Chang Liu <br><br> <img src="/people/images/chang.jpg"/></td>
 		<td style="width:30%">Dr. Xiaomeng Gao <br><br> <img src="/people/images/xiaomeng.jpg"/></td>
 	</tr>
 
@@ -87,8 +86,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Joseph Cooney <br><br> <img src="/people/images/joe_cooney.jpg"/></td>
-	  <td  style="width:30%">Kiran Iyer <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Te-Chen Lin <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
@@ -111,7 +109,8 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Zhigang Peng <br>  <br> <img src="/people/images/zhigang.jpg"/></td>				
+		<td style="width:30%">Zhigang Peng <br>  <br> <img src="/people/images/zhigang.jpg"/></td>
+		<td style="width:30%">Jie Wang <br>  <br> <img src="/people/images/blank.jpg"/></td>			
 	</tr>
 </table>
 
@@ -120,6 +119,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 | Name | Year | Degree | Notes |
 | :--- |:---|:---:|:----------|
+| Chang Liu | 2017 - 2018 | Postdoctoral Researcher | Worked on high-speed SERDES transceiver design |
 | Dashua Wang | 2017 - 2018 | Visiting Ph.D. student from China Agricultural University | Worked on the design of a small UAV platform for synthetic aperture radar imaging |
 | Wenjing Shang | 2017 - 2018 | Visiting Ph.D. student from Harbin Engineering University | Worked on FPGA implementation of high-speed digital acquisition system and bandpass sampling software defined radio receivers |
 | Songjie Bi | 2012 - 2018 | PhD | Dissertation topic: Monitor Cardiac Motion Based On Contact Radar Technology |
