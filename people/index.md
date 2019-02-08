@@ -86,7 +86,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Te-Chen Lin <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Te-Chen Lin <br><br> <img src="/people/images/te-chen.jpg"/></td>
 	</tr>
 
 </table>
