@@ -35,7 +35,7 @@ e.g.       <div id="n-path" class="panel-collapse collapse in">
 
 ### Systems
 
-#### High-speed Chip-to-chip Interconnects at Sub-millimeter-wave and THz Frequencies
+#### In-band Interference Mitigation using RF Correlation
 
 {% include_relative /spar/spar.md %}
 ---
