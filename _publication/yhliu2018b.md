@@ -10,7 +10,7 @@ month: Jul.
 doi:
 pages:
 publisher:
-booktitle: 2018 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting
+booktitle: 2019 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting
 note: Accepted
 sort_key: 201907
 bib_key: ytzhao2019
