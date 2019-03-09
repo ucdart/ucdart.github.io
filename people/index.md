@@ -42,7 +42,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/images/xiaohu.jpg"/></td>
+		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/images/xiaohu_v2.jpg"/></td>
 	</tr>
 </table>
 
