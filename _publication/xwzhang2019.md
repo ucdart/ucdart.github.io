@@ -1,5 +1,5 @@
 ---
-type: conference
+type: article
 title: An Off-grid DOA Estimation Method using Proximal Splitting and Successive Nonconvex Sparsity Approximation
 author: Xiaowei Zhang, Tao Jiang, Yingsong Li, and Xiaoguang Liu
 journal: IEEE Access
