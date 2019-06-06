@@ -11,7 +11,7 @@ doi: 10.1109/ACCESS.2019.2917309
 pages: 66764-66773
 publisher:
 booktitle:
-note: Accepted
+note: 
 sort_key: 201912
 bib_key: xwzhang2019
 ---
