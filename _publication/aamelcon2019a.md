@@ -1,10 +1,7 @@
 ---
 type: article
-title: Coupling Matrix
-Representation of Nonreciprocal Filters Based on Time Modulated
-Resonators
-author: Alejandro Alvarez-Melcon, Xiaohu Wu, Jiawei Zang,
-Xiaoguang Liu, and J. Sebastian Gomez-Diaz
+title: Coupling Matrix Representation of Nonreciprocal Filters Based on Time Modulated Resonators
+author: Alejandro Alvarez-Melcon, Xiaohu Wu, Jiawei Zang, Xiaoguang Liu, and J. Sebastian Gomez-Diaz
 journal: IEEE Transactions on Microwave Theory and Techniques
 volume: 67
 number:
