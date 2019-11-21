@@ -11,7 +11,7 @@ doi: 10.1002/mmce.22059
 pages:
 publisher:
 booktitle:
-note:
+note: Accepted
 sort_key: 201912
 bib_key: ydong2019
 ---

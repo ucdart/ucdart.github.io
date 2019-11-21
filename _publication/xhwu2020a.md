@@ -11,7 +11,7 @@ doi:
 pages:
 publisher:
 booktitle:
-note:
+note: Accepted
 sort_key: 202001
 bib_key: xhwu2020a
 ---
