@@ -13,11 +13,15 @@ use_math: true
 
 ![Maker Fair](images/daniel_s.jpg "Maker Fair 2014") ![RF-MEMS](images/mems1_s.jpg "High Power Hot Switching RF-MEMS Switch") ![Drone](images/drone_s.jpg "UAVs") ![RF-MEMS](images/mems2_s.jpg "High Power Hot Switching RF-MEMS Switch") ![Prof. Liu](images/liu_s.jpg "Prof. Liu posing") ![Oscillator](images/osc_s.jpg "215 GHz CMOS oscillator")
 
-We are a group of researchers with a keen interest in many exciting areas of high frequency electronics. Our [research](/research/) interests include:
+We are a group of researchers with a keen interest in many exciting areas of high-frequency and high-speed electronics. Our [research](/research/) interests include:
 
-- Reconfigurable high frequency devices and components;
-- High frequency integrated circuits;
-- High frequency communication and radar systems and their application in biomedical, societal, and environmental applications.
+- High-frequency (RF to THz) integrated circuits;
+- Microelectronic and photonic devices, such as micro-electromechanical (MEMS) devices;
+- Novel antennas, frequency selective surfaces, and passive components
+- Reconfigurable high-frequency circuits and systems;
+- High-precision sensing systems using radar and laser time-of-flight (ToF) principles;
+- Applications of high-frequency electronics to biomedical, industrial, environmental, and humanitarian problems;
+- High-speed wireline and optical communications circuits;
 
 Critical to our scientific research efforts is a pursuit of fundamental understanding of the engineering principles of high frequency electronics. A major mission of our work is to formulate and disseminate such understanding through university [education](/education/) as well as community [outreach](/education/outreach.html).
 <!---
