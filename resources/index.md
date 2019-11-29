@@ -12,6 +12,7 @@ published: true
 * [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm) -- Richard Feynman
 * [The pleasure of finding things out](https://www.youtube.com/watch?v=PVob_tATVRI) -- Richard Feynman
 * [My advise to young people](https://www.youtube.com/watch?v=75Ju0eM5T2c) -- Donald Knuth
+* [Whitesides' Group: Writing a Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.200400767) -- George M. Whitesides
 
 ### Publication and presentation
 
