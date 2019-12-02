@@ -17,11 +17,11 @@ We are a group of researchers with a keen interest in many exciting areas of hig
 
 - High-frequency (RF to THz) integrated circuits;
 - Microelectronic and photonic devices, such as micro-electromechanical (MEMS) devices;
-- Novel antennas, frequency selective surfaces, and passive components
+- Novel antennas, frequency selective surfaces, and passive components;
 - Reconfigurable high-frequency circuits and systems;
 - High-precision sensing systems using radar and laser time-of-flight (ToF) principles;
 - Applications of high-frequency electronics to biomedical, industrial, environmental, and humanitarian problems;
-- High-speed wireline and optical communications circuits;
+- High-speed wireline and optical communications circuits.
 
 Critical to our scientific research efforts is a pursuit of fundamental understanding of the engineering principles of high frequency electronics. A major mission of our work is to formulate and disseminate such understanding through university [education](/education/) as well as community [outreach](/education/outreach.html).
 <!---
