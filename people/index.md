@@ -46,7 +46,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 	</tr>
 </table>
 
-### Research Scientists
+### Visiting Scholar
 
 <table style="width:100%">
 	<tr>
