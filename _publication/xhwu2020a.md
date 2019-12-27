@@ -7,7 +7,7 @@ volume:
 number:
 year: 2020
 month:
-doi:
+doi: 10.1109/TMTT.2019.2955692
 pages:
 publisher:
 booktitle:
