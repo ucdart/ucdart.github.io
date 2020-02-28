@@ -41,7 +41,7 @@ The DART lab is housed in Kemper Hall on the beautiful UC Davis campus. The lab 
 #### A postdoc researcher position is available for 2016. More details can be found [here](/postdoccm.html).
 
 We are always looking for motivated students and researchers to join the group. Read [more](/joiningdart.html) if you are interested.
--->
+
 
 ### Blog
 
@@ -51,3 +51,5 @@ We are always looking for motivated students and researchers to join the group. 
 #### [{{ latest_blog.date | date_to_string }}] » <a href="{{ latest_blog.url }}" title="{{ latest_blog.title }}">{{ latest_blog.title }}</a>
 
 {{ latest_blog.excerpt }} [Read More...]({{ latest_blog.url }})
+
+-->
