@@ -7,11 +7,11 @@ volume:
 number:
 year: 2019
 month:
-doi:
+doi: 10.1109/ICMMT45702.2019.8992839
 pages:
 publisher:
 booktitle: IEEE International Conference on Microwave and Millimeter-wave Technology
-note: Accepted
+note:
 sort_key: 201905
 bib_key: xhwu2019b
 ---

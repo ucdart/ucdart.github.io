@@ -7,7 +7,7 @@ volume:
 number:
 year: 2017
 month: Jun.
-doi:
+doi: 10.1109/ISCAS.2017.8050447
 pages:
 publisher:
 booktitle: IEEE International Symposium on Circuits and Systems (ISCAS)
