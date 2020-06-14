@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2008
-month: Aug.
+month: Aug
 doi:
 pages:
 publisher:

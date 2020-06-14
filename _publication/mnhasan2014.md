@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2014
-month: Aug.
+month: Aug
 doi: 10.1109/MWSCAS.2014.6908354
 pages:
 publisher:

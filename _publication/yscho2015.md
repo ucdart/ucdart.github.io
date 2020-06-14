@@ -6,7 +6,7 @@ journal: Microwave and Optical Technology Letters
 volume: 57
 number: 10
 year: 2015
-month: Oct.
+month: Oct
 doi: 10.1002/mop.29356
 pages: 2418-2422
 publisher:

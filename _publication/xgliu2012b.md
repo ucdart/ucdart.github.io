@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2012
-month: Jun.
+month: Jun
 doi: 10.1109/MWSYM.2012.6259754
 pages:
 publisher:

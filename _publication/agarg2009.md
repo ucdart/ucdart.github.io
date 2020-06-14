@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2009
-month: Oct.
+month: Oct
 doi: 10.1109/ICSENS.2009.5398591
 pages:
 publisher:

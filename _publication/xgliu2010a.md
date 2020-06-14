@@ -6,7 +6,7 @@ journal: IEEE/ASME Journal of Microelectromechanical Systems
 volume: 19
 number: 4
 year: 2010
-month: Aug.
+month: Aug
 doi: 10.1109/JMEMS.2010.2055544
 pages: 774-784
 publisher:

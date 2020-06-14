@@ -6,7 +6,7 @@ journal: IEEE Microwave and Wireless Components Letters
 volume: 28
 number: 3
 year: 2018
-month: Mar.
+month: Mar
 doi: 10.1109/LMWC.2018.2800523
 pages: 191-193
 publisher:

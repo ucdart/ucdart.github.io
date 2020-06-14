@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2011
-month: Jul.
+month: Jul
 doi: 10.1109/APS.2011.5996480
 pages:
 publisher:

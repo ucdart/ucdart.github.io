@@ -6,12 +6,12 @@ journal:
 volume:
 number:
 year: 2019
-month: Jan.
+month: Jan
 doi: 10.1109/RWS.2019.8714548
 pages:
 publisher:
 booktitle: IEEE Radio & Wireless Symposium (RWS)
-note: 
+note:
 sort_key: 201901
 bib_key: manafe2019
 topic:

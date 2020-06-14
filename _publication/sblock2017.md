@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2017
-month: Jun.
+month: Jun
 doi: 10.1109/ISCAS.2017.8050447
 pages:
 publisher:

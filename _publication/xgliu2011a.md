@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2011
-month: Jan.
+month: Jan
 doi: 10.1109/MEMSYS.2011.5734545
 pages:
 publisher:

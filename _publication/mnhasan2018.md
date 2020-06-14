@@ -6,7 +6,7 @@ journal: IEEE Transactions on Microwave Theory and Techniques Applications
 volume: 66
 number: 6
 year: 2018
-month: Jun.
+month: Jun
 doi: 10.1109/TMTT.2018.2809573
 pages: 2775-2790
 publisher:

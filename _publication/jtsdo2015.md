@@ -6,12 +6,12 @@ journal:
 volume:
 number:
 year: 2015
-month: Apr.
+month: Apr
 doi: 10.1109/WAMICON.2015.7120401
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)
-note: 
+note:
 sort_key: 201504
 bib_key: jtsdo2015
 ---

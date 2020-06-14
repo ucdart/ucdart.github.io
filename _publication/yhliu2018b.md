@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2018
-month: Jul.
+month: Jul
 doi: 10.1109/APUSNCURSINRSM.2018.8608865
 pages:
 publisher:

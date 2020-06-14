@@ -14,5 +14,5 @@ booktitle:
 patent: US 15/646,956
 note: Application
 sort_key: 201501
-bib_key: jhihath2015
+bib_key: jhihath2015p
 ---

@@ -6,7 +6,7 @@ journal: IEEE Microwave and Wireless Component Letters
 volume: 21
 number: 8
 year: 2011
-month: Aug.
+month: Aug
 doi: 10.1109/LMWC.2011.2160159
 pages: 406-408
 publisher:

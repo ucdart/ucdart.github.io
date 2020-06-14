@@ -6,13 +6,13 @@ journal:
 volume:
 number:
 year: 2018
-month: Jan
+month: Aug
 doi:
 pages:
 publisher:
 booktitle:
-patent: US 62/765,076, PCT/US2019/046879
+patent: PCT/US2019/046879
 note: Application
-sort_key: 201801
-bib_key: mhsohrabi2018
+sort_key: 201808
+bib_key: mhsohrabi2018p
 ---

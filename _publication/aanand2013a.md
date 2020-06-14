@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2013
-month: Jan.
+month: Jan
 doi:
 pages:
 publisher:

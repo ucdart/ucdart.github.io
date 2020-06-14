@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2014
-month: Sep.
+month: Sep
 doi: 10.1109/IRMMW-THz.2014.6956434
 pages:
 publisher:

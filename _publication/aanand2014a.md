@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2014
-month: Apr.
+month: Apr
 doi: 10.1109/IEEE-IWS.2014.6864203
 pages:
 publisher:

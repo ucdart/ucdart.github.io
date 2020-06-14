@@ -6,7 +6,7 @@ journal: IEEE Transactions on Microwave Theory and Techniques
 volume: 58
 number: 12
 year: 2010
-month: Dec.
+month: Dec
 doi: 10.1109/TMTT.2010.2088135
 pages: 3971-3981
 publisher:

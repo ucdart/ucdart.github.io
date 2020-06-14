@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2019
-month:
+month: May
 doi: 10.1109/ICMMT45702.2019.8992839
 pages:
 publisher:

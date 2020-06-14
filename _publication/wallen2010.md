@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2010
-month: Jan.
+month: Jan
 doi: 10.1109/RWS.2010.5434249
 pages:
 publisher:

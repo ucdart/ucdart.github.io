@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2015
-month: Jul.
+month: Jul
 doi: 10.1109/IMWS-AMP.2015.7324955
 pages:
 publisher:

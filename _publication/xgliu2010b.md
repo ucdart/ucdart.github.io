@@ -6,7 +6,7 @@ journal: IEEE Microwave and Wireless Component Letters
 volume: 20
 number: 11
 year: 2010
-month: Nov.
+month: Nov
 doi: 10.1109/LMWC.2010.2059696
 pages: 610-612
 publisher:

@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2013
-month: Jan.
+month: Jan
 doi: 10.1109/ICCE.2013.6487018
 pages:
 publisher:

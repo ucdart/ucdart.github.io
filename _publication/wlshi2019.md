@@ -6,7 +6,7 @@ journal: IEEE Access
 volume: 7
 number:
 year: 2019
-month:
+month: Jan
 doi: 10.1109/ACCESS.2018.2889877
 pages: 6412-6423
 publisher:

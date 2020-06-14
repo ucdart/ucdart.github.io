@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2017
-month: Apr.
+month: Apr
 doi: 10.1109/WAMICON.2017.7930275
 pages:
 publisher:

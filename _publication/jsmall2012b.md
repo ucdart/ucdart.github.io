@@ -6,7 +6,7 @@ journal: Journal of Micromechanics and Microengineering
 volume: 22
 number: 12
 year: 2012
-month: Dec.
+month: Dec
 doi: 10.1088/0960-1317/22/12/125029
 pages: 125029
 publisher:

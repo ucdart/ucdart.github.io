@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2019
-month: Apr.
+month: Apr
 doi:
 pages:
 publisher:

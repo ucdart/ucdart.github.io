@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2008
-month: Jun.
+month: Jun
 doi: 10.1109/MWSYM.2008.4633098
 pages:
 publisher:

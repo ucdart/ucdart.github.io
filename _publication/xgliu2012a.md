@@ -6,7 +6,7 @@ journal: IEEE Transactions on Microwave Theory and Techniques
 volume: 60
 number: 2
 year: 2012
-month: Feb.
+month: Feb
 doi: 10.1109/TMTT.2011.2176136
 pages: 270-283
 publisher:

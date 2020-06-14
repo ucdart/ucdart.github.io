@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2019
-month: Apr.
+month: Apr
 doi: 10.1109/WAMICON.2019.8765439
 pages:
 publisher:

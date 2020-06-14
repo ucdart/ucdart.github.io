@@ -6,12 +6,12 @@ journal:
 volume:
 number:
 year: 2015
-month: Jan.
+month: Jan
 doi: 10.1109/RWS.2015.7129732
 pages: 141-143
 publisher:
 booktitle: 2015 IEEE Radio and Wireless Symposium (RWS)
-note: 
+note:
 sort_key: 201501
 bib_key: chkim2015
 ---

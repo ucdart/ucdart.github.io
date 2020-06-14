@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2016
-month: Jan.
+month: Jan
 doi: 10.1109/SIRF.2016.7445473
 pages:
 publisher:

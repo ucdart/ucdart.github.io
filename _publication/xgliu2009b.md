@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2009
-month: Dec.
+month: Dec
 doi: 10.1109/APMC.2009.5385409
 pages:
 publisher:

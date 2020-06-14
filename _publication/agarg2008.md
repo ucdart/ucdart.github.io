@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2008
-month: Oct.
+month: Oct
 doi: 10.1115/IMECE2008-68008
 pages:
 publisher:

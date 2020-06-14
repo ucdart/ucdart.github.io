@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2015
-month: Apr.
+month: Apr
 doi: 10.1109/WAMICON.2015.7120436
 pages:
 publisher:

@@ -4,9 +4,9 @@ title: Magnetic-free Circulator Based On Spatio-Temporal Modulation Implemented 
 author: Mahmoud Nafe, M. Naimul Hasan, Hind Reggad, Daniel Kuzmenko, Jingjun Chen, Xiaoguang Liu
 journal:
 volume:
-number: 
+number:
 year: 2018
-month: Jul.
+month: Jul
 doi: 10.1109/USNC-URSI.2018.8602797
 pages:
 publisher:

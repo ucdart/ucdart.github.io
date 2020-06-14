@@ -6,7 +6,7 @@ journal:
 volume:
 number:
 year: 2011
-month: Oct.
+month: Oct
 doi:
 pages:
 publisher:

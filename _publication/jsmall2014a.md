@@ -6,7 +6,7 @@ journal: Journal of Visualized Experiments
 volume: 90
 number: 90
 year: 2014
-month: Aug.
+month: Aug
 doi: 10.3791/51251
 pages: e51251
 publisher:
