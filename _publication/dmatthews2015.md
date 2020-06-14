@@ -12,7 +12,7 @@ pages:
 publisher:
 booktitle:
 patent: US 15/035,9463
-note:
+note: Application
 sort_key: 201501
 bib_key: dmatthews2015
 ---

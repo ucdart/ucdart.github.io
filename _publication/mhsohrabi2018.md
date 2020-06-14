@@ -12,7 +12,7 @@ pages:
 publisher:
 booktitle:
 patent: US 62/765,076, PCT/US2019/046879
-note:
+note: Application
 sort_key: 201801
 bib_key: mhsohrabi2018
 ---
