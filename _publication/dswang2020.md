@@ -6,7 +6,7 @@ journal:  Computers and Electronics in Agriculture
 volume:
 number:
 year: 2020
-month: Feb
+month:
 doi:
 pages:
 publisher:
