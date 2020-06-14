@@ -8,7 +8,7 @@ number: 8
 year: 2016
 month: Aug
 doi: 10.1109/TMTT.2016.2580140
-pages: 2548 - 2560
+pages: 2548-2560
 publisher:
 booktitle:
 note:
