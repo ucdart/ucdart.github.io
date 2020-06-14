@@ -6,7 +6,7 @@ journal: International Journal of RF and Microwave Computer-Aided Engineering
 volume: 30
 number: 
 year: 2020
-month: February
+month: Feb
 doi: 10.1002/mmce.22059
 pages: e22059
 publisher:
