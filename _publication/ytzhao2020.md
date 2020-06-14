@@ -6,13 +6,13 @@ journal:
 volume:
 number:
 year: 2020
-month: Jul
-doi: 
+month: Nov
+doi:
 pages:
 publisher:
-booktitle: 2020 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting
+booktitle: 2020 IEEE International Workshop on Electromagnetics
 note: Accepted
-sort_key: 202007
+sort_key: 202011
 bib_key: ytzhao2020
 topic:
 ---
