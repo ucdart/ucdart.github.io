@@ -1,7 +1,7 @@
 ---
 type: article
-title: Environmental
-author: Dashuai Wang,
+title: Environmental Perception and Autonomous Obstacle Avoidance: A Deep Learning and Depth Camera Combined Solution
+author: Dashuai Wang, Wei Li, Xiaoguang Liu, Nan Li, Junxiong Zhang, and Chunlong Zhang
 journal: Com
 volume:
 number:
