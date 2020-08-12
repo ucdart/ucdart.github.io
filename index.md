@@ -19,7 +19,7 @@ We are a group of researchers with a keen interest in many exciting areas of hig
 - Microelectronic and photonic devices, such as micro-electromechanical (MEMS) devices;
 - Novel antennas, frequency selective surfaces, and passive components;
 - Reconfigurable high-frequency circuits and systems;
-- High-precision sensing systems using radar and laser time-of-flight (ToF) principles;
+<!-- - High-precision sensing systems using radar and laser time-of-flight (ToF) principles; -->
 - Applications of high-frequency electronics to biomedical, industrial, environmental, and humanitarian problems;
 - High-speed wireline and optical communications circuits.
 
