@@ -7,7 +7,7 @@ volume:
 number:
 year: 2019
 month: Apr
-doi:
+doi: 10.1109/WAMICON.2019.8765441
 pages:
 publisher:
 booktitle: IEEE Wireless and Microwave Technology Conference (WAMICON)

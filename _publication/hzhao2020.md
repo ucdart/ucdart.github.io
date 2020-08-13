@@ -10,7 +10,7 @@ month: Jul
 doi:
 pages:
 publisher:
-booktitle: IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting
+booktitle: International Conferences of the IEEE Engineering in Medicine and Biology Society
 note: Accepted
 sort_key: 202007
 bib_key: hzhao2020

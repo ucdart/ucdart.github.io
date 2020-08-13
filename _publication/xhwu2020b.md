@@ -1,6 +1,6 @@
 ---
 type: article
-title: Frequency Tunable Non-Reciprocal Bandpass Filter Using Time-Modulated Microstrip $\lambda_g/2$ Resonators
+title: Frequency Tunable Non-Reciprocal Bandpass Filter Using Time-Modulated Microstrip Resonators
 author: Xiaohu Wu, Mahmoud Nafe, Alejandro Alvarez Melccn, Juan Sebastian Gomez-Diaz, and Xiaoguang Liu
 journal: IEEE Transactions on Circuits and Systems II: Express Briefs
 volume:

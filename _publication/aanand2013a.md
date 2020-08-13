@@ -7,7 +7,7 @@ volume:
 number:
 year: 2013
 month: Jan
-doi:
+doi: 10.1109/USNC-URSI-NRSM.2013.6525080
 pages:
 publisher:
 booktitle: USNC-URSI National Radio Science Meeting
