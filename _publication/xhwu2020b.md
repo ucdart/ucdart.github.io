@@ -11,7 +11,7 @@ doi: 10.1109/TCSII.2020.3014499
 pages:
 publisher:
 booktitle:
-note:
+note: Accepted
 sort_key: 202010
 bib_key: xhwu2020b
 ---
