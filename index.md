@@ -5,6 +5,9 @@ published: true
 use_math: true
 ---
 
+<div class="alert alert-success">
+    <strong>We have moved to the Southern University of Science and Technology (SUSTech), Shenzhen, China!</strong>
+</div>
 
 ### Welcome to the Davis Advanced RF Technologies (DART) lab
 <!---
