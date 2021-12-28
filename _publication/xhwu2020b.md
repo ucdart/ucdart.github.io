@@ -1,17 +1,17 @@
 ---
 type: article
-title: Frequency Tunable Non-Reciprocal Bandpass Filter Using Time-Modulated Microstrip Resonators
-author: Xiaohu Wu, Mahmoud Nafe, Alejandro Alvarez Melccn, Juan Sebastian Gomez-Diaz, and Xiaoguang Liu
-journal: IEEE Transactions on Circuits and Systems II: Express Briefs
-volume:
+title: Quasi-Reflectionless Microstrip Bandpass Filters With Improved Passband Flatness and Out-of-Band Rejection
+author: Xiaohu Wu, Yingsong Li, and Xiaoguang Liu
+journal: IEEE Access
+volume: 8
 number:
 year: 2020
-month:
-doi: 10.1109/TCSII.2020.3014499
-pages:
+month: Sep
+doi: 10.1109/ACCESS.2020.3021314
+pages: 160500-160514
 publisher:
 booktitle:
-note: Accepted
-sort_key: 202010
+note:
+sort_key: 202009
 bib_key: xhwu2020b
 ---

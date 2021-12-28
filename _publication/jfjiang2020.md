@@ -6,12 +6,12 @@ journal: Applied Computational Electromagnetics Society Journal
 volume: 35
 number: 5
 year: 2020
-month: 
+month: May
 doi:
-pages:
+pages: 556-566
 publisher:
 booktitle:
 note:
-sort_key: 202007
+sort_key: 202005
 bib_key: jfjiang2020
 ---
