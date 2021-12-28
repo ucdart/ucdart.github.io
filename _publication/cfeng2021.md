@@ -1,8 +1,8 @@
 ---
-type: journal
+type: article
 title: Multitarget Vital Signs Measurement With Chest Motion Imaging Based on MIMO Radar
 author: Chen Feng, Xiaonan Jiang, Min-Gyo Jeong, Hong Hong, Chang-Hong Fu, Xiaohui Yang, E Wang, Xiaohua Zhu, and Xiaoguang Liu
-journal: IEEE Transactions on Microwave Thoery
+journal: IEEE Transactions on Microwave Theory and Techniques
 volume: 69
 number: 11
 year: 2021

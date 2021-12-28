@@ -3,15 +3,15 @@ type: article
 title: Design Method of Varactor-tuned Planar Bandpass Filters with Wide Tunable Frequency Range and Single Bias Control
 author: Taejun Lim, James Chen, Akash Anand, Xiaoguang Liu, and Yongshik Lee
 journal: IEEE Transactions on Circuits and Systems II
-volume:
-number:
+volume: 68
+number: 1
 year: 2020
-month:
+month: Jan
 doi: 10.1109/TCSII.2020.3004614
-pages:
+pages: 221-225
 publisher:
 booktitle:
-note: Accepted
+note:
 sort_key: 202007
 bib_key: tjlee2020
 ---

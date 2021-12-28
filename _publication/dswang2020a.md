@@ -11,7 +11,7 @@ doi: 10.1016/j.compag.2020.105523
 pages:
 publisher:
 booktitle:
-note: Accepted
+note:
 sort_key: 202008
-bib_key: dswang2020
+bib_key: dswang2020a
 ---
