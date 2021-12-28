@@ -7,7 +7,7 @@ use_math: true
 
 <div class="alert alert-success">
     <h1><span style="color: #ed6c00;">We have moved to the Southern University of Science and Technology (SUSTech), Shenzhen, China!</span></h1>
-    <h3><span style="color: #ed6c00;">This website will go offline by the end of 2022!</span></h3>
+    <h3><span style="color: #ed6c00;">This website will go offline by Jul 2022!</span></h3>
 </div>
 
 ### Welcome to the Davis Advanced RF Technologies (DART) lab
